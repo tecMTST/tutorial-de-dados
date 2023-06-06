@@ -1,0 +1,19 @@
+Mortalidade Geral
+Óbitos Residentes MSP por Idade Detalhada e Distrito Admin residência
+Sexo: Ignorado
+Raça/Cor: Parda
+Período:2010-2019
+"Idade Detalhada";"Capão Redondo";"Carrão";"Cidade Ademar";"Freguesia do Ó";"Grajaú";"Tremembé";"Total"
+"< 1 hora";-;-;-;-;-;1;1
+"< 1 dia, horas ign";-;-;1;-;-;-;1
+"1 dia";-;-;-;-;1;-;1
+"2 dias";-;-;-;1;-;-;1
+"21 dias";-;1;-;-;-;-;1
+"60 anos";1;-;-;-;-;-;1
+"Total";1;1;1;1;1;1;6
+Fonte: Sistema de Informações sobre Mortalidade – SIM/PRO-AIM – CEInfo –SMS-SP
+Notas:
+1. Para tabulações de proporções, o campo referente à proporção deve constar em linhas ou colunas.
+2. Os coeficientes de mortalidade podem ser tabuladas por Distrito Administrativo e seus agregados (Supervisão de Saúde e Região), faixa etária e sexo.
+3. Os coeficientes de mortalidade por homicídio, aids, tuberculose e acidentes de trânsito foram calculados por 100.000 habitantes. 
+4. A partir de 2005, os óbitos por acidentes de trânsito foram qualificados com o apoio da Companhia de Engenharia de Tráfego – CET.

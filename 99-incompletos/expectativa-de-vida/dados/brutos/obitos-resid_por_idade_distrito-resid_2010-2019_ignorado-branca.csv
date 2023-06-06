@@ -1,0 +1,23 @@
+Mortalidade Geral
+Óbitos Residentes MSP por Idade Detalhada e Distrito Admin residência
+Sexo: Ignorado
+Raça/Cor: Branca
+Período:2010-2019
+"Idade Detalhada";"Belém";"Campo Grande";"Consolação";"Grajaú";"Iguatemi";"Itaim Paulista";"Lajeado";"Santo Amaro";"Vila Medeiros";"Ignorado";"Total"
+"< 1 hora";-;-;-;-;-;1;-;-;-;-;1
+"1 hora";-;-;1;-;-;-;-;-;-;-;1
+"3 horas";-;-;-;-;1;-;-;-;-;-;1
+"20 horas";-;-;-;1;-;-;-;-;-;-;1
+"2 dias";-;-;-;-;-;-;-;1;-;-;1
+"4 dias";1;-;-;-;-;-;-;-;-;-;1
+"17 dias";-;-;-;-;-;-;1;-;-;-;1
+"75 anos";-;-;-;-;-;-;-;-;1;-;1
+"95 anos";-;1;-;-;-;-;-;-;-;-;1
+"Ignorado";-;-;-;-;-;-;-;-;-;1;1
+"Total";1;1;1;1;1;1;1;1;1;1;10
+Fonte: Sistema de Informações sobre Mortalidade – SIM/PRO-AIM – CEInfo –SMS-SP
+Notas:
+1. Para tabulações de proporções, o campo referente à proporção deve constar em linhas ou colunas.
+2. Os coeficientes de mortalidade podem ser tabuladas por Distrito Administrativo e seus agregados (Supervisão de Saúde e Região), faixa etária e sexo.
+3. Os coeficientes de mortalidade por homicídio, aids, tuberculose e acidentes de trânsito foram calculados por 100.000 habitantes. 
+4. A partir de 2005, os óbitos por acidentes de trânsito foram qualificados com o apoio da Companhia de Engenharia de Tráfego – CET.
