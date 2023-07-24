@@ -19,11 +19,12 @@ Todos os tutoriais são
     └── requirements.txt          <- Pacotes de Python necessários.
 
 Os tutoriais estão organizados por assunto analisado, em pastas que começam com um número. Com exceção
-dos materiais complementares e dos tutoriais em construção, esses números indicam a ordem aproximada dos tutoriais,
+dos materiais complementares e dos tutoriais em desenvolvimento, esses números indicam a ordem aproximada dos tutoriais,
 em termos de sua complexidade.
 
-Para escolher um tutorial com base no assunto tratado, na técnica de análise de dados abordado,
-ou no método de Python utilizado, siga a lista no arquivo [00_indice.ipynb](00_indice.ipynb).
+Para escolher um tutorial com base no assunto tratado, na técnica de análise de dados abordada
+ou no método de Python utilizado, siga a lista no arquivo [00_indice.ipynb](00_indice.ipynb). Esse notebook também dá
+uma sugestão de ordem didática para os notebooks.
 
 
 ## Como usar este material
@@ -66,24 +67,34 @@ Em seguida, siga as instruções abaixo:
 2. Use o comando `cd` para entrar no diretório onde gostaria de copiar o tutorial.
 3. Clone o tutorial com o comando:
 
+```
     git clone https://github.com/tecMTST/tutorial-de-dados.git
+```
 
 4. Acesse o diretório do tutorial:
 
+```
     cd tutorial-de-dados
+```
 
 5. Crie um ambiente virtual e ative-o:
 
+```
     python3 -m venv env
     source env/bin/activate
+```
 
 6. Instale os pacotes de Python necessários:
 
+```
     pip install -r requirements.txt
+```
 
 7. Execute o jupyter lab:
 
+```
     jupyter lab &
+```
 
 ### Jupyter Lite
 
