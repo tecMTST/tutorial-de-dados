@@ -27,6 +27,15 @@ ou no método de Python utilizado, siga a lista no arquivo [00_indice.ipynb](00_
 uma sugestão de ordem didática para os notebooks.
 
 
+## Por que escolhemos Notebooks de Python?
+
+* Seu uso é comum entre analistas e cientistas de dados.
+* Usar múltiplos aplicativos e/ou linguagens numa mesma análise a torna mais bagunçada e menos reprodutível. É melhor manter tudo num mesmo ambiente.
+* Python é uma linguagem bastante flexível que pode ser usada para realizar qualquer coisa: 
+  raspagem de dados, automação, processamento e limpeza de dados, análises estatísticas, gráficos e visualizações, modelos de aprendizado de máquina, entre outros.
+* Python e Jupyter Notebooks são ferramentas gratuitas feitas em código aberto; qualquer pessoa pode utilizá-los sem custo ou restrições.
+
+
 ## Como usar este material
 
 📝 Tente reproduzir os códigos e a lógica de análise você mesmo. Isso vai lhe ajudar a entender e memorizar o assunto. 
@@ -40,8 +49,9 @@ uma sugestão de ordem didática para os notebooks.
 
 ## Requisitos
 
-🐍 Assumimos que você já saiba o básico de Python. Caso não saiba, faça o curso do
-[Núcleo de Tecnologia](http://nucleodetecnologia.com.br)! 🚩
+🐍 Assumimos que você já saiba o básico de Python. Caso não saiba, veja nosso 
+[notebook de Python básico](80_material-complementar/00_tutorial-python.ipynb) 
+ou faça o curso do Núcleo de Tecnologia](http://nucleodetecnologia.com.br)! 🚩
 
 💻 Você tem 3 opções para abrir e executar os notebooks: localmente, no
 [Jupyter Lite](https://jupyter.org/try-jupyter/lab/) ou no
