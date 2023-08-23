@@ -51,7 +51,7 @@ uma sugestão de ordem didática para os notebooks.
 
 🐍 Assumimos que você já saiba o básico de Python. Caso não saiba, veja nosso 
 [notebook de Python básico](80_material-complementar/00_tutorial-python.ipynb) 
-ou faça o curso do Núcleo de Tecnologia](http://nucleodetecnologia.com.br)! 🚩
+ou faça o curso do [Núcleo de Tecnologia](http://nucleodetecnologia.com.br)! 🚩
 
 💻 Você tem 3 opções para abrir e executar os notebooks: localmente, no
 [Jupyter Lite](https://jupyter.org/try-jupyter/lab/) ou no
