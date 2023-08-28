@@ -114,4 +114,4 @@ _Em construção_
 
 _Em construção_
 
-![Logotipo do Núcleo de Tecnologia](https://nucleodetecnologia.com.br/assets/img/novo-logo-tecnologia.svg?bl=tutorial-00 =200x200)
+<img src="https://nucleodetecnologia.com.br/assets/img/novo-logo-tecnologia.svg?bl=tutorial-00" width="250")
