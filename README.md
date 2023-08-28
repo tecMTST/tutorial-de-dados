@@ -114,4 +114,4 @@ _Em construção_
 
 _Em construção_
 
-<img src="https://nucleodetecnologia.com.br/assets/img/novo-logo-tecnologia.svg?bl=tutorial-00" width="250")
+<img src="https://nucleodetecnologia.com.br/assets/img/novo-logo-tecnologia.svg?bl=tutorial-00" width="250">
