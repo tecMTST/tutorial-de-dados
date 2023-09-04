@@ -25,9 +25,14 @@ class DataDownloader:
         except requests.exceptions.RequestException as e:
             print(f"Não foi possível coletar o arquivo. Erro: {e}")
 
-    def unzip_file(self, zip_file_path, destination_dir):
+    def unzip_all_file(self, zip_file_path, destination_dir):
         with zipfile.ZipFile(zip_file_path, 'r') as zip_ref:
             zip_ref.extractall(destination_dir)
+
+    def unzip_file(self, zip_file_path, file_name, destination_dir):
+        with zipfile.ZipFile(zip_file_path, 'r') as zip_ref:
+            zip_ref.extract(file_name, destination_dir)
+
 
 class VotacaoSecaoDownloader(DataDownloader):
     def __init__(self, base_dir='dados/brutos'):
@@ -83,7 +88,8 @@ class ColigacaoDownloader(DataDownloader):
         for ano in tqdm(anos, desc="Descompactando zipfile"):
             zip_file_path = os.path.join(coligacao_dir, f'coligacao_{ano}.zip')
             csv_file_path = os.path.join(self.base_dir, uf, str(ano))
-            self.unzip_file(zip_file_path, csv_file_path)
+            file_name = f'consulta_coligacao_{ano}_{uf}.csv'
+            self.unzip_file(zip_file_path, file_name, csv_file_path)
 
 class CandidatoDownloader(DataDownloader):
     def __init__(self, base_dir='dados/brutos'):
@@ -106,9 +112,10 @@ class CandidatoDownloader(DataDownloader):
     def unzip(self, anos, uf):
         coligacao_dir = os.path.join(self.base_dir, 'candidato')
         for ano in tqdm(anos, desc="Descompactando zipfile"):
-            zip_file_path = os.path.join(coligacao_dir, f'consulta_cand_{ano}.zip')
+            zip_file_path = os.path.join(coligacao_dir, f'candidato_{ano}.zip')
             csv_file_path = os.path.join(self.base_dir, uf, str(ano))
-            self.unzip_file(zip_file_path, csv_file_path)
+            file_name = f'consulta_cand_{ano}_{uf}.csv'
+            self.unzip_file(zip_file_path, file_name, csv_file_path)
 
 if __name__ == "__main__":
     votacao_secao_downloader = VotacaoSecaoDownloader()

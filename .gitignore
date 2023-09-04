@@ -12,3 +12,6 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+
+# Dados
+.01_financiamento-eleitoral/dados/brutos
