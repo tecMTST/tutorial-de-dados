@@ -62,7 +62,46 @@ ou faça o curso do [Núcleo de Tecnologia](http://nucleodetecnologia.com.br)! �
 
 #### Windows
 
-_Em construção_
+Você precisa ter os programas
+[git](https://site.alura.com.br/artigos/o-que-e-git-github),
+python 3, [pip](https://pt.wikipedia.org/wiki/Pip_(gerenciador_de_pacotes)) e
+[venv](https://docs.python.org/pt-br/3/library/venv.html). Se não tiver, instale-os.
+Em seguida, siga as instruções abaixo:
+
+
+1. Abra o terminal.
+2. Use o comando `cd` para entrar no diretório onde gostaria de copiar o tutorial.
+3. Clone o tutorial com o comando:
+
+```
+    git clone https://github.com/tecMTST/tutorial-de-dados.git
+```
+
+4. Acesse o diretório do tutorial:
+
+```
+    cd tutorial-de-dados
+```
+
+5. Crie um ambiente virtual e ative-o:
+
+```
+    python -m venv env
+    .\env\Scripts\activate
+```
+
+6. Instale os pacotes de Python necessários:
+
+```
+    pip install -r requirements.txt
+```
+
+7. Execute o jupyter lab:
+
+```
+    jupyter lab
+```
+
 
 #### Linux
 
