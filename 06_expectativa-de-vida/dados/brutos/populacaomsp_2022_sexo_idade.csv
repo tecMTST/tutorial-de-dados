@@ -1,0 +1,3073 @@
+cod_distrito;distrito;ano;sexo;faixa_etaria;populacao
+80001;Água Rasa;2022;Homens;00 a 04;2114
+80001;Água Rasa;2022;Homens;05 a 09;2328
+80001;Água Rasa;2022;Homens;10 a 14;2092
+80001;Água Rasa;2022;Homens;15 a 19;1960
+80001;Água Rasa;2022;Homens;20 a 24;2303
+80001;Água Rasa;2022;Homens;25 a 29;2554
+80001;Água Rasa;2022;Homens;30 a 34;2853
+80001;Água Rasa;2022;Homens;35 a 39;3156
+80001;Água Rasa;2022;Homens;40 a 44;3124
+80001;Água Rasa;2022;Homens;45 a 49;2857
+80001;Água Rasa;2022;Homens;50 a 54;2521
+80001;Água Rasa;2022;Homens;55 a 59;2482
+80001;Água Rasa;2022;Homens;60 a 64;2386
+80001;Água Rasa;2022;Homens;65 a 69;1942
+80001;Água Rasa;2022;Homens;70 a 74;1418
+80001;Água Rasa;2022;Homens;75 e + ;1966
+80001;Água Rasa;2022;Mulheres;00 a 04;2023
+80001;Água Rasa;2022;Mulheres;05 a 09;2230
+80001;Água Rasa;2022;Mulheres;10 a 14;2021
+80001;Água Rasa;2022;Mulheres;15 a 19;1959
+80001;Água Rasa;2022;Mulheres;20 a 24;2233
+80001;Água Rasa;2022;Mulheres;25 a 29;2538
+80001;Água Rasa;2022;Mulheres;30 a 34;2904
+80001;Água Rasa;2022;Mulheres;35 a 39;3213
+80001;Água Rasa;2022;Mulheres;40 a 44;3452
+80001;Água Rasa;2022;Mulheres;45 a 49;3222
+80001;Água Rasa;2022;Mulheres;50 a 54;3017
+80001;Água Rasa;2022;Mulheres;55 a 59;3109
+80001;Água Rasa;2022;Mulheres;60 a 64;3053
+80001;Água Rasa;2022;Mulheres;65 a 69;2692
+80001;Água Rasa;2022;Mulheres;70 a 74;2244
+80001;Água Rasa;2022;Mulheres;75 e + ;3998
+80002;Alto de Pinheiros;2022;Homens;00 a 04;753
+80002;Alto de Pinheiros;2022;Homens;05 a 09;839
+80002;Alto de Pinheiros;2022;Homens;10 a 14;844
+80002;Alto de Pinheiros;2022;Homens;15 a 19;860
+80002;Alto de Pinheiros;2022;Homens;20 a 24;1003
+80002;Alto de Pinheiros;2022;Homens;25 a 29;1174
+80002;Alto de Pinheiros;2022;Homens;30 a 34;1311
+80002;Alto de Pinheiros;2022;Homens;35 a 39;1351
+80002;Alto de Pinheiros;2022;Homens;40 a 44;1435
+80002;Alto de Pinheiros;2022;Homens;45 a 49;1352
+80002;Alto de Pinheiros;2022;Homens;50 a 54;1231
+80002;Alto de Pinheiros;2022;Homens;55 a 59;1307
+80002;Alto de Pinheiros;2022;Homens;60 a 64;1273
+80002;Alto de Pinheiros;2022;Homens;65 a 69;1140
+80002;Alto de Pinheiros;2022;Homens;70 a 74;938
+80002;Alto de Pinheiros;2022;Homens;75 e + ;1561
+80002;Alto de Pinheiros;2022;Mulheres;00 a 04;718
+80002;Alto de Pinheiros;2022;Mulheres;05 a 09;800
+80002;Alto de Pinheiros;2022;Mulheres;10 a 14;834
+80002;Alto de Pinheiros;2022;Mulheres;15 a 19;854
+80002;Alto de Pinheiros;2022;Mulheres;20 a 24;955
+80002;Alto de Pinheiros;2022;Mulheres;25 a 29;1107
+80002;Alto de Pinheiros;2022;Mulheres;30 a 34;1358
+80002;Alto de Pinheiros;2022;Mulheres;35 a 39;1572
+80002;Alto de Pinheiros;2022;Mulheres;40 a 44;1729
+80002;Alto de Pinheiros;2022;Mulheres;45 a 49;1672
+80002;Alto de Pinheiros;2022;Mulheres;50 a 54;1587
+80002;Alto de Pinheiros;2022;Mulheres;55 a 59;1717
+80002;Alto de Pinheiros;2022;Mulheres;60 a 64;1714
+80002;Alto de Pinheiros;2022;Mulheres;65 a 69;1555
+80002;Alto de Pinheiros;2022;Mulheres;70 a 74;1369
+80002;Alto de Pinheiros;2022;Mulheres;75 e + ;2540
+80003;Anhanguera;2022;Homens;00 a 04;3085
+80003;Anhanguera;2022;Homens;05 a 09;2998
+80003;Anhanguera;2022;Homens;10 a 14;2883
+80003;Anhanguera;2022;Homens;15 a 19;3165
+80003;Anhanguera;2022;Homens;20 a 24;3967
+80003;Anhanguera;2022;Homens;25 a 29;4109
+80003;Anhanguera;2022;Homens;30 a 34;3835
+80003;Anhanguera;2022;Homens;35 a 39;3464
+80003;Anhanguera;2022;Homens;40 a 44;3147
+80003;Anhanguera;2022;Homens;45 a 49;3023
+80003;Anhanguera;2022;Homens;50 a 54;2942
+80003;Anhanguera;2022;Homens;55 a 59;2394
+80003;Anhanguera;2022;Homens;60 a 64;1696
+80003;Anhanguera;2022;Homens;65 a 69;1110
+80003;Anhanguera;2022;Homens;70 a 74;641
+80003;Anhanguera;2022;Homens;75 e + ;455
+80003;Anhanguera;2022;Mulheres;00 a 04;2946
+80003;Anhanguera;2022;Mulheres;05 a 09;2866
+80003;Anhanguera;2022;Mulheres;10 a 14;2791
+80003;Anhanguera;2022;Mulheres;15 a 19;3064
+80003;Anhanguera;2022;Mulheres;20 a 24;3860
+80003;Anhanguera;2022;Mulheres;25 a 29;4193
+80003;Anhanguera;2022;Mulheres;30 a 34;4005
+80003;Anhanguera;2022;Mulheres;35 a 39;3727
+80003;Anhanguera;2022;Mulheres;40 a 44;3480
+80003;Anhanguera;2022;Mulheres;45 a 49;3355
+80003;Anhanguera;2022;Mulheres;50 a 54;3071
+80003;Anhanguera;2022;Mulheres;55 a 59;2516
+80003;Anhanguera;2022;Mulheres;60 a 64;1830
+80003;Anhanguera;2022;Mulheres;65 a 69;1243
+80003;Anhanguera;2022;Mulheres;70 a 74;740
+80003;Anhanguera;2022;Mulheres;75 e + ;738
+80004;Aricanduva;2022;Homens;00 a 04;2405
+80004;Aricanduva;2022;Homens;05 a 09;2544
+80004;Aricanduva;2022;Homens;10 a 14;2420
+80004;Aricanduva;2022;Homens;15 a 19;2482
+80004;Aricanduva;2022;Homens;20 a 24;2961
+80004;Aricanduva;2022;Homens;25 a 29;3114
+80004;Aricanduva;2022;Homens;30 a 34;3226
+80004;Aricanduva;2022;Homens;35 a 39;3360
+80004;Aricanduva;2022;Homens;40 a 44;3133
+80004;Aricanduva;2022;Homens;45 a 49;2857
+80004;Aricanduva;2022;Homens;50 a 54;2716
+80004;Aricanduva;2022;Homens;55 a 59;2458
+80004;Aricanduva;2022;Homens;60 a 64;2173
+80004;Aricanduva;2022;Homens;65 a 69;1746
+80004;Aricanduva;2022;Homens;70 a 74;1293
+80004;Aricanduva;2022;Homens;75 e + ;1681
+80004;Aricanduva;2022;Mulheres;00 a 04;2302
+80004;Aricanduva;2022;Mulheres;05 a 09;2436
+80004;Aricanduva;2022;Mulheres;10 a 14;2328
+80004;Aricanduva;2022;Mulheres;15 a 19;2408
+80004;Aricanduva;2022;Mulheres;20 a 24;2906
+80004;Aricanduva;2022;Mulheres;25 a 29;3077
+80004;Aricanduva;2022;Mulheres;30 a 34;3242
+80004;Aricanduva;2022;Mulheres;35 a 39;3540
+80004;Aricanduva;2022;Mulheres;40 a 44;3470
+80004;Aricanduva;2022;Mulheres;45 a 49;3230
+80004;Aricanduva;2022;Mulheres;50 a 54;3059
+80004;Aricanduva;2022;Mulheres;55 a 59;2923
+80004;Aricanduva;2022;Mulheres;60 a 64;2733
+80004;Aricanduva;2022;Mulheres;65 a 69;2369
+80004;Aricanduva;2022;Mulheres;70 a 74;1967
+80004;Aricanduva;2022;Mulheres;75 e + ;3068
+80005;Artur Alvim;2022;Homens;00 a 04;2808
+80005;Artur Alvim;2022;Homens;05 a 09;2999
+80005;Artur Alvim;2022;Homens;10 a 14;2870
+80005;Artur Alvim;2022;Homens;15 a 19;2893
+80005;Artur Alvim;2022;Homens;20 a 24;3418
+80005;Artur Alvim;2022;Homens;25 a 29;3630
+80005;Artur Alvim;2022;Homens;30 a 34;3752
+80005;Artur Alvim;2022;Homens;35 a 39;4052
+80005;Artur Alvim;2022;Homens;40 a 44;3987
+80005;Artur Alvim;2022;Homens;45 a 49;3506
+80005;Artur Alvim;2022;Homens;50 a 54;2938
+80005;Artur Alvim;2022;Homens;55 a 59;2633
+80005;Artur Alvim;2022;Homens;60 a 64;2286
+80005;Artur Alvim;2022;Homens;65 a 69;1871
+80005;Artur Alvim;2022;Homens;70 a 74;1403
+80005;Artur Alvim;2022;Homens;75 e + ;1692
+80005;Artur Alvim;2022;Mulheres;00 a 04;2682
+80005;Artur Alvim;2022;Mulheres;05 a 09;2868
+80005;Artur Alvim;2022;Mulheres;10 a 14;2802
+80005;Artur Alvim;2022;Mulheres;15 a 19;2835
+80005;Artur Alvim;2022;Mulheres;20 a 24;3344
+80005;Artur Alvim;2022;Mulheres;25 a 29;3613
+80005;Artur Alvim;2022;Mulheres;30 a 34;3923
+80005;Artur Alvim;2022;Mulheres;35 a 39;4365
+80005;Artur Alvim;2022;Mulheres;40 a 44;4376
+80005;Artur Alvim;2022;Mulheres;45 a 49;3990
+80005;Artur Alvim;2022;Mulheres;50 a 54;3506
+80005;Artur Alvim;2022;Mulheres;55 a 59;3248
+80005;Artur Alvim;2022;Mulheres;60 a 64;3079
+80005;Artur Alvim;2022;Mulheres;65 a 69;2763
+80005;Artur Alvim;2022;Mulheres;70 a 74;2286
+80005;Artur Alvim;2022;Mulheres;75 e + ;3198
+80006;Barra Funda;2022;Homens;00 a 04;470
+80006;Barra Funda;2022;Homens;05 a 09;526
+80006;Barra Funda;2022;Homens;10 a 14;437
+80006;Barra Funda;2022;Homens;15 a 19;389
+80006;Barra Funda;2022;Homens;20 a 24;422
+80006;Barra Funda;2022;Homens;25 a 29;485
+80006;Barra Funda;2022;Homens;30 a 34;577
+80006;Barra Funda;2022;Homens;35 a 39;689
+80006;Barra Funda;2022;Homens;40 a 44;710
+80006;Barra Funda;2022;Homens;45 a 49;639
+80006;Barra Funda;2022;Homens;50 a 54;511
+80006;Barra Funda;2022;Homens;55 a 59;421
+80006;Barra Funda;2022;Homens;60 a 64;393
+80006;Barra Funda;2022;Homens;65 a 69;334
+80006;Barra Funda;2022;Homens;70 a 74;251
+80006;Barra Funda;2022;Homens;75 e + ;322
+80006;Barra Funda;2022;Mulheres;00 a 04;451
+80006;Barra Funda;2022;Mulheres;05 a 09;504
+80006;Barra Funda;2022;Mulheres;10 a 14;461
+80006;Barra Funda;2022;Mulheres;15 a 19;430
+80006;Barra Funda;2022;Mulheres;20 a 24;445
+80006;Barra Funda;2022;Mulheres;25 a 29;465
+80006;Barra Funda;2022;Mulheres;30 a 34;619
+80006;Barra Funda;2022;Mulheres;35 a 39;805
+80006;Barra Funda;2022;Mulheres;40 a 44;839
+80006;Barra Funda;2022;Mulheres;45 a 49;737
+80006;Barra Funda;2022;Mulheres;50 a 54;576
+80006;Barra Funda;2022;Mulheres;55 a 59;537
+80006;Barra Funda;2022;Mulheres;60 a 64;524
+80006;Barra Funda;2022;Mulheres;65 a 69;458
+80006;Barra Funda;2022;Mulheres;70 a 74;406
+80006;Barra Funda;2022;Mulheres;75 e + ;741
+80007;Bela Vista;2022;Homens;00 a 04;1846
+80007;Bela Vista;2022;Homens;05 a 09;2113
+80007;Bela Vista;2022;Homens;10 a 14;1663
+80007;Bela Vista;2022;Homens;15 a 19;1350
+80007;Bela Vista;2022;Homens;20 a 24;1416
+80007;Bela Vista;2022;Homens;25 a 29;1696
+80007;Bela Vista;2022;Homens;30 a 34;2778
+80007;Bela Vista;2022;Homens;35 a 39;4217
+80007;Bela Vista;2022;Homens;40 a 44;4194
+80007;Bela Vista;2022;Homens;45 a 49;3230
+80007;Bela Vista;2022;Homens;50 a 54;2532
+80007;Bela Vista;2022;Homens;55 a 59;2158
+80007;Bela Vista;2022;Homens;60 a 64;1835
+80007;Bela Vista;2022;Homens;65 a 69;1522
+80007;Bela Vista;2022;Homens;70 a 74;1152
+80007;Bela Vista;2022;Homens;75 e + ;1462
+80007;Bela Vista;2022;Mulheres;00 a 04;1755
+80007;Bela Vista;2022;Mulheres;05 a 09;2010
+80007;Bela Vista;2022;Mulheres;10 a 14;1628
+80007;Bela Vista;2022;Mulheres;15 a 19;1310
+80007;Bela Vista;2022;Mulheres;20 a 24;1371
+80007;Bela Vista;2022;Mulheres;25 a 29;1697
+80007;Bela Vista;2022;Mulheres;30 a 34;2729
+80007;Bela Vista;2022;Mulheres;35 a 39;4115
+80007;Bela Vista;2022;Mulheres;40 a 44;4078
+80007;Bela Vista;2022;Mulheres;45 a 49;3186
+80007;Bela Vista;2022;Mulheres;50 a 54;2606
+80007;Bela Vista;2022;Mulheres;55 a 59;2393
+80007;Bela Vista;2022;Mulheres;60 a 64;2352
+80007;Bela Vista;2022;Mulheres;65 a 69;2209
+80007;Bela Vista;2022;Mulheres;70 a 74;1859
+80007;Bela Vista;2022;Mulheres;75 e + ;2956
+80008;Belém;2022;Homens;00 a 04;1781
+80008;Belém;2022;Homens;05 a 09;2072
+80008;Belém;2022;Homens;10 a 14;1613
+80008;Belém;2022;Homens;15 a 19;1276
+80008;Belém;2022;Homens;20 a 24;1315
+80008;Belém;2022;Homens;25 a 29;1399
+80008;Belém;2022;Homens;30 a 34;1805
+80008;Belém;2022;Homens;35 a 39;2302
+80008;Belém;2022;Homens;40 a 44;2229
+80008;Belém;2022;Homens;45 a 49;1852
+80008;Belém;2022;Homens;50 a 54;1476
+80008;Belém;2022;Homens;55 a 59;1306
+80008;Belém;2022;Homens;60 a 64;1156
+80008;Belém;2022;Homens;65 a 69;947
+80008;Belém;2022;Homens;70 a 74;663
+80008;Belém;2022;Homens;75 e + ;818
+80008;Belém;2022;Mulheres;00 a 04;1704
+80008;Belém;2022;Mulheres;05 a 09;1985
+80008;Belém;2022;Mulheres;10 a 14;1561
+80008;Belém;2022;Mulheres;15 a 19;1257
+80008;Belém;2022;Mulheres;20 a 24;1342
+80008;Belém;2022;Mulheres;25 a 29;1381
+80008;Belém;2022;Mulheres;30 a 34;1671
+80008;Belém;2022;Mulheres;35 a 39;2120
+80008;Belém;2022;Mulheres;40 a 44;2163
+80008;Belém;2022;Mulheres;45 a 49;1809
+80008;Belém;2022;Mulheres;50 a 54;1542
+80008;Belém;2022;Mulheres;55 a 59;1514
+80008;Belém;2022;Mulheres;60 a 64;1422
+80008;Belém;2022;Mulheres;65 a 69;1275
+80008;Belém;2022;Mulheres;70 a 74;1018
+80008;Belém;2022;Mulheres;75 e + ;1881
+80009;Bom Retiro;2022;Homens;00 a 04;1371
+80009;Bom Retiro;2022;Homens;05 a 09;1512
+80009;Bom Retiro;2022;Homens;10 a 14;1276
+80009;Bom Retiro;2022;Homens;15 a 19;1139
+80009;Bom Retiro;2022;Homens;20 a 24;1247
+80009;Bom Retiro;2022;Homens;25 a 29;1368
+80009;Bom Retiro;2022;Homens;30 a 34;1662
+80009;Bom Retiro;2022;Homens;35 a 39;1846
+80009;Bom Retiro;2022;Homens;40 a 44;1750
+80009;Bom Retiro;2022;Homens;45 a 49;1414
+80009;Bom Retiro;2022;Homens;50 a 54;1152
+80009;Bom Retiro;2022;Homens;55 a 59;972
+80009;Bom Retiro;2022;Homens;60 a 64;836
+80009;Bom Retiro;2022;Homens;65 a 69;667
+80009;Bom Retiro;2022;Homens;70 a 74;451
+80009;Bom Retiro;2022;Homens;75 e + ;571
+80009;Bom Retiro;2022;Mulheres;00 a 04;1312
+80009;Bom Retiro;2022;Mulheres;05 a 09;1448
+80009;Bom Retiro;2022;Mulheres;10 a 14;1259
+80009;Bom Retiro;2022;Mulheres;15 a 19;1125
+80009;Bom Retiro;2022;Mulheres;20 a 24;1229
+80009;Bom Retiro;2022;Mulheres;25 a 29;1274
+80009;Bom Retiro;2022;Mulheres;30 a 34;1549
+80009;Bom Retiro;2022;Mulheres;35 a 39;1847
+80009;Bom Retiro;2022;Mulheres;40 a 44;1763
+80009;Bom Retiro;2022;Mulheres;45 a 49;1441
+80009;Bom Retiro;2022;Mulheres;50 a 54;1237
+80009;Bom Retiro;2022;Mulheres;55 a 59;1143
+80009;Bom Retiro;2022;Mulheres;60 a 64;996
+80009;Bom Retiro;2022;Mulheres;65 a 69;862
+80009;Bom Retiro;2022;Mulheres;70 a 74;669
+80009;Bom Retiro;2022;Mulheres;75 e + ;1140
+80010;Brás;2022;Homens;00 a 04;1243
+80010;Brás;2022;Homens;05 a 09;1416
+80010;Brás;2022;Homens;10 a 14;1081
+80010;Brás;2022;Homens;15 a 19;892
+80010;Brás;2022;Homens;20 a 24;993
+80010;Brás;2022;Homens;25 a 29;1128
+80010;Brás;2022;Homens;30 a 34;1402
+80010;Brás;2022;Homens;35 a 39;1633
+80010;Brás;2022;Homens;40 a 44;1539
+80010;Brás;2022;Homens;45 a 49;1308
+80010;Brás;2022;Homens;50 a 54;1071
+80010;Brás;2022;Homens;55 a 59;873
+80010;Brás;2022;Homens;60 a 64;733
+80010;Brás;2022;Homens;65 a 69;549
+80010;Brás;2022;Homens;70 a 74;389
+80010;Brás;2022;Homens;75 e + ;392
+80010;Brás;2022;Mulheres;00 a 04;1191
+80010;Brás;2022;Mulheres;05 a 09;1359
+80010;Brás;2022;Mulheres;10 a 14;1020
+80010;Brás;2022;Mulheres;15 a 19;864
+80010;Brás;2022;Mulheres;20 a 24;1005
+80010;Brás;2022;Mulheres;25 a 29;1084
+80010;Brás;2022;Mulheres;30 a 34;1362
+80010;Brás;2022;Mulheres;35 a 39;1585
+80010;Brás;2022;Mulheres;40 a 44;1486
+80010;Brás;2022;Mulheres;45 a 49;1249
+80010;Brás;2022;Mulheres;50 a 54;1046
+80010;Brás;2022;Mulheres;55 a 59;923
+80010;Brás;2022;Mulheres;60 a 64;838
+80010;Brás;2022;Mulheres;65 a 69;688
+80010;Brás;2022;Mulheres;70 a 74;487
+80010;Brás;2022;Mulheres;75 e + ;698
+80011;Brasilândia;2022;Homens;00 a 04;11426
+80011;Brasilândia;2022;Homens;05 a 09;11710
+80011;Brasilândia;2022;Homens;10 a 14;10115
+80011;Brasilândia;2022;Homens;15 a 19;9968
+80011;Brasilândia;2022;Homens;20 a 24;11844
+80011;Brasilândia;2022;Homens;25 a 29;11855
+80011;Brasilândia;2022;Homens;30 a 34;11325
+80011;Brasilândia;2022;Homens;35 a 39;11069
+80011;Brasilândia;2022;Homens;40 a 44;9986
+80011;Brasilândia;2022;Homens;45 a 49;8759
+80011;Brasilândia;2022;Homens;50 a 54;7899
+80011;Brasilândia;2022;Homens;55 a 59;6575
+80011;Brasilândia;2022;Homens;60 a 64;5225
+80011;Brasilândia;2022;Homens;65 a 69;3869
+80011;Brasilândia;2022;Homens;70 a 74;2578
+80011;Brasilândia;2022;Homens;75 e + ;2531
+80011;Brasilândia;2022;Mulheres;00 a 04;10914
+80011;Brasilândia;2022;Mulheres;05 a 09;11197
+80011;Brasilândia;2022;Mulheres;10 a 14;9847
+80011;Brasilândia;2022;Mulheres;15 a 19;9910
+80011;Brasilândia;2022;Mulheres;20 a 24;12095
+80011;Brasilândia;2022;Mulheres;25 a 29;12393
+80011;Brasilândia;2022;Mulheres;30 a 34;12008
+80011;Brasilândia;2022;Mulheres;35 a 39;11909
+80011;Brasilândia;2022;Mulheres;40 a 44;11217
+80011;Brasilândia;2022;Mulheres;45 a 49;9992
+80011;Brasilândia;2022;Mulheres;50 a 54;9038
+80011;Brasilândia;2022;Mulheres;55 a 59;7959
+80011;Brasilândia;2022;Mulheres;60 a 64;6625
+80011;Brasilândia;2022;Mulheres;65 a 69;5131
+80011;Brasilândia;2022;Mulheres;70 a 74;3797
+80011;Brasilândia;2022;Mulheres;75 e + ;4577
+80012;Butantã;2022;Homens;00 a 04;1250
+80012;Butantã;2022;Homens;05 a 09;1386
+80012;Butantã;2022;Homens;10 a 14;1284
+80012;Butantã;2022;Homens;15 a 19;1195
+80012;Butantã;2022;Homens;20 a 24;1305
+80012;Butantã;2022;Homens;25 a 29;1492
+80012;Butantã;2022;Homens;30 a 34;2054
+80012;Butantã;2022;Homens;35 a 39;2607
+80012;Butantã;2022;Homens;40 a 44;2460
+80012;Butantã;2022;Homens;45 a 49;2003
+80012;Butantã;2022;Homens;50 a 54;1685
+80012;Butantã;2022;Homens;55 a 59;1550
+80012;Butantã;2022;Homens;60 a 64;1425
+80012;Butantã;2022;Homens;65 a 69;1238
+80012;Butantã;2022;Homens;70 a 74;981
+80012;Butantã;2022;Homens;75 e + ;1407
+80012;Butantã;2022;Mulheres;00 a 04;1192
+80012;Butantã;2022;Mulheres;05 a 09;1322
+80012;Butantã;2022;Mulheres;10 a 14;1186
+80012;Butantã;2022;Mulheres;15 a 19;1123
+80012;Butantã;2022;Mulheres;20 a 24;1276
+80012;Butantã;2022;Mulheres;25 a 29;1487
+80012;Butantã;2022;Mulheres;30 a 34;1945
+80012;Butantã;2022;Mulheres;35 a 39;2550
+80012;Butantã;2022;Mulheres;40 a 44;2612
+80012;Butantã;2022;Mulheres;45 a 49;2209
+80012;Butantã;2022;Mulheres;50 a 54;1925
+80012;Butantã;2022;Mulheres;55 a 59;1880
+80012;Butantã;2022;Mulheres;60 a 64;1845
+80012;Butantã;2022;Mulheres;65 a 69;1731
+80012;Butantã;2022;Mulheres;70 a 74;1473
+80012;Butantã;2022;Mulheres;75 e + ;2484
+80013;Cachoeirinha;2022;Homens;00 a 04;5333
+80013;Cachoeirinha;2022;Homens;05 a 09;5630
+80013;Cachoeirinha;2022;Homens;10 a 14;5062
+80013;Cachoeirinha;2022;Homens;15 a 19;4986
+80013;Cachoeirinha;2022;Homens;20 a 24;5748
+80013;Cachoeirinha;2022;Homens;25 a 29;5893
+80013;Cachoeirinha;2022;Homens;30 a 34;5889
+80013;Cachoeirinha;2022;Homens;35 a 39;5896
+80013;Cachoeirinha;2022;Homens;40 a 44;5479
+80013;Cachoeirinha;2022;Homens;45 a 49;4689
+80013;Cachoeirinha;2022;Homens;50 a 54;4154
+80013;Cachoeirinha;2022;Homens;55 a 59;3600
+80013;Cachoeirinha;2022;Homens;60 a 64;3052
+80013;Cachoeirinha;2022;Homens;65 a 69;2276
+80013;Cachoeirinha;2022;Homens;70 a 74;1484
+80013;Cachoeirinha;2022;Homens;75 e + ;1547
+80013;Cachoeirinha;2022;Mulheres;00 a 04;5087
+80013;Cachoeirinha;2022;Mulheres;05 a 09;5371
+80013;Cachoeirinha;2022;Mulheres;10 a 14;4857
+80013;Cachoeirinha;2022;Mulheres;15 a 19;4743
+80013;Cachoeirinha;2022;Mulheres;20 a 24;5604
+80013;Cachoeirinha;2022;Mulheres;25 a 29;5928
+80013;Cachoeirinha;2022;Mulheres;30 a 34;6008
+80013;Cachoeirinha;2022;Mulheres;35 a 39;6321
+80013;Cachoeirinha;2022;Mulheres;40 a 44;6100
+80013;Cachoeirinha;2022;Mulheres;45 a 49;5362
+80013;Cachoeirinha;2022;Mulheres;50 a 54;4779
+80013;Cachoeirinha;2022;Mulheres;55 a 59;4400
+80013;Cachoeirinha;2022;Mulheres;60 a 64;3896
+80013;Cachoeirinha;2022;Mulheres;65 a 69;3090
+80013;Cachoeirinha;2022;Mulheres;70 a 74;2279
+80013;Cachoeirinha;2022;Mulheres;75 e + ;2801
+80014;Cambuci;2022;Homens;00 a 04;1176
+80014;Cambuci;2022;Homens;05 a 09;1294
+80014;Cambuci;2022;Homens;10 a 14;1225
+80014;Cambuci;2022;Homens;15 a 19;1150
+80014;Cambuci;2022;Homens;20 a 24;1210
+80014;Cambuci;2022;Homens;25 a 29;1239
+80014;Cambuci;2022;Homens;30 a 34;1366
+80014;Cambuci;2022;Homens;35 a 39;1603
+80014;Cambuci;2022;Homens;40 a 44;1707
+80014;Cambuci;2022;Homens;45 a 49;1560
+80014;Cambuci;2022;Homens;50 a 54;1340
+80014;Cambuci;2022;Homens;55 a 59;1156
+80014;Cambuci;2022;Homens;60 a 64;988
+80014;Cambuci;2022;Homens;65 a 69;789
+80014;Cambuci;2022;Homens;70 a 74;566
+80014;Cambuci;2022;Homens;75 e + ;772
+80014;Cambuci;2022;Mulheres;00 a 04;1126
+80014;Cambuci;2022;Mulheres;05 a 09;1240
+80014;Cambuci;2022;Mulheres;10 a 14;1148
+80014;Cambuci;2022;Mulheres;15 a 19;1076
+80014;Cambuci;2022;Mulheres;20 a 24;1196
+80014;Cambuci;2022;Mulheres;25 a 29;1263
+80014;Cambuci;2022;Mulheres;30 a 34;1496
+80014;Cambuci;2022;Mulheres;35 a 39;1821
+80014;Cambuci;2022;Mulheres;40 a 44;1907
+80014;Cambuci;2022;Mulheres;45 a 49;1773
+80014;Cambuci;2022;Mulheres;50 a 54;1507
+80014;Cambuci;2022;Mulheres;55 a 59;1356
+80014;Cambuci;2022;Mulheres;60 a 64;1308
+80014;Cambuci;2022;Mulheres;65 a 69;1152
+80014;Cambuci;2022;Mulheres;70 a 74;889
+80014;Cambuci;2022;Mulheres;75 e + ;1617
+80015;Campo Belo;2022;Homens;00 a 04;1499
+80015;Campo Belo;2022;Homens;05 a 09;1702
+80015;Campo Belo;2022;Homens;10 a 14;1615
+80015;Campo Belo;2022;Homens;15 a 19;1470
+80015;Campo Belo;2022;Homens;20 a 24;1531
+80015;Campo Belo;2022;Homens;25 a 29;1624
+80015;Campo Belo;2022;Homens;30 a 34;1914
+80015;Campo Belo;2022;Homens;35 a 39;2312
+80015;Campo Belo;2022;Homens;40 a 44;2520
+80015;Campo Belo;2022;Homens;45 a 49;2357
+80015;Campo Belo;2022;Homens;50 a 54;2100
+80015;Campo Belo;2022;Homens;55 a 59;1963
+80015;Campo Belo;2022;Homens;60 a 64;1798
+80015;Campo Belo;2022;Homens;65 a 69;1585
+80015;Campo Belo;2022;Homens;70 a 74;1252
+80015;Campo Belo;2022;Homens;75 e + ;1881
+80015;Campo Belo;2022;Mulheres;00 a 04;1432
+80015;Campo Belo;2022;Mulheres;05 a 09;1624
+80015;Campo Belo;2022;Mulheres;10 a 14;1558
+80015;Campo Belo;2022;Mulheres;15 a 19;1512
+80015;Campo Belo;2022;Mulheres;20 a 24;1614
+80015;Campo Belo;2022;Mulheres;25 a 29;1652
+80015;Campo Belo;2022;Mulheres;30 a 34;2039
+80015;Campo Belo;2022;Mulheres;35 a 39;2637
+80015;Campo Belo;2022;Mulheres;40 a 44;2872
+80015;Campo Belo;2022;Mulheres;45 a 49;2780
+80015;Campo Belo;2022;Mulheres;50 a 54;2424
+80015;Campo Belo;2022;Mulheres;55 a 59;2312
+80015;Campo Belo;2022;Mulheres;60 a 64;2297
+80015;Campo Belo;2022;Mulheres;65 a 69;2140
+80015;Campo Belo;2022;Mulheres;70 a 74;1826
+80015;Campo Belo;2022;Mulheres;75 e + ;3335
+80016;Campo Grande;2022;Homens;00 a 04;2718
+80016;Campo Grande;2022;Homens;05 a 09;3001
+80016;Campo Grande;2022;Homens;10 a 14;3015
+80016;Campo Grande;2022;Homens;15 a 19;3025
+80016;Campo Grande;2022;Homens;20 a 24;3365
+80016;Campo Grande;2022;Homens;25 a 29;3511
+80016;Campo Grande;2022;Homens;30 a 34;3554
+80016;Campo Grande;2022;Homens;35 a 39;3864
+80016;Campo Grande;2022;Homens;40 a 44;4171
+80016;Campo Grande;2022;Homens;45 a 49;3955
+80016;Campo Grande;2022;Homens;50 a 54;3695
+80016;Campo Grande;2022;Homens;55 a 59;3455
+80016;Campo Grande;2022;Homens;60 a 64;2988
+80016;Campo Grande;2022;Homens;65 a 69;2317
+80016;Campo Grande;2022;Homens;70 a 74;1613
+80016;Campo Grande;2022;Homens;75 e + ;1921
+80016;Campo Grande;2022;Mulheres;00 a 04;2600
+80016;Campo Grande;2022;Mulheres;05 a 09;2873
+80016;Campo Grande;2022;Mulheres;10 a 14;2883
+80016;Campo Grande;2022;Mulheres;15 a 19;2894
+80016;Campo Grande;2022;Mulheres;20 a 24;3295
+80016;Campo Grande;2022;Mulheres;25 a 29;3469
+80016;Campo Grande;2022;Mulheres;30 a 34;3717
+80016;Campo Grande;2022;Mulheres;35 a 39;4323
+80016;Campo Grande;2022;Mulheres;40 a 44;4840
+80016;Campo Grande;2022;Mulheres;45 a 49;4739
+80016;Campo Grande;2022;Mulheres;50 a 54;4461
+80016;Campo Grande;2022;Mulheres;55 a 59;4205
+80016;Campo Grande;2022;Mulheres;60 a 64;3766
+80016;Campo Grande;2022;Mulheres;65 a 69;3132
+80016;Campo Grande;2022;Mulheres;70 a 74;2440
+80016;Campo Grande;2022;Mulheres;75 e + ;3544
+80017;Campo Limpo;2022;Homens;00 a 04;7907
+80017;Campo Limpo;2022;Homens;05 a 09;8236
+80017;Campo Limpo;2022;Homens;10 a 14;7860
+80017;Campo Limpo;2022;Homens;15 a 19;7844
+80017;Campo Limpo;2022;Homens;20 a 24;9087
+80017;Campo Limpo;2022;Homens;25 a 29;9169
+80017;Campo Limpo;2022;Homens;30 a 34;9175
+80017;Campo Limpo;2022;Homens;35 a 39;9526
+80017;Campo Limpo;2022;Homens;40 a 44;9244
+80017;Campo Limpo;2022;Homens;45 a 49;8256
+80017;Campo Limpo;2022;Homens;50 a 54;6917
+80017;Campo Limpo;2022;Homens;55 a 59;5489
+80017;Campo Limpo;2022;Homens;60 a 64;4486
+80017;Campo Limpo;2022;Homens;65 a 69;3421
+80017;Campo Limpo;2022;Homens;70 a 74;2283
+80017;Campo Limpo;2022;Homens;75 e + ;2167
+80017;Campo Limpo;2022;Mulheres;00 a 04;7556
+80017;Campo Limpo;2022;Mulheres;05 a 09;7879
+80017;Campo Limpo;2022;Mulheres;10 a 14;7482
+80017;Campo Limpo;2022;Mulheres;15 a 19;7527
+80017;Campo Limpo;2022;Mulheres;20 a 24;8896
+80017;Campo Limpo;2022;Mulheres;25 a 29;9253
+80017;Campo Limpo;2022;Mulheres;30 a 34;9559
+80017;Campo Limpo;2022;Mulheres;35 a 39;10350
+80017;Campo Limpo;2022;Mulheres;40 a 44;10325
+80017;Campo Limpo;2022;Mulheres;45 a 49;9260
+80017;Campo Limpo;2022;Mulheres;50 a 54;7937
+80017;Campo Limpo;2022;Mulheres;55 a 59;6769
+80017;Campo Limpo;2022;Mulheres;60 a 64;5824
+80017;Campo Limpo;2022;Mulheres;65 a 69;4682
+80017;Campo Limpo;2022;Mulheres;70 a 74;3386
+80017;Campo Limpo;2022;Mulheres;75 e + ;3913
+80018;Cangaíba;2022;Homens;00 a 04;4530
+80018;Cangaíba;2022;Homens;05 a 09;4771
+80018;Cangaíba;2022;Homens;10 a 14;4260
+80018;Cangaíba;2022;Homens;15 a 19;4191
+80018;Cangaíba;2022;Homens;20 a 24;5044
+80018;Cangaíba;2022;Homens;25 a 29;5341
+80018;Cangaíba;2022;Homens;30 a 34;5513
+80018;Cangaíba;2022;Homens;35 a 39;5527
+80018;Cangaíba;2022;Homens;40 a 44;5066
+80018;Cangaíba;2022;Homens;45 a 49;4498
+80018;Cangaíba;2022;Homens;50 a 54;4108
+80018;Cangaíba;2022;Homens;55 a 59;3734
+80018;Cangaíba;2022;Homens;60 a 64;3204
+80018;Cangaíba;2022;Homens;65 a 69;2444
+80018;Cangaíba;2022;Homens;70 a 74;1681
+80018;Cangaíba;2022;Homens;75 e + ;1885
+80018;Cangaíba;2022;Mulheres;00 a 04;4329
+80018;Cangaíba;2022;Mulheres;05 a 09;4565
+80018;Cangaíba;2022;Mulheres;10 a 14;4069
+80018;Cangaíba;2022;Mulheres;15 a 19;4010
+80018;Cangaíba;2022;Mulheres;20 a 24;4904
+80018;Cangaíba;2022;Mulheres;25 a 29;5321
+80018;Cangaíba;2022;Mulheres;30 a 34;5662
+80018;Cangaíba;2022;Mulheres;35 a 39;5995
+80018;Cangaíba;2022;Mulheres;40 a 44;5615
+80018;Cangaíba;2022;Mulheres;45 a 49;5128
+80018;Cangaíba;2022;Mulheres;50 a 54;4817
+80018;Cangaíba;2022;Mulheres;55 a 59;4609
+80018;Cangaíba;2022;Mulheres;60 a 64;4143
+80018;Cangaíba;2022;Mulheres;65 a 69;3391
+80018;Cangaíba;2022;Mulheres;70 a 74;2567
+80018;Cangaíba;2022;Mulheres;75 e + ;3550
+80019;Capão Redondo;2022;Homens;00 a 04;10991
+80019;Capão Redondo;2022;Homens;05 a 09;11332
+80019;Capão Redondo;2022;Homens;10 a 14;10371
+80019;Capão Redondo;2022;Homens;15 a 19;10372
+80019;Capão Redondo;2022;Homens;20 a 24;12099
+80019;Capão Redondo;2022;Homens;25 a 29;12361
+80019;Capão Redondo;2022;Homens;30 a 34;12231
+80019;Capão Redondo;2022;Homens;35 a 39;12312
+80019;Capão Redondo;2022;Homens;40 a 44;11435
+80019;Capão Redondo;2022;Homens;45 a 49;10032
+80019;Capão Redondo;2022;Homens;50 a 54;8642
+80019;Capão Redondo;2022;Homens;55 a 59;6844
+80019;Capão Redondo;2022;Homens;60 a 64;5358
+80019;Capão Redondo;2022;Homens;65 a 69;4128
+80019;Capão Redondo;2022;Homens;70 a 74;2838
+80019;Capão Redondo;2022;Homens;75 e + ;2556
+80019;Capão Redondo;2022;Mulheres;00 a 04;10501
+80019;Capão Redondo;2022;Mulheres;05 a 09;10839
+80019;Capão Redondo;2022;Mulheres;10 a 14;9906
+80019;Capão Redondo;2022;Mulheres;15 a 19;10088
+80019;Capão Redondo;2022;Mulheres;20 a 24;12165
+80019;Capão Redondo;2022;Mulheres;25 a 29;12565
+80019;Capão Redondo;2022;Mulheres;30 a 34;12843
+80019;Capão Redondo;2022;Mulheres;35 a 39;13424
+80019;Capão Redondo;2022;Mulheres;40 a 44;12922
+80019;Capão Redondo;2022;Mulheres;45 a 49;11401
+80019;Capão Redondo;2022;Mulheres;50 a 54;9941
+80019;Capão Redondo;2022;Mulheres;55 a 59;8581
+80019;Capão Redondo;2022;Mulheres;60 a 64;7261
+80019;Capão Redondo;2022;Mulheres;65 a 69;5838
+80019;Capão Redondo;2022;Mulheres;70 a 74;4196
+80019;Capão Redondo;2022;Mulheres;75 e + ;4484
+80020;Carrão;2022;Homens;00 a 04;2061
+80020;Carrão;2022;Homens;05 a 09;2247
+80020;Carrão;2022;Homens;10 a 14;2160
+80020;Carrão;2022;Homens;15 a 19;2187
+80020;Carrão;2022;Homens;20 a 24;2608
+80020;Carrão;2022;Homens;25 a 29;2877
+80020;Carrão;2022;Homens;30 a 34;3083
+80020;Carrão;2022;Homens;35 a 39;3235
+80020;Carrão;2022;Homens;40 a 44;3196
+80020;Carrão;2022;Homens;45 a 49;2982
+80020;Carrão;2022;Homens;50 a 54;2738
+80020;Carrão;2022;Homens;55 a 59;2643
+80020;Carrão;2022;Homens;60 a 64;2408
+80020;Carrão;2022;Homens;65 a 69;1945
+80020;Carrão;2022;Homens;70 a 74;1450
+80020;Carrão;2022;Homens;75 e + ;1966
+80020;Carrão;2022;Mulheres;00 a 04;1969
+80020;Carrão;2022;Mulheres;05 a 09;2147
+80020;Carrão;2022;Mulheres;10 a 14;2072
+80020;Carrão;2022;Mulheres;15 a 19;2151
+80020;Carrão;2022;Mulheres;20 a 24;2507
+80020;Carrão;2022;Mulheres;25 a 29;2684
+80020;Carrão;2022;Mulheres;30 a 34;2990
+80020;Carrão;2022;Mulheres;35 a 39;3425
+80020;Carrão;2022;Mulheres;40 a 44;3577
+80020;Carrão;2022;Mulheres;45 a 49;3386
+80020;Carrão;2022;Mulheres;50 a 54;3174
+80020;Carrão;2022;Mulheres;55 a 59;3231
+80020;Carrão;2022;Mulheres;60 a 64;3092
+80020;Carrão;2022;Mulheres;65 a 69;2672
+80020;Carrão;2022;Mulheres;70 a 74;2237
+80020;Carrão;2022;Mulheres;75 e + ;3779
+80021;Casa Verde;2022;Homens;00 a 04;2587
+80021;Casa Verde;2022;Homens;05 a 09;2802
+80021;Casa Verde;2022;Homens;10 a 14;2487
+80021;Casa Verde;2022;Homens;15 a 19;2365
+80021;Casa Verde;2022;Homens;20 a 24;2689
+80021;Casa Verde;2022;Homens;25 a 29;2813
+80021;Casa Verde;2022;Homens;30 a 34;3171
+80021;Casa Verde;2022;Homens;35 a 39;3474
+80021;Casa Verde;2022;Homens;40 a 44;3339
+80021;Casa Verde;2022;Homens;45 a 49;2837
+80021;Casa Verde;2022;Homens;50 a 54;2459
+80021;Casa Verde;2022;Homens;55 a 59;2326
+80021;Casa Verde;2022;Homens;60 a 64;2136
+80021;Casa Verde;2022;Homens;65 a 69;1732
+80021;Casa Verde;2022;Homens;70 a 74;1239
+80021;Casa Verde;2022;Homens;75 e + ;1585
+80021;Casa Verde;2022;Mulheres;00 a 04;2473
+80021;Casa Verde;2022;Mulheres;05 a 09;2682
+80021;Casa Verde;2022;Mulheres;10 a 14;2407
+80021;Casa Verde;2022;Mulheres;15 a 19;2310
+80021;Casa Verde;2022;Mulheres;20 a 24;2720
+80021;Casa Verde;2022;Mulheres;25 a 29;2957
+80021;Casa Verde;2022;Mulheres;30 a 34;3293
+80021;Casa Verde;2022;Mulheres;35 a 39;3740
+80021;Casa Verde;2022;Mulheres;40 a 44;3694
+80021;Casa Verde;2022;Mulheres;45 a 49;3299
+80021;Casa Verde;2022;Mulheres;50 a 54;2947
+80021;Casa Verde;2022;Mulheres;55 a 59;2881
+80021;Casa Verde;2022;Mulheres;60 a 64;2817
+80021;Casa Verde;2022;Mulheres;65 a 69;2481
+80021;Casa Verde;2022;Mulheres;70 a 74;1978
+80021;Casa Verde;2022;Mulheres;75 e + ;3198
+80022;Cidade Ademar;2022;Homens;00 a 04;10249
+80022;Cidade Ademar;2022;Homens;05 a 09;10707
+80022;Cidade Ademar;2022;Homens;10 a 14;9535
+80022;Cidade Ademar;2022;Homens;15 a 19;9336
+80022;Cidade Ademar;2022;Homens;20 a 24;10850
+80022;Cidade Ademar;2022;Homens;25 a 29;11255
+80022;Cidade Ademar;2022;Homens;30 a 34;11644
+80022;Cidade Ademar;2022;Homens;35 a 39;11902
+80022;Cidade Ademar;2022;Homens;40 a 44;11156
+80022;Cidade Ademar;2022;Homens;45 a 49;9709
+80022;Cidade Ademar;2022;Homens;50 a 54;8323
+80022;Cidade Ademar;2022;Homens;55 a 59;6807
+80022;Cidade Ademar;2022;Homens;60 a 64;5480
+80022;Cidade Ademar;2022;Homens;65 a 69;4295
+80022;Cidade Ademar;2022;Homens;70 a 74;3087
+80022;Cidade Ademar;2022;Homens;75 e + ;3130
+80022;Cidade Ademar;2022;Mulheres;00 a 04;9792
+80022;Cidade Ademar;2022;Mulheres;05 a 09;10238
+80022;Cidade Ademar;2022;Mulheres;10 a 14;9385
+80022;Cidade Ademar;2022;Mulheres;15 a 19;9172
+80022;Cidade Ademar;2022;Mulheres;20 a 24;10777
+80022;Cidade Ademar;2022;Mulheres;25 a 29;11529
+80022;Cidade Ademar;2022;Mulheres;30 a 34;12194
+80022;Cidade Ademar;2022;Mulheres;35 a 39;12757
+80022;Cidade Ademar;2022;Mulheres;40 a 44;12360
+80022;Cidade Ademar;2022;Mulheres;45 a 49;11093
+80022;Cidade Ademar;2022;Mulheres;50 a 54;9688
+80022;Cidade Ademar;2022;Mulheres;55 a 59;8442
+80022;Cidade Ademar;2022;Mulheres;60 a 64;7462
+80022;Cidade Ademar;2022;Mulheres;65 a 69;6104
+80022;Cidade Ademar;2022;Mulheres;70 a 74;4509
+80022;Cidade Ademar;2022;Mulheres;75 e + ;5686
+80023;Cidade Dutra;2022;Homens;00 a 04;6748
+80023;Cidade Dutra;2022;Homens;05 a 09;7054
+80023;Cidade Dutra;2022;Homens;10 a 14;6460
+80023;Cidade Dutra;2022;Homens;15 a 19;6522
+80023;Cidade Dutra;2022;Homens;20 a 24;7831
+80023;Cidade Dutra;2022;Homens;25 a 29;8147
+80023;Cidade Dutra;2022;Homens;30 a 34;8170
+80023;Cidade Dutra;2022;Homens;35 a 39;8156
+80023;Cidade Dutra;2022;Homens;40 a 44;7653
+80023;Cidade Dutra;2022;Homens;45 a 49;6876
+80023;Cidade Dutra;2022;Homens;50 a 54;6163
+80023;Cidade Dutra;2022;Homens;55 a 59;5268
+80023;Cidade Dutra;2022;Homens;60 a 64;4363
+80023;Cidade Dutra;2022;Homens;65 a 69;3446
+80023;Cidade Dutra;2022;Homens;70 a 74;2474
+80023;Cidade Dutra;2022;Homens;75 e + ;2490
+80023;Cidade Dutra;2022;Mulheres;00 a 04;6438
+80023;Cidade Dutra;2022;Mulheres;05 a 09;6735
+80023;Cidade Dutra;2022;Mulheres;10 a 14;6217
+80023;Cidade Dutra;2022;Mulheres;15 a 19;6379
+80023;Cidade Dutra;2022;Mulheres;20 a 24;7671
+80023;Cidade Dutra;2022;Mulheres;25 a 29;8089
+80023;Cidade Dutra;2022;Mulheres;30 a 34;8379
+80023;Cidade Dutra;2022;Mulheres;35 a 39;8750
+80023;Cidade Dutra;2022;Mulheres;40 a 44;8553
+80023;Cidade Dutra;2022;Mulheres;45 a 49;7760
+80023;Cidade Dutra;2022;Mulheres;50 a 54;7035
+80023;Cidade Dutra;2022;Mulheres;55 a 59;6397
+80023;Cidade Dutra;2022;Mulheres;60 a 64;5758
+80023;Cidade Dutra;2022;Mulheres;65 a 69;4713
+80023;Cidade Dutra;2022;Mulheres;70 a 74;3573
+80023;Cidade Dutra;2022;Mulheres;75 e + ;4184
+80024;Cidade Líder;2022;Homens;00 a 04;4446
+80024;Cidade Líder;2022;Homens;05 a 09;4620
+80024;Cidade Líder;2022;Homens;10 a 14;4350
+80024;Cidade Líder;2022;Homens;15 a 19;4407
+80024;Cidade Líder;2022;Homens;20 a 24;5223
+80024;Cidade Líder;2022;Homens;25 a 29;5485
+80024;Cidade Líder;2022;Homens;30 a 34;5486
+80024;Cidade Líder;2022;Homens;35 a 39;5582
+80024;Cidade Líder;2022;Homens;40 a 44;5326
+80024;Cidade Líder;2022;Homens;45 a 49;4727
+80024;Cidade Líder;2022;Homens;50 a 54;4094
+80024;Cidade Líder;2022;Homens;55 a 59;3523
+80024;Cidade Líder;2022;Homens;60 a 64;3017
+80024;Cidade Líder;2022;Homens;65 a 69;2420
+80024;Cidade Líder;2022;Homens;70 a 74;1690
+80024;Cidade Líder;2022;Homens;75 e + ;1596
+80024;Cidade Líder;2022;Mulheres;00 a 04;4238
+80024;Cidade Líder;2022;Mulheres;05 a 09;4404
+80024;Cidade Líder;2022;Mulheres;10 a 14;4110
+80024;Cidade Líder;2022;Mulheres;15 a 19;4287
+80024;Cidade Líder;2022;Mulheres;20 a 24;5087
+80024;Cidade Líder;2022;Mulheres;25 a 29;5496
+80024;Cidade Líder;2022;Mulheres;30 a 34;5736
+80024;Cidade Líder;2022;Mulheres;35 a 39;5967
+80024;Cidade Líder;2022;Mulheres;40 a 44;5763
+80024;Cidade Líder;2022;Mulheres;45 a 49;5200
+80024;Cidade Líder;2022;Mulheres;50 a 54;4627
+80024;Cidade Líder;2022;Mulheres;55 a 59;4138
+80024;Cidade Líder;2022;Mulheres;60 a 64;3694
+80024;Cidade Líder;2022;Mulheres;65 a 69;3031
+80024;Cidade Líder;2022;Mulheres;70 a 74;2282
+80024;Cidade Líder;2022;Mulheres;75 e + ;2548
+80025;Cidade Tiradentes;2022;Homens;00 a 04;9202
+80025;Cidade Tiradentes;2022;Homens;05 a 09;9040
+80025;Cidade Tiradentes;2022;Homens;10 a 14;8479
+80025;Cidade Tiradentes;2022;Homens;15 a 19;9224
+80025;Cidade Tiradentes;2022;Homens;20 a 24;11036
+80025;Cidade Tiradentes;2022;Homens;25 a 29;10901
+80025;Cidade Tiradentes;2022;Homens;30 a 34;9950
+80025;Cidade Tiradentes;2022;Homens;35 a 39;9409
+80025;Cidade Tiradentes;2022;Homens;40 a 44;8465
+80025;Cidade Tiradentes;2022;Homens;45 a 49;7322
+80025;Cidade Tiradentes;2022;Homens;50 a 54;6237
+80025;Cidade Tiradentes;2022;Homens;55 a 59;5077
+80025;Cidade Tiradentes;2022;Homens;60 a 64;4130
+80025;Cidade Tiradentes;2022;Homens;65 a 69;3110
+80025;Cidade Tiradentes;2022;Homens;70 a 74;1888
+80025;Cidade Tiradentes;2022;Homens;75 e + ;1422
+80025;Cidade Tiradentes;2022;Mulheres;00 a 04;8778
+80025;Cidade Tiradentes;2022;Mulheres;05 a 09;8631
+80025;Cidade Tiradentes;2022;Mulheres;10 a 14;8369
+80025;Cidade Tiradentes;2022;Mulheres;15 a 19;9056
+80025;Cidade Tiradentes;2022;Mulheres;20 a 24;10917
+80025;Cidade Tiradentes;2022;Mulheres;25 a 29;11264
+80025;Cidade Tiradentes;2022;Mulheres;30 a 34;10494
+80025;Cidade Tiradentes;2022;Mulheres;35 a 39;10152
+80025;Cidade Tiradentes;2022;Mulheres;40 a 44;9609
+80025;Cidade Tiradentes;2022;Mulheres;45 a 49;8417
+80025;Cidade Tiradentes;2022;Mulheres;50 a 54;7221
+80025;Cidade Tiradentes;2022;Mulheres;55 a 59;6431
+80025;Cidade Tiradentes;2022;Mulheres;60 a 64;5658
+80025;Cidade Tiradentes;2022;Mulheres;65 a 69;4507
+80025;Cidade Tiradentes;2022;Mulheres;70 a 74;3005
+80025;Cidade Tiradentes;2022;Mulheres;75 e + ;2730
+80026;Consolação;2022;Homens;00 a 04;1137
+80026;Consolação;2022;Homens;05 a 09;1179
+80026;Consolação;2022;Homens;10 a 14;962
+80026;Consolação;2022;Homens;15 a 19;845
+80026;Consolação;2022;Homens;20 a 24;963
+80026;Consolação;2022;Homens;25 a 29;1315
+80026;Consolação;2022;Homens;30 a 34;2387
+80026;Consolação;2022;Homens;35 a 39;3199
+80026;Consolação;2022;Homens;40 a 44;2756
+80026;Consolação;2022;Homens;45 a 49;2142
+80026;Consolação;2022;Homens;50 a 54;1753
+80026;Consolação;2022;Homens;55 a 59;1709
+80026;Consolação;2022;Homens;60 a 64;1636
+80026;Consolação;2022;Homens;65 a 69;1344
+80026;Consolação;2022;Homens;70 a 74;1077
+80026;Consolação;2022;Homens;75 e + ;1618
+80026;Consolação;2022;Mulheres;00 a 04;1088
+80026;Consolação;2022;Mulheres;05 a 09;1127
+80026;Consolação;2022;Mulheres;10 a 14;928
+80026;Consolação;2022;Mulheres;15 a 19;862
+80026;Consolação;2022;Mulheres;20 a 24;958
+80026;Consolação;2022;Mulheres;25 a 29;1414
+80026;Consolação;2022;Mulheres;30 a 34;2673
+80026;Consolação;2022;Mulheres;35 a 39;3461
+80026;Consolação;2022;Mulheres;40 a 44;2942
+80026;Consolação;2022;Mulheres;45 a 49;2278
+80026;Consolação;2022;Mulheres;50 a 54;1972
+80026;Consolação;2022;Mulheres;55 a 59;2061
+80026;Consolação;2022;Mulheres;60 a 64;2154
+80026;Consolação;2022;Mulheres;65 a 69;2044
+80026;Consolação;2022;Mulheres;70 a 74;1779
+80026;Consolação;2022;Mulheres;75 e + ;3423
+80027;Cursino;2022;Homens;00 a 04;3029
+80027;Cursino;2022;Homens;05 a 09;3377
+80027;Cursino;2022;Homens;10 a 14;3223
+80027;Cursino;2022;Homens;15 a 19;3066
+80027;Cursino;2022;Homens;20 a 24;3359
+80027;Cursino;2022;Homens;25 a 29;3550
+80027;Cursino;2022;Homens;30 a 34;3969
+80027;Cursino;2022;Homens;35 a 39;4531
+80027;Cursino;2022;Homens;40 a 44;4514
+80027;Cursino;2022;Homens;45 a 49;3942
+80027;Cursino;2022;Homens;50 a 54;3549
+80027;Cursino;2022;Homens;55 a 59;3388
+80027;Cursino;2022;Homens;60 a 64;3134
+80027;Cursino;2022;Homens;65 a 69;2531
+80027;Cursino;2022;Homens;70 a 74;1821
+80027;Cursino;2022;Homens;75 e + ;2364
+80027;Cursino;2022;Mulheres;00 a 04;2900
+80027;Cursino;2022;Mulheres;05 a 09;3233
+80027;Cursino;2022;Mulheres;10 a 14;3042
+80027;Cursino;2022;Mulheres;15 a 19;2933
+80027;Cursino;2022;Mulheres;20 a 24;3197
+80027;Cursino;2022;Mulheres;25 a 29;3508
+80027;Cursino;2022;Mulheres;30 a 34;4084
+80027;Cursino;2022;Mulheres;35 a 39;4851
+80027;Cursino;2022;Mulheres;40 a 44;5062
+80027;Cursino;2022;Mulheres;45 a 49;4583
+80027;Cursino;2022;Mulheres;50 a 54;4136
+80027;Cursino;2022;Mulheres;55 a 59;4098
+80027;Cursino;2022;Mulheres;60 a 64;4085
+80027;Cursino;2022;Mulheres;65 a 69;3619
+80027;Cursino;2022;Mulheres;70 a 74;2793
+80027;Cursino;2022;Mulheres;75 e + ;4664
+80028;Ermelino Matarazzo;2022;Homens;00 a 04;3972
+80028;Ermelino Matarazzo;2022;Homens;05 a 09;4153
+80028;Ermelino Matarazzo;2022;Homens;10 a 14;3912
+80028;Ermelino Matarazzo;2022;Homens;15 a 19;3934
+80028;Ermelino Matarazzo;2022;Homens;20 a 24;4610
+80028;Ermelino Matarazzo;2022;Homens;25 a 29;4750
+80028;Ermelino Matarazzo;2022;Homens;30 a 34;4763
+80028;Ermelino Matarazzo;2022;Homens;35 a 39;4807
+80028;Ermelino Matarazzo;2022;Homens;40 a 44;4461
+80028;Ermelino Matarazzo;2022;Homens;45 a 49;4030
+80028;Ermelino Matarazzo;2022;Homens;50 a 54;3680
+80028;Ermelino Matarazzo;2022;Homens;55 a 59;3133
+80028;Ermelino Matarazzo;2022;Homens;60 a 64;2563
+80028;Ermelino Matarazzo;2022;Homens;65 a 69;2034
+80028;Ermelino Matarazzo;2022;Homens;70 a 74;1431
+80028;Ermelino Matarazzo;2022;Homens;75 e + ;1416
+80028;Ermelino Matarazzo;2022;Mulheres;00 a 04;3785
+80028;Ermelino Matarazzo;2022;Mulheres;05 a 09;3959
+80028;Ermelino Matarazzo;2022;Mulheres;10 a 14;3756
+80028;Ermelino Matarazzo;2022;Mulheres;15 a 19;3774
+80028;Ermelino Matarazzo;2022;Mulheres;20 a 24;4404
+80028;Ermelino Matarazzo;2022;Mulheres;25 a 29;4719
+80028;Ermelino Matarazzo;2022;Mulheres;30 a 34;5020
+80028;Ermelino Matarazzo;2022;Mulheres;35 a 39;5241
+80028;Ermelino Matarazzo;2022;Mulheres;40 a 44;4979
+80028;Ermelino Matarazzo;2022;Mulheres;45 a 49;4457
+80028;Ermelino Matarazzo;2022;Mulheres;50 a 54;4039
+80028;Ermelino Matarazzo;2022;Mulheres;55 a 59;3662
+80028;Ermelino Matarazzo;2022;Mulheres;60 a 64;3225
+80028;Ermelino Matarazzo;2022;Mulheres;65 a 69;2650
+80028;Ermelino Matarazzo;2022;Mulheres;70 a 74;1874
+80028;Ermelino Matarazzo;2022;Mulheres;75 e + ;2294
+80029;Freguesia do Ó;2022;Homens;00 a 04;4134
+80029;Freguesia do Ó;2022;Homens;05 a 09;4432
+80029;Freguesia do Ó;2022;Homens;10 a 14;3941
+80029;Freguesia do Ó;2022;Homens;15 a 19;3821
+80029;Freguesia do Ó;2022;Homens;20 a 24;4673
+80029;Freguesia do Ó;2022;Homens;25 a 29;4994
+80029;Freguesia do Ó;2022;Homens;30 a 34;5254
+80029;Freguesia do Ó;2022;Homens;35 a 39;5590
+80029;Freguesia do Ó;2022;Homens;40 a 44;5383
+80029;Freguesia do Ó;2022;Homens;45 a 49;4679
+80029;Freguesia do Ó;2022;Homens;50 a 54;4169
+80029;Freguesia do Ó;2022;Homens;55 a 59;3977
+80029;Freguesia do Ó;2022;Homens;60 a 64;3684
+80029;Freguesia do Ó;2022;Homens;65 a 69;2913
+80029;Freguesia do Ó;2022;Homens;70 a 74;2006
+80029;Freguesia do Ó;2022;Homens;75 e + ;2304
+80029;Freguesia do Ó;2022;Mulheres;00 a 04;3954
+80029;Freguesia do Ó;2022;Mulheres;05 a 09;4243
+80029;Freguesia do Ó;2022;Mulheres;10 a 14;3792
+80029;Freguesia do Ó;2022;Mulheres;15 a 19;3736
+80029;Freguesia do Ó;2022;Mulheres;20 a 24;4528
+80029;Freguesia do Ó;2022;Mulheres;25 a 29;4939
+80029;Freguesia do Ó;2022;Mulheres;30 a 34;5368
+80029;Freguesia do Ó;2022;Mulheres;35 a 39;6018
+80029;Freguesia do Ó;2022;Mulheres;40 a 44;5955
+80029;Freguesia do Ó;2022;Mulheres;45 a 49;5366
+80029;Freguesia do Ó;2022;Mulheres;50 a 54;4969
+80029;Freguesia do Ó;2022;Mulheres;55 a 59;4853
+80029;Freguesia do Ó;2022;Mulheres;60 a 64;4713
+80029;Freguesia do Ó;2022;Mulheres;65 a 69;3995
+80029;Freguesia do Ó;2022;Mulheres;70 a 74;3017
+80029;Freguesia do Ó;2022;Mulheres;75 e + ;4454
+80030;Grajaú;2022;Homens;00 a 04;15229
+80030;Grajaú;2022;Homens;05 a 09;15540
+80030;Grajaú;2022;Homens;10 a 14;14096
+80030;Grajaú;2022;Homens;15 a 19;14350
+80030;Grajaú;2022;Homens;20 a 24;17085
+80030;Grajaú;2022;Homens;25 a 29;17213
+80030;Grajaú;2022;Homens;30 a 34;16306
+80030;Grajaú;2022;Homens;35 a 39;15621
+80030;Grajaú;2022;Homens;40 a 44;14234
+80030;Grajaú;2022;Homens;45 a 49;12661
+80030;Grajaú;2022;Homens;50 a 54;11355
+80030;Grajaú;2022;Homens;55 a 59;9411
+80030;Grajaú;2022;Homens;60 a 64;7293
+80030;Grajaú;2022;Homens;65 a 69;5355
+80030;Grajaú;2022;Homens;70 a 74;3447
+80030;Grajaú;2022;Homens;75 e + ;2784
+80030;Grajaú;2022;Mulheres;00 a 04;14525
+80030;Grajaú;2022;Mulheres;05 a 09;14842
+80030;Grajaú;2022;Mulheres;10 a 14;13524
+80030;Grajaú;2022;Mulheres;15 a 19;13821
+80030;Grajaú;2022;Mulheres;20 a 24;16822
+80030;Grajaú;2022;Mulheres;25 a 29;17627
+80030;Grajaú;2022;Mulheres;30 a 34;16871
+80030;Grajaú;2022;Mulheres;35 a 39;16814
+80030;Grajaú;2022;Mulheres;40 a 44;15921
+80030;Grajaú;2022;Mulheres;45 a 49;14289
+80030;Grajaú;2022;Mulheres;50 a 54;12866
+80030;Grajaú;2022;Mulheres;55 a 59;10996
+80030;Grajaú;2022;Mulheres;60 a 64;8909
+80030;Grajaú;2022;Mulheres;65 a 69;6664
+80030;Grajaú;2022;Mulheres;70 a 74;4570
+80030;Grajaú;2022;Mulheres;75 e + ;4340
+80031;Guaianases;2022;Homens;00 a 04;4253
+80031;Guaianases;2022;Homens;05 a 09;4306
+80031;Guaianases;2022;Homens;10 a 14;3884
+80031;Guaianases;2022;Homens;15 a 19;3954
+80031;Guaianases;2022;Homens;20 a 24;4663
+80031;Guaianases;2022;Homens;25 a 29;4885
+80031;Guaianases;2022;Homens;30 a 34;4590
+80031;Guaianases;2022;Homens;35 a 39;4295
+80031;Guaianases;2022;Homens;40 a 44;3980
+80031;Guaianases;2022;Homens;45 a 49;3519
+80031;Guaianases;2022;Homens;50 a 54;3100
+80031;Guaianases;2022;Homens;55 a 59;2597
+80031;Guaianases;2022;Homens;60 a 64;2088
+80031;Guaianases;2022;Homens;65 a 69;1594
+80031;Guaianases;2022;Homens;70 a 74;1064
+80031;Guaianases;2022;Homens;75 e + ;956
+80031;Guaianases;2022;Mulheres;00 a 04;4056
+80031;Guaianases;2022;Mulheres;05 a 09;4111
+80031;Guaianases;2022;Mulheres;10 a 14;3720
+80031;Guaianases;2022;Mulheres;15 a 19;3820
+80031;Guaianases;2022;Mulheres;20 a 24;4621
+80031;Guaianases;2022;Mulheres;25 a 29;4838
+80031;Guaianases;2022;Mulheres;30 a 34;4720
+80031;Guaianases;2022;Mulheres;35 a 39;4643
+80031;Guaianases;2022;Mulheres;40 a 44;4340
+80031;Guaianases;2022;Mulheres;45 a 49;3906
+80031;Guaianases;2022;Mulheres;50 a 54;3543
+80031;Guaianases;2022;Mulheres;55 a 59;3092
+80031;Guaianases;2022;Mulheres;60 a 64;2644
+80031;Guaianases;2022;Mulheres;65 a 69;2108
+80031;Guaianases;2022;Mulheres;70 a 74;1466
+80031;Guaianases;2022;Mulheres;75 e + ;1638
+80032;Moema;2022;Homens;00 a 04;1773
+80032;Moema;2022;Homens;05 a 09;2074
+80032;Moema;2022;Homens;10 a 14;2077
+80032;Moema;2022;Homens;15 a 19;1917
+80032;Moema;2022;Homens;20 a 24;1970
+80032;Moema;2022;Homens;25 a 29;2107
+80032;Moema;2022;Homens;30 a 34;2474
+80032;Moema;2022;Homens;35 a 39;3211
+80032;Moema;2022;Homens;40 a 44;3797
+80032;Moema;2022;Homens;45 a 49;3635
+80032;Moema;2022;Homens;50 a 54;3125
+80032;Moema;2022;Homens;55 a 59;2886
+80032;Moema;2022;Homens;60 a 64;2747
+80032;Moema;2022;Homens;65 a 69;2514
+80032;Moema;2022;Homens;70 a 74;2101
+80032;Moema;2022;Homens;75 e + ;2693
+80032;Moema;2022;Mulheres;00 a 04;1692
+80032;Moema;2022;Mulheres;05 a 09;1980
+80032;Moema;2022;Mulheres;10 a 14;1995
+80032;Moema;2022;Mulheres;15 a 19;1822
+80032;Moema;2022;Mulheres;20 a 24;1902
+80032;Moema;2022;Mulheres;25 a 29;2177
+80032;Moema;2022;Mulheres;30 a 34;2841
+80032;Moema;2022;Mulheres;35 a 39;3888
+80032;Moema;2022;Mulheres;40 a 44;4620
+80032;Moema;2022;Mulheres;45 a 49;4367
+80032;Moema;2022;Mulheres;50 a 54;3643
+80032;Moema;2022;Mulheres;55 a 59;3512
+80032;Moema;2022;Mulheres;60 a 64;3546
+80032;Moema;2022;Mulheres;65 a 69;3319
+80032;Moema;2022;Mulheres;70 a 74;2738
+80032;Moema;2022;Mulheres;75 e + ;4509
+80033;Iguatemi;2022;Homens;00 a 04;6103
+80033;Iguatemi;2022;Homens;05 a 09;6092
+80033;Iguatemi;2022;Homens;10 a 14;5565
+80033;Iguatemi;2022;Homens;15 a 19;5726
+80033;Iguatemi;2022;Homens;20 a 24;6827
+80033;Iguatemi;2022;Homens;25 a 29;6895
+80033;Iguatemi;2022;Homens;30 a 34;6338
+80033;Iguatemi;2022;Homens;35 a 39;5932
+80033;Iguatemi;2022;Homens;40 a 44;5327
+80033;Iguatemi;2022;Homens;45 a 49;4742
+80033;Iguatemi;2022;Homens;50 a 54;4448
+80033;Iguatemi;2022;Homens;55 a 59;3791
+80033;Iguatemi;2022;Homens;60 a 64;2936
+80033;Iguatemi;2022;Homens;65 a 69;2154
+80033;Iguatemi;2022;Homens;70 a 74;1356
+80033;Iguatemi;2022;Homens;75 e + ;1130
+80033;Iguatemi;2022;Mulheres;00 a 04;5810
+80033;Iguatemi;2022;Mulheres;05 a 09;5801
+80033;Iguatemi;2022;Mulheres;10 a 14;5183
+80033;Iguatemi;2022;Mulheres;15 a 19;5444
+80033;Iguatemi;2022;Mulheres;20 a 24;6588
+80033;Iguatemi;2022;Mulheres;25 a 29;6893
+80033;Iguatemi;2022;Mulheres;30 a 34;6584
+80033;Iguatemi;2022;Mulheres;35 a 39;6308
+80033;Iguatemi;2022;Mulheres;40 a 44;5758
+80033;Iguatemi;2022;Mulheres;45 a 49;5275
+80033;Iguatemi;2022;Mulheres;50 a 54;4877
+80033;Iguatemi;2022;Mulheres;55 a 59;4250
+80033;Iguatemi;2022;Mulheres;60 a 64;3432
+80033;Iguatemi;2022;Mulheres;65 a 69;2538
+80033;Iguatemi;2022;Mulheres;70 a 74;1702
+80033;Iguatemi;2022;Mulheres;75 e + ;1658
+80034;Ipiranga;2022;Homens;00 a 04;3013
+80034;Ipiranga;2022;Homens;05 a 09;3332
+80034;Ipiranga;2022;Homens;10 a 14;3122
+80034;Ipiranga;2022;Homens;15 a 19;3038
+80034;Ipiranga;2022;Homens;20 a 24;3422
+80034;Ipiranga;2022;Homens;25 a 29;3650
+80034;Ipiranga;2022;Homens;30 a 34;4006
+80034;Ipiranga;2022;Homens;35 a 39;4549
+80034;Ipiranga;2022;Homens;40 a 44;4548
+80034;Ipiranga;2022;Homens;45 a 49;4075
+80034;Ipiranga;2022;Homens;50 a 54;3595
+80034;Ipiranga;2022;Homens;55 a 59;3280
+80034;Ipiranga;2022;Homens;60 a 64;2888
+80034;Ipiranga;2022;Homens;65 a 69;2359
+80034;Ipiranga;2022;Homens;70 a 74;1704
+80034;Ipiranga;2022;Homens;75 e + ;2210
+80034;Ipiranga;2022;Mulheres;00 a 04;2883
+80034;Ipiranga;2022;Mulheres;05 a 09;3191
+80034;Ipiranga;2022;Mulheres;10 a 14;3005
+80034;Ipiranga;2022;Mulheres;15 a 19;2916
+80034;Ipiranga;2022;Mulheres;20 a 24;3292
+80034;Ipiranga;2022;Mulheres;25 a 29;3614
+80034;Ipiranga;2022;Mulheres;30 a 34;4140
+80034;Ipiranga;2022;Mulheres;35 a 39;4799
+80034;Ipiranga;2022;Mulheres;40 a 44;4938
+80034;Ipiranga;2022;Mulheres;45 a 49;4621
+80034;Ipiranga;2022;Mulheres;50 a 54;4249
+80034;Ipiranga;2022;Mulheres;55 a 59;4021
+80034;Ipiranga;2022;Mulheres;60 a 64;3813
+80034;Ipiranga;2022;Mulheres;65 a 69;3285
+80034;Ipiranga;2022;Mulheres;70 a 74;2624
+80034;Ipiranga;2022;Mulheres;75 e + ;4665
+80035;Itaim Bibi;2022;Homens;00 a 04;2137
+80035;Itaim Bibi;2022;Homens;05 a 09;2579
+80035;Itaim Bibi;2022;Homens;10 a 14;2382
+80035;Itaim Bibi;2022;Homens;15 a 19;1955
+80035;Itaim Bibi;2022;Homens;20 a 24;1886
+80035;Itaim Bibi;2022;Homens;25 a 29;2088
+80035;Itaim Bibi;2022;Homens;30 a 34;2736
+80035;Itaim Bibi;2022;Homens;35 a 39;3927
+80035;Itaim Bibi;2022;Homens;40 a 44;4778
+80035;Itaim Bibi;2022;Homens;45 a 49;4316
+80035;Itaim Bibi;2022;Homens;50 a 54;3341
+80035;Itaim Bibi;2022;Homens;55 a 59;2911
+80035;Itaim Bibi;2022;Homens;60 a 64;2715
+80035;Itaim Bibi;2022;Homens;65 a 69;2414
+80035;Itaim Bibi;2022;Homens;70 a 74;1946
+80035;Itaim Bibi;2022;Homens;75 e + ;2703
+80035;Itaim Bibi;2022;Mulheres;00 a 04;2042
+80035;Itaim Bibi;2022;Mulheres;05 a 09;2464
+80035;Itaim Bibi;2022;Mulheres;10 a 14;2334
+80035;Itaim Bibi;2022;Mulheres;15 a 19;1892
+80035;Itaim Bibi;2022;Mulheres;20 a 24;1781
+80035;Itaim Bibi;2022;Mulheres;25 a 29;2109
+80035;Itaim Bibi;2022;Mulheres;30 a 34;2995
+80035;Itaim Bibi;2022;Mulheres;35 a 39;4454
+80035;Itaim Bibi;2022;Mulheres;40 a 44;5333
+80035;Itaim Bibi;2022;Mulheres;45 a 49;4745
+80035;Itaim Bibi;2022;Mulheres;50 a 54;3769
+80035;Itaim Bibi;2022;Mulheres;55 a 59;3492
+80035;Itaim Bibi;2022;Mulheres;60 a 64;3523
+80035;Itaim Bibi;2022;Mulheres;65 a 69;3396
+80035;Itaim Bibi;2022;Mulheres;70 a 74;2905
+80035;Itaim Bibi;2022;Mulheres;75 e + ;5211
+80036;Itaim Paulista;2022;Homens;00 a 04;8708
+80036;Itaim Paulista;2022;Homens;05 a 09;8826
+80036;Itaim Paulista;2022;Homens;10 a 14;8080
+80036;Itaim Paulista;2022;Homens;15 a 19;8355
+80036;Itaim Paulista;2022;Homens;20 a 24;10200
+80036;Itaim Paulista;2022;Homens;25 a 29;10601
+80036;Itaim Paulista;2022;Homens;30 a 34;9949
+80036;Itaim Paulista;2022;Homens;35 a 39;9285
+80036;Itaim Paulista;2022;Homens;40 a 44;8302
+80036;Itaim Paulista;2022;Homens;45 a 49;7297
+80036;Itaim Paulista;2022;Homens;50 a 54;6620
+80036;Itaim Paulista;2022;Homens;55 a 59;5726
+80036;Itaim Paulista;2022;Homens;60 a 64;4625
+80036;Itaim Paulista;2022;Homens;65 a 69;3414
+80036;Itaim Paulista;2022;Homens;70 a 74;2247
+80036;Itaim Paulista;2022;Homens;75 e + ;2064
+80036;Itaim Paulista;2022;Mulheres;00 a 04;8305
+80036;Itaim Paulista;2022;Mulheres;05 a 09;8421
+80036;Itaim Paulista;2022;Mulheres;10 a 14;7966
+80036;Itaim Paulista;2022;Mulheres;15 a 19;8204
+80036;Itaim Paulista;2022;Mulheres;20 a 24;9934
+80036;Itaim Paulista;2022;Mulheres;25 a 29;10554
+80036;Itaim Paulista;2022;Mulheres;30 a 34;10198
+80036;Itaim Paulista;2022;Mulheres;35 a 39;9929
+80036;Itaim Paulista;2022;Mulheres;40 a 44;9205
+80036;Itaim Paulista;2022;Mulheres;45 a 49;8340
+80036;Itaim Paulista;2022;Mulheres;50 a 54;7851
+80036;Itaim Paulista;2022;Mulheres;55 a 59;7008
+80036;Itaim Paulista;2022;Mulheres;60 a 64;5883
+80036;Itaim Paulista;2022;Mulheres;65 a 69;4504
+80036;Itaim Paulista;2022;Mulheres;70 a 74;3159
+80036;Itaim Paulista;2022;Mulheres;75 e + ;3528
+80037;Itaquera;2022;Homens;00 a 04;7233
+80037;Itaquera;2022;Homens;05 a 09;7535
+80037;Itaquera;2022;Homens;10 a 14;6946
+80037;Itaquera;2022;Homens;15 a 19;7031
+80037;Itaquera;2022;Homens;20 a 24;8409
+80037;Itaquera;2022;Homens;25 a 29;8674
+80037;Itaquera;2022;Homens;30 a 34;8369
+80037;Itaquera;2022;Homens;35 a 39;8212
+80037;Itaquera;2022;Homens;40 a 44;7782
+80037;Itaquera;2022;Homens;45 a 49;7212
+80037;Itaquera;2022;Homens;50 a 54;6479
+80037;Itaquera;2022;Homens;55 a 59;5460
+80037;Itaquera;2022;Homens;60 a 64;4420
+80037;Itaquera;2022;Homens;65 a 69;3354
+80037;Itaquera;2022;Homens;70 a 74;2336
+80037;Itaquera;2022;Homens;75 e + ;2403
+80037;Itaquera;2022;Mulheres;00 a 04;6903
+80037;Itaquera;2022;Mulheres;05 a 09;7195
+80037;Itaquera;2022;Mulheres;10 a 14;6796
+80037;Itaquera;2022;Mulheres;15 a 19;6903
+80037;Itaquera;2022;Mulheres;20 a 24;8359
+80037;Itaquera;2022;Mulheres;25 a 29;8634
+80037;Itaquera;2022;Mulheres;30 a 34;8516
+80037;Itaquera;2022;Mulheres;35 a 39;8777
+80037;Itaquera;2022;Mulheres;40 a 44;8785
+80037;Itaquera;2022;Mulheres;45 a 49;8185
+80037;Itaquera;2022;Mulheres;50 a 54;7442
+80037;Itaquera;2022;Mulheres;55 a 59;6524
+80037;Itaquera;2022;Mulheres;60 a 64;5604
+80037;Itaquera;2022;Mulheres;65 a 69;4642
+80037;Itaquera;2022;Mulheres;70 a 74;3465
+80037;Itaquera;2022;Mulheres;75 e + ;4290
+80038;Jabaquara;2022;Homens;00 a 04;6803
+80038;Jabaquara;2022;Homens;05 a 09;7358
+80038;Jabaquara;2022;Homens;10 a 14;6862
+80038;Jabaquara;2022;Homens;15 a 19;6677
+80038;Jabaquara;2022;Homens;20 a 24;7741
+80038;Jabaquara;2022;Homens;25 a 29;8098
+80038;Jabaquara;2022;Homens;30 a 34;8516
+80038;Jabaquara;2022;Homens;35 a 39;9274
+80038;Jabaquara;2022;Homens;40 a 44;9223
+80038;Jabaquara;2022;Homens;45 a 49;8036
+80038;Jabaquara;2022;Homens;50 a 54;7105
+80038;Jabaquara;2022;Homens;55 a 59;6425
+80038;Jabaquara;2022;Homens;60 a 64;5418
+80038;Jabaquara;2022;Homens;65 a 69;4235
+80038;Jabaquara;2022;Homens;70 a 74;2887
+80038;Jabaquara;2022;Homens;75 e + ;3514
+80038;Jabaquara;2022;Mulheres;00 a 04;6505
+80038;Jabaquara;2022;Mulheres;05 a 09;7044
+80038;Jabaquara;2022;Mulheres;10 a 14;6660
+80038;Jabaquara;2022;Mulheres;15 a 19;6431
+80038;Jabaquara;2022;Mulheres;20 a 24;7476
+80038;Jabaquara;2022;Mulheres;25 a 29;8069
+80038;Jabaquara;2022;Mulheres;30 a 34;8947
+80038;Jabaquara;2022;Mulheres;35 a 39;10206
+80038;Jabaquara;2022;Mulheres;40 a 44;10398
+80038;Jabaquara;2022;Mulheres;45 a 49;9332
+80038;Jabaquara;2022;Mulheres;50 a 54;8342
+80038;Jabaquara;2022;Mulheres;55 a 59;7820
+80038;Jabaquara;2022;Mulheres;60 a 64;7179
+80038;Jabaquara;2022;Mulheres;65 a 69;5967
+80038;Jabaquara;2022;Mulheres;70 a 74;4531
+80038;Jabaquara;2022;Mulheres;75 e + ;6940
+80039;Jaçanã;2022;Homens;00 a 04;2905
+80039;Jaçanã;2022;Homens;05 a 09;3010
+80039;Jaçanã;2022;Homens;10 a 14;2989
+80039;Jaçanã;2022;Homens;15 a 19;3142
+80039;Jaçanã;2022;Homens;20 a 24;3678
+80039;Jaçanã;2022;Homens;25 a 29;3777
+80039;Jaçanã;2022;Homens;30 a 34;3813
+80039;Jaçanã;2022;Homens;35 a 39;3939
+80039;Jaçanã;2022;Homens;40 a 44;3721
+80039;Jaçanã;2022;Homens;45 a 49;3230
+80039;Jaçanã;2022;Homens;50 a 54;2767
+80039;Jaçanã;2022;Homens;55 a 59;2416
+80039;Jaçanã;2022;Homens;60 a 64;2109
+80039;Jaçanã;2022;Homens;65 a 69;1668
+80039;Jaçanã;2022;Homens;70 a 74;1188
+80039;Jaçanã;2022;Homens;75 e + ;1341
+80039;Jaçanã;2022;Mulheres;00 a 04;2779
+80039;Jaçanã;2022;Mulheres;05 a 09;2884
+80039;Jaçanã;2022;Mulheres;10 a 14;2877
+80039;Jaçanã;2022;Mulheres;15 a 19;3100
+80039;Jaçanã;2022;Mulheres;20 a 24;3656
+80039;Jaçanã;2022;Mulheres;25 a 29;3768
+80039;Jaçanã;2022;Mulheres;30 a 34;3892
+80039;Jaçanã;2022;Mulheres;35 a 39;4161
+80039;Jaçanã;2022;Mulheres;40 a 44;4093
+80039;Jaçanã;2022;Mulheres;45 a 49;3590
+80039;Jaçanã;2022;Mulheres;50 a 54;3136
+80039;Jaçanã;2022;Mulheres;55 a 59;2955
+80039;Jaçanã;2022;Mulheres;60 a 64;2817
+80039;Jaçanã;2022;Mulheres;65 a 69;2402
+80039;Jaçanã;2022;Mulheres;70 a 74;1842
+80039;Jaçanã;2022;Mulheres;75 e + ;2649
+80040;Jaguara;2022;Homens;00 a 04;644
+80040;Jaguara;2022;Homens;05 a 09;701
+80040;Jaguara;2022;Homens;10 a 14;643
+80040;Jaguara;2022;Homens;15 a 19;634
+80040;Jaguara;2022;Homens;20 a 24;714
+80040;Jaguara;2022;Homens;25 a 29;764
+80040;Jaguara;2022;Homens;30 a 34;883
+80040;Jaguara;2022;Homens;35 a 39;1005
+80040;Jaguara;2022;Homens;40 a 44;976
+80040;Jaguara;2022;Homens;45 a 49;848
+80040;Jaguara;2022;Homens;50 a 54;731
+80040;Jaguara;2022;Homens;55 a 59;683
+80040;Jaguara;2022;Homens;60 a 64;636
+80040;Jaguara;2022;Homens;65 a 69;542
+80040;Jaguara;2022;Homens;70 a 74;414
+80040;Jaguara;2022;Homens;75 e + ;514
+80040;Jaguara;2022;Mulheres;00 a 04;616
+80040;Jaguara;2022;Mulheres;05 a 09;670
+80040;Jaguara;2022;Mulheres;10 a 14;616
+80040;Jaguara;2022;Mulheres;15 a 19;622
+80040;Jaguara;2022;Mulheres;20 a 24;750
+80040;Jaguara;2022;Mulheres;25 a 29;785
+80040;Jaguara;2022;Mulheres;30 a 34;862
+80040;Jaguara;2022;Mulheres;35 a 39;990
+80040;Jaguara;2022;Mulheres;40 a 44;997
+80040;Jaguara;2022;Mulheres;45 a 49;891
+80040;Jaguara;2022;Mulheres;50 a 54;822
+80040;Jaguara;2022;Mulheres;55 a 59;819
+80040;Jaguara;2022;Mulheres;60 a 64;822
+80040;Jaguara;2022;Mulheres;65 a 69;726
+80040;Jaguara;2022;Mulheres;70 a 74;595
+80040;Jaguara;2022;Mulheres;75 e + ;908
+80041;Jaguaré;2022;Homens;00 a 04;1692
+80041;Jaguaré;2022;Homens;05 a 09;1838
+80041;Jaguaré;2022;Homens;10 a 14;1775
+80041;Jaguaré;2022;Homens;15 a 19;1770
+80041;Jaguaré;2022;Homens;20 a 24;1924
+80041;Jaguaré;2022;Homens;25 a 29;1959
+80041;Jaguaré;2022;Homens;30 a 34;2158
+80041;Jaguaré;2022;Homens;35 a 39;2455
+80041;Jaguaré;2022;Homens;40 a 44;2442
+80041;Jaguaré;2022;Homens;45 a 49;2106
+80041;Jaguaré;2022;Homens;50 a 54;1752
+80041;Jaguaré;2022;Homens;55 a 59;1463
+80041;Jaguaré;2022;Homens;60 a 64;1166
+80041;Jaguaré;2022;Homens;65 a 69;896
+80041;Jaguaré;2022;Homens;70 a 74;642
+80041;Jaguaré;2022;Homens;75 e + ;825
+80041;Jaguaré;2022;Mulheres;00 a 04;1616
+80041;Jaguaré;2022;Mulheres;05 a 09;1757
+80041;Jaguaré;2022;Mulheres;10 a 14;1667
+80041;Jaguaré;2022;Mulheres;15 a 19;1697
+80041;Jaguaré;2022;Mulheres;20 a 24;1954
+80041;Jaguaré;2022;Mulheres;25 a 29;2028
+80041;Jaguaré;2022;Mulheres;30 a 34;2115
+80041;Jaguaré;2022;Mulheres;35 a 39;2458
+80041;Jaguaré;2022;Mulheres;40 a 44;2584
+80041;Jaguaré;2022;Mulheres;45 a 49;2305
+80041;Jaguaré;2022;Mulheres;50 a 54;1933
+80041;Jaguaré;2022;Mulheres;55 a 59;1713
+80041;Jaguaré;2022;Mulheres;60 a 64;1472
+80041;Jaguaré;2022;Mulheres;65 a 69;1216
+80041;Jaguaré;2022;Mulheres;70 a 74;1006
+80041;Jaguaré;2022;Mulheres;75 e + ;1540
+80042;Jaraguá;2022;Homens;00 a 04;7851
+80042;Jaraguá;2022;Homens;05 a 09;8023
+80042;Jaraguá;2022;Homens;10 a 14;7341
+80042;Jaraguá;2022;Homens;15 a 19;7657
+80042;Jaraguá;2022;Homens;20 a 24;9250
+80042;Jaraguá;2022;Homens;25 a 29;9265
+80042;Jaraguá;2022;Homens;30 a 34;8653
+80042;Jaraguá;2022;Homens;35 a 39;8430
+80042;Jaraguá;2022;Homens;40 a 44;7953
+80042;Jaraguá;2022;Homens;45 a 49;7158
+80042;Jaraguá;2022;Homens;50 a 54;6338
+80042;Jaraguá;2022;Homens;55 a 59;5358
+80042;Jaraguá;2022;Homens;60 a 64;4330
+80042;Jaraguá;2022;Homens;65 a 69;3155
+80042;Jaraguá;2022;Homens;70 a 74;2021
+80042;Jaraguá;2022;Homens;75 e + ;1753
+80042;Jaraguá;2022;Mulheres;00 a 04;7494
+80042;Jaraguá;2022;Mulheres;05 a 09;7667
+80042;Jaraguá;2022;Mulheres;10 a 14;7040
+80042;Jaraguá;2022;Mulheres;15 a 19;7415
+80042;Jaraguá;2022;Mulheres;20 a 24;9004
+80042;Jaraguá;2022;Mulheres;25 a 29;9183
+80042;Jaraguá;2022;Mulheres;30 a 34;8981
+80042;Jaraguá;2022;Mulheres;35 a 39;9209
+80042;Jaraguá;2022;Mulheres;40 a 44;8982
+80042;Jaraguá;2022;Mulheres;45 a 49;8145
+80042;Jaraguá;2022;Mulheres;50 a 54;7209
+80042;Jaraguá;2022;Mulheres;55 a 59;6373
+80042;Jaraguá;2022;Mulheres;60 a 64;5478
+80042;Jaraguá;2022;Mulheres;65 a 69;4186
+80042;Jaraguá;2022;Mulheres;70 a 74;2844
+80042;Jaraguá;2022;Mulheres;75 e + ;3042
+80043;Jardim Ângela;2022;Homens;00 a 04;13259
+80043;Jardim Ângela;2022;Homens;05 a 09;13668
+80043;Jardim Ângela;2022;Homens;10 a 14;12910
+80043;Jardim Ângela;2022;Homens;15 a 19;13227
+80043;Jardim Ângela;2022;Homens;20 a 24;15103
+80043;Jardim Ângela;2022;Homens;25 a 29;14629
+80043;Jardim Ângela;2022;Homens;30 a 34;13768
+80043;Jardim Ângela;2022;Homens;35 a 39;13694
+80043;Jardim Ângela;2022;Homens;40 a 44;12834
+80043;Jardim Ângela;2022;Homens;45 a 49;11695
+80043;Jardim Ângela;2022;Homens;50 a 54;10142
+80043;Jardim Ângela;2022;Homens;55 a 59;7705
+80043;Jardim Ângela;2022;Homens;60 a 64;5824
+80043;Jardim Ângela;2022;Homens;65 a 69;4337
+80043;Jardim Ângela;2022;Homens;70 a 74;2835
+80043;Jardim Ângela;2022;Homens;75 e + ;2359
+80043;Jardim Ângela;2022;Mulheres;00 a 04;12654
+80043;Jardim Ângela;2022;Mulheres;05 a 09;13058
+80043;Jardim Ângela;2022;Mulheres;10 a 14;12567
+80043;Jardim Ângela;2022;Mulheres;15 a 19;12775
+80043;Jardim Ângela;2022;Mulheres;20 a 24;14729
+80043;Jardim Ângela;2022;Mulheres;25 a 29;14741
+80043;Jardim Ângela;2022;Mulheres;30 a 34;14222
+80043;Jardim Ângela;2022;Mulheres;35 a 39;14688
+80043;Jardim Ângela;2022;Mulheres;40 a 44;14482
+80043;Jardim Ângela;2022;Mulheres;45 a 49;12968
+80043;Jardim Ângela;2022;Mulheres;50 a 54;11329
+80043;Jardim Ângela;2022;Mulheres;55 a 59;9103
+80043;Jardim Ângela;2022;Mulheres;60 a 64;7218
+80043;Jardim Ângela;2022;Mulheres;65 a 69;5499
+80043;Jardim Ângela;2022;Mulheres;70 a 74;3733
+80043;Jardim Ângela;2022;Mulheres;75 e + ;3775
+80044;Jardim Helena;2022;Homens;00 a 04;5469
+80044;Jardim Helena;2022;Homens;05 a 09;5580
+80044;Jardim Helena;2022;Homens;10 a 14;4904
+80044;Jardim Helena;2022;Homens;15 a 19;4782
+80044;Jardim Helena;2022;Homens;20 a 24;5736
+80044;Jardim Helena;2022;Homens;25 a 29;5924
+80044;Jardim Helena;2022;Homens;30 a 34;5587
+80044;Jardim Helena;2022;Homens;35 a 39;5332
+80044;Jardim Helena;2022;Homens;40 a 44;4835
+80044;Jardim Helena;2022;Homens;45 a 49;4279
+80044;Jardim Helena;2022;Homens;50 a 54;3877
+80044;Jardim Helena;2022;Homens;55 a 59;3217
+80044;Jardim Helena;2022;Homens;60 a 64;2507
+80044;Jardim Helena;2022;Homens;65 a 69;1879
+80044;Jardim Helena;2022;Homens;70 a 74;1283
+80044;Jardim Helena;2022;Homens;75 e + ;1244
+80044;Jardim Helena;2022;Mulheres;00 a 04;5212
+80044;Jardim Helena;2022;Mulheres;05 a 09;5322
+80044;Jardim Helena;2022;Mulheres;10 a 14;4674
+80044;Jardim Helena;2022;Mulheres;15 a 19;4613
+80044;Jardim Helena;2022;Mulheres;20 a 24;5621
+80044;Jardim Helena;2022;Mulheres;25 a 29;5936
+80044;Jardim Helena;2022;Mulheres;30 a 34;5747
+80044;Jardim Helena;2022;Mulheres;35 a 39;5623
+80044;Jardim Helena;2022;Mulheres;40 a 44;5249
+80044;Jardim Helena;2022;Mulheres;45 a 49;4712
+80044;Jardim Helena;2022;Mulheres;50 a 54;4249
+80044;Jardim Helena;2022;Mulheres;55 a 59;3696
+80044;Jardim Helena;2022;Mulheres;60 a 64;3138
+80044;Jardim Helena;2022;Mulheres;65 a 69;2457
+80044;Jardim Helena;2022;Mulheres;70 a 74;1771
+80044;Jardim Helena;2022;Mulheres;75 e + ;2033
+80045;Jardim Paulista;2022;Homens;00 a 04;1876
+80045;Jardim Paulista;2022;Homens;05 a 09;2185
+80045;Jardim Paulista;2022;Homens;10 a 14;1937
+80045;Jardim Paulista;2022;Homens;15 a 19;1622
+80045;Jardim Paulista;2022;Homens;20 a 24;1647
+80045;Jardim Paulista;2022;Homens;25 a 29;1859
+80045;Jardim Paulista;2022;Homens;30 a 34;2637
+80045;Jardim Paulista;2022;Homens;35 a 39;3847
+80045;Jardim Paulista;2022;Homens;40 a 44;4320
+80045;Jardim Paulista;2022;Homens;45 a 49;3714
+80045;Jardim Paulista;2022;Homens;50 a 54;3048
+80045;Jardim Paulista;2022;Homens;55 a 59;2736
+80045;Jardim Paulista;2022;Homens;60 a 64;2525
+80045;Jardim Paulista;2022;Homens;65 a 69;2207
+80045;Jardim Paulista;2022;Homens;70 a 74;1924
+80045;Jardim Paulista;2022;Homens;75 e + ;2902
+80045;Jardim Paulista;2022;Mulheres;00 a 04;1790
+80045;Jardim Paulista;2022;Mulheres;05 a 09;2086
+80045;Jardim Paulista;2022;Mulheres;10 a 14;1818
+80045;Jardim Paulista;2022;Mulheres;15 a 19;1552
+80045;Jardim Paulista;2022;Mulheres;20 a 24;1603
+80045;Jardim Paulista;2022;Mulheres;25 a 29;1908
+80045;Jardim Paulista;2022;Mulheres;30 a 34;2950
+80045;Jardim Paulista;2022;Mulheres;35 a 39;4593
+80045;Jardim Paulista;2022;Mulheres;40 a 44;5070
+80045;Jardim Paulista;2022;Mulheres;45 a 49;4090
+80045;Jardim Paulista;2022;Mulheres;50 a 54;3336
+80045;Jardim Paulista;2022;Mulheres;55 a 59;3307
+80045;Jardim Paulista;2022;Mulheres;60 a 64;3472
+80045;Jardim Paulista;2022;Mulheres;65 a 69;3453
+80045;Jardim Paulista;2022;Mulheres;70 a 74;2937
+80045;Jardim Paulista;2022;Mulheres;75 e + ;5476
+80046;Jardim São Luís;2022;Homens;00 a 04;10396
+80046;Jardim São Luís;2022;Homens;05 a 09;10842
+80046;Jardim São Luís;2022;Homens;10 a 14;9880
+80046;Jardim São Luís;2022;Homens;15 a 19;9958
+80046;Jardim São Luís;2022;Homens;20 a 24;11799
+80046;Jardim São Luís;2022;Homens;25 a 29;11955
+80046;Jardim São Luís;2022;Homens;30 a 34;12171
+80046;Jardim São Luís;2022;Homens;35 a 39;12534
+80046;Jardim São Luís;2022;Homens;40 a 44;11804
+80046;Jardim São Luís;2022;Homens;45 a 49;10385
+80046;Jardim São Luís;2022;Homens;50 a 54;8847
+80046;Jardim São Luís;2022;Homens;55 a 59;7097
+80046;Jardim São Luís;2022;Homens;60 a 64;5733
+80046;Jardim São Luís;2022;Homens;65 a 69;4370
+80046;Jardim São Luís;2022;Homens;70 a 74;2914
+80046;Jardim São Luís;2022;Homens;75 e + ;2758
+80046;Jardim São Luís;2022;Mulheres;00 a 04;9921
+80046;Jardim São Luís;2022;Mulheres;05 a 09;10352
+80046;Jardim São Luís;2022;Mulheres;10 a 14;9506
+80046;Jardim São Luís;2022;Mulheres;15 a 19;9601
+80046;Jardim São Luís;2022;Mulheres;20 a 24;11446
+80046;Jardim São Luís;2022;Mulheres;25 a 29;12049
+80046;Jardim São Luís;2022;Mulheres;30 a 34;12503
+80046;Jardim São Luís;2022;Mulheres;35 a 39;13371
+80046;Jardim São Luís;2022;Mulheres;40 a 44;12911
+80046;Jardim São Luís;2022;Mulheres;45 a 49;11497
+80046;Jardim São Luís;2022;Mulheres;50 a 54;10129
+80046;Jardim São Luís;2022;Mulheres;55 a 59;8759
+80046;Jardim São Luís;2022;Mulheres;60 a 64;7353
+80046;Jardim São Luís;2022;Mulheres;65 a 69;5890
+80046;Jardim São Luís;2022;Mulheres;70 a 74;4298
+80046;Jardim São Luís;2022;Mulheres;75 e + ;4765
+80047;José Bonifácio;2022;Homens;00 a 04;4129
+80047;José Bonifácio;2022;Homens;05 a 09;4296
+80047;José Bonifácio;2022;Homens;10 a 14;4435
+80047;José Bonifácio;2022;Homens;15 a 19;4772
+80047;José Bonifácio;2022;Homens;20 a 24;5507
+80047;José Bonifácio;2022;Homens;25 a 29;5402
+80047;José Bonifácio;2022;Homens;30 a 34;5148
+80047;José Bonifácio;2022;Homens;35 a 39;5536
+80047;José Bonifácio;2022;Homens;40 a 44;5681
+80047;José Bonifácio;2022;Homens;45 a 49;4947
+80047;José Bonifácio;2022;Homens;50 a 54;4043
+80047;José Bonifácio;2022;Homens;55 a 59;3260
+80047;José Bonifácio;2022;Homens;60 a 64;2696
+80047;José Bonifácio;2022;Homens;65 a 69;2309
+80047;José Bonifácio;2022;Homens;70 a 74;1739
+80047;José Bonifácio;2022;Homens;75 e + ;1482
+80047;José Bonifácio;2022;Mulheres;00 a 04;3947
+80047;José Bonifácio;2022;Mulheres;05 a 09;4108
+80047;José Bonifácio;2022;Mulheres;10 a 14;4249
+80047;José Bonifácio;2022;Mulheres;15 a 19;4664
+80047;José Bonifácio;2022;Mulheres;20 a 24;5437
+80047;José Bonifácio;2022;Mulheres;25 a 29;5461
+80047;José Bonifácio;2022;Mulheres;30 a 34;5420
+80047;José Bonifácio;2022;Mulheres;35 a 39;5970
+80047;José Bonifácio;2022;Mulheres;40 a 44;6335
+80047;José Bonifácio;2022;Mulheres;45 a 49;5567
+80047;José Bonifácio;2022;Mulheres;50 a 54;4699
+80047;José Bonifácio;2022;Mulheres;55 a 59;4105
+80047;José Bonifácio;2022;Mulheres;60 a 64;3789
+80047;José Bonifácio;2022;Mulheres;65 a 69;3519
+80047;José Bonifácio;2022;Mulheres;70 a 74;2732
+80047;José Bonifácio;2022;Mulheres;75 e + ;2863
+80048;Lapa;2022;Homens;00 a 04;1514
+80048;Lapa;2022;Homens;05 a 09;1723
+80048;Lapa;2022;Homens;10 a 14;1685
+80048;Lapa;2022;Homens;15 a 19;1588
+80048;Lapa;2022;Homens;20 a 24;1651
+80048;Lapa;2022;Homens;25 a 29;1817
+80048;Lapa;2022;Homens;30 a 34;2175
+80048;Lapa;2022;Homens;35 a 39;2615
+80048;Lapa;2022;Homens;40 a 44;2752
+80048;Lapa;2022;Homens;45 a 49;2482
+80048;Lapa;2022;Homens;50 a 54;2203
+80048;Lapa;2022;Homens;55 a 59;2145
+80048;Lapa;2022;Homens;60 a 64;2021
+80048;Lapa;2022;Homens;65 a 69;1652
+80048;Lapa;2022;Homens;70 a 74;1220
+80048;Lapa;2022;Homens;75 e + ;1812
+80048;Lapa;2022;Mulheres;00 a 04;1449
+80048;Lapa;2022;Mulheres;05 a 09;1648
+80048;Lapa;2022;Mulheres;10 a 14;1568
+80048;Lapa;2022;Mulheres;15 a 19;1482
+80048;Lapa;2022;Mulheres;20 a 24;1615
+80048;Lapa;2022;Mulheres;25 a 29;1748
+80048;Lapa;2022;Mulheres;30 a 34;2106
+80048;Lapa;2022;Mulheres;35 a 39;2670
+80048;Lapa;2022;Mulheres;40 a 44;3024
+80048;Lapa;2022;Mulheres;45 a 49;2853
+80048;Lapa;2022;Mulheres;50 a 54;2622
+80048;Lapa;2022;Mulheres;55 a 59;2616
+80048;Lapa;2022;Mulheres;60 a 64;2554
+80048;Lapa;2022;Mulheres;65 a 69;2310
+80048;Lapa;2022;Mulheres;70 a 74;1930
+80048;Lapa;2022;Mulheres;75 e + ;3747
+80049;Liberdade;2022;Homens;00 a 04;1803
+80049;Liberdade;2022;Homens;05 a 09;2089
+80049;Liberdade;2022;Homens;10 a 14;1819
+80049;Liberdade;2022;Homens;15 a 19;1569
+80049;Liberdade;2022;Homens;20 a 24;1692
+80049;Liberdade;2022;Homens;25 a 29;2008
+80049;Liberdade;2022;Homens;30 a 34;2676
+80049;Liberdade;2022;Homens;35 a 39;3458
+80049;Liberdade;2022;Homens;40 a 44;3464
+80049;Liberdade;2022;Homens;45 a 49;2842
+80049;Liberdade;2022;Homens;50 a 54;2379
+80049;Liberdade;2022;Homens;55 a 59;2066
+80049;Liberdade;2022;Homens;60 a 64;1857
+80049;Liberdade;2022;Homens;65 a 69;1560
+80049;Liberdade;2022;Homens;70 a 74;1214
+80049;Liberdade;2022;Homens;75 e + ;1531
+80049;Liberdade;2022;Mulheres;00 a 04;1722
+80049;Liberdade;2022;Mulheres;05 a 09;1995
+80049;Liberdade;2022;Mulheres;10 a 14;1760
+80049;Liberdade;2022;Mulheres;15 a 19;1547
+80049;Liberdade;2022;Mulheres;20 a 24;1625
+80049;Liberdade;2022;Mulheres;25 a 29;1914
+80049;Liberdade;2022;Mulheres;30 a 34;2711
+80049;Liberdade;2022;Mulheres;35 a 39;3636
+80049;Liberdade;2022;Mulheres;40 a 44;3743
+80049;Liberdade;2022;Mulheres;45 a 49;3313
+80049;Liberdade;2022;Mulheres;50 a 54;2765
+80049;Liberdade;2022;Mulheres;55 a 59;2523
+80049;Liberdade;2022;Mulheres;60 a 64;2481
+80049;Liberdade;2022;Mulheres;65 a 69;2277
+80049;Liberdade;2022;Mulheres;70 a 74;1900
+80049;Liberdade;2022;Mulheres;75 e + ;3107
+80050;Limão;2022;Homens;00 a 04;2642
+80050;Limão;2022;Homens;05 a 09;2839
+80050;Limão;2022;Homens;10 a 14;2431
+80050;Limão;2022;Homens;15 a 19;2233
+80050;Limão;2022;Homens;20 a 24;2606
+80050;Limão;2022;Homens;25 a 29;2769
+80050;Limão;2022;Homens;30 a 34;3040
+80050;Limão;2022;Homens;35 a 39;3205
+80050;Limão;2022;Homens;40 a 44;2985
+80050;Limão;2022;Homens;45 a 49;2596
+80050;Limão;2022;Homens;50 a 54;2309
+80050;Limão;2022;Homens;55 a 59;2081
+80050;Limão;2022;Homens;60 a 64;1831
+80050;Limão;2022;Homens;65 a 69;1474
+80050;Limão;2022;Homens;70 a 74;1061
+80050;Limão;2022;Homens;75 e + ;1201
+80050;Limão;2022;Mulheres;00 a 04;2526
+80050;Limão;2022;Mulheres;05 a 09;2716
+80050;Limão;2022;Mulheres;10 a 14;2377
+80050;Limão;2022;Mulheres;15 a 19;2306
+80050;Limão;2022;Mulheres;20 a 24;2636
+80050;Limão;2022;Mulheres;25 a 29;2848
+80050;Limão;2022;Mulheres;30 a 34;3148
+80050;Limão;2022;Mulheres;35 a 39;3438
+80050;Limão;2022;Mulheres;40 a 44;3400
+80050;Limão;2022;Mulheres;45 a 49;3063
+80050;Limão;2022;Mulheres;50 a 54;2666
+80050;Limão;2022;Mulheres;55 a 59;2484
+80050;Limão;2022;Mulheres;60 a 64;2442
+80050;Limão;2022;Mulheres;65 a 69;2192
+80050;Limão;2022;Mulheres;70 a 74;1700
+80050;Limão;2022;Mulheres;75 e + ;2433
+80051;Mandaqui;2022;Homens;00 a 04;2959
+80051;Mandaqui;2022;Homens;05 a 09;3148
+80051;Mandaqui;2022;Homens;10 a 14;2923
+80051;Mandaqui;2022;Homens;15 a 19;2902
+80051;Mandaqui;2022;Homens;20 a 24;3506
+80051;Mandaqui;2022;Homens;25 a 29;3848
+80051;Mandaqui;2022;Homens;30 a 34;4127
+80051;Mandaqui;2022;Homens;35 a 39;4285
+80051;Mandaqui;2022;Homens;40 a 44;4097
+80051;Mandaqui;2022;Homens;45 a 49;3831
+80051;Mandaqui;2022;Homens;50 a 54;3635
+80051;Mandaqui;2022;Homens;55 a 59;3362
+80051;Mandaqui;2022;Homens;60 a 64;2918
+80051;Mandaqui;2022;Homens;65 a 69;2247
+80051;Mandaqui;2022;Homens;70 a 74;1574
+80051;Mandaqui;2022;Homens;75 e + ;1953
+80051;Mandaqui;2022;Mulheres;00 a 04;2826
+80051;Mandaqui;2022;Mulheres;05 a 09;3007
+80051;Mandaqui;2022;Mulheres;10 a 14;2823
+80051;Mandaqui;2022;Mulheres;15 a 19;2890
+80051;Mandaqui;2022;Mulheres;20 a 24;3527
+80051;Mandaqui;2022;Mulheres;25 a 29;3894
+80051;Mandaqui;2022;Mulheres;30 a 34;4172
+80051;Mandaqui;2022;Mulheres;35 a 39;4476
+80051;Mandaqui;2022;Mulheres;40 a 44;4558
+80051;Mandaqui;2022;Mulheres;45 a 49;4459
+80051;Mandaqui;2022;Mulheres;50 a 54;4231
+80051;Mandaqui;2022;Mulheres;55 a 59;4137
+80051;Mandaqui;2022;Mulheres;60 a 64;3813
+80051;Mandaqui;2022;Mulheres;65 a 69;3090
+80051;Mandaqui;2022;Mulheres;70 a 74;2449
+80051;Mandaqui;2022;Mulheres;75 e + ;3667
+80052;Marsilac;2022;Homens;00 a 04;276
+80052;Marsilac;2022;Homens;05 a 09;262
+80052;Marsilac;2022;Homens;10 a 14;265
+80052;Marsilac;2022;Homens;15 a 19;326
+80052;Marsilac;2022;Homens;20 a 24;425
+80052;Marsilac;2022;Homens;25 a 29;426
+80052;Marsilac;2022;Homens;30 a 34;377
+80052;Marsilac;2022;Homens;35 a 39;312
+80052;Marsilac;2022;Homens;40 a 44;273
+80052;Marsilac;2022;Homens;45 a 49;238
+80052;Marsilac;2022;Homens;50 a 54;243
+80052;Marsilac;2022;Homens;55 a 59;236
+80052;Marsilac;2022;Homens;60 a 64;213
+80052;Marsilac;2022;Homens;65 a 69;176
+80052;Marsilac;2022;Homens;70 a 74;119
+80052;Marsilac;2022;Homens;75 e + ;114
+80052;Marsilac;2022;Mulheres;00 a 04;264
+80052;Marsilac;2022;Mulheres;05 a 09;249
+80052;Marsilac;2022;Mulheres;10 a 14;271
+80052;Marsilac;2022;Mulheres;15 a 19;301
+80052;Marsilac;2022;Mulheres;20 a 24;404
+80052;Marsilac;2022;Mulheres;25 a 29;403
+80052;Marsilac;2022;Mulheres;30 a 34;349
+80052;Marsilac;2022;Mulheres;35 a 39;308
+80052;Marsilac;2022;Mulheres;40 a 44;290
+80052;Marsilac;2022;Mulheres;45 a 49;252
+80052;Marsilac;2022;Mulheres;50 a 54;242
+80052;Marsilac;2022;Mulheres;55 a 59;244
+80052;Marsilac;2022;Mulheres;60 a 64;218
+80052;Marsilac;2022;Mulheres;65 a 69;161
+80052;Marsilac;2022;Mulheres;70 a 74;115
+80052;Marsilac;2022;Mulheres;75 e + ;147
+80053;Mooca;2022;Homens;00 a 04;2066
+80053;Mooca;2022;Homens;05 a 09;2290
+80053;Mooca;2022;Homens;10 a 14;2099
+80053;Mooca;2022;Homens;15 a 19;1945
+80053;Mooca;2022;Homens;20 a 24;2140
+80053;Mooca;2022;Homens;25 a 29;2442
+80053;Mooca;2022;Homens;30 a 34;2868
+80053;Mooca;2022;Homens;35 a 39;3231
+80053;Mooca;2022;Homens;40 a 44;3265
+80053;Mooca;2022;Homens;45 a 49;3002
+80053;Mooca;2022;Homens;50 a 54;2776
+80053;Mooca;2022;Homens;55 a 59;2580
+80053;Mooca;2022;Homens;60 a 64;2305
+80053;Mooca;2022;Homens;65 a 69;1894
+80053;Mooca;2022;Homens;70 a 74;1320
+80053;Mooca;2022;Homens;75 e + ;1819
+80053;Mooca;2022;Mulheres;00 a 04;1975
+80053;Mooca;2022;Mulheres;05 a 09;2191
+80053;Mooca;2022;Mulheres;10 a 14;2045
+80053;Mooca;2022;Mulheres;15 a 19;1891
+80053;Mooca;2022;Mulheres;20 a 24;2084
+80053;Mooca;2022;Mulheres;25 a 29;2398
+80053;Mooca;2022;Mulheres;30 a 34;2868
+80053;Mooca;2022;Mulheres;35 a 39;3327
+80053;Mooca;2022;Mulheres;40 a 44;3476
+80053;Mooca;2022;Mulheres;45 a 49;3307
+80053;Mooca;2022;Mulheres;50 a 54;3058
+80053;Mooca;2022;Mulheres;55 a 59;2952
+80053;Mooca;2022;Mulheres;60 a 64;2828
+80053;Mooca;2022;Mulheres;65 a 69;2435
+80053;Mooca;2022;Mulheres;70 a 74;1950
+80053;Mooca;2022;Mulheres;75 e + ;3795
+80054;Morumbi;2022;Homens;00 a 04;1657
+80054;Morumbi;2022;Homens;05 a 09;1815
+80054;Morumbi;2022;Homens;10 a 14;1564
+80054;Morumbi;2022;Homens;15 a 19;1459
+80054;Morumbi;2022;Homens;20 a 24;1698
+80054;Morumbi;2022;Homens;25 a 29;1743
+80054;Morumbi;2022;Homens;30 a 34;1736
+80054;Morumbi;2022;Homens;35 a 39;1875
+80054;Morumbi;2022;Homens;40 a 44;1922
+80054;Morumbi;2022;Homens;45 a 49;1803
+80054;Morumbi;2022;Homens;50 a 54;1696
+80054;Morumbi;2022;Homens;55 a 59;1582
+80054;Morumbi;2022;Homens;60 a 64;1372
+80054;Morumbi;2022;Homens;65 a 69;1120
+80054;Morumbi;2022;Homens;70 a 74;878
+80054;Morumbi;2022;Homens;75 e + ;1225
+80054;Morumbi;2022;Mulheres;00 a 04;1579
+80054;Morumbi;2022;Mulheres;05 a 09;1728
+80054;Morumbi;2022;Mulheres;10 a 14;1475
+80054;Morumbi;2022;Mulheres;15 a 19;1446
+80054;Morumbi;2022;Mulheres;20 a 24;1708
+80054;Morumbi;2022;Mulheres;25 a 29;1756
+80054;Morumbi;2022;Mulheres;30 a 34;1899
+80054;Morumbi;2022;Mulheres;35 a 39;2121
+80054;Morumbi;2022;Mulheres;40 a 44;2284
+80054;Morumbi;2022;Mulheres;45 a 49;2250
+80054;Morumbi;2022;Mulheres;50 a 54;2084
+80054;Morumbi;2022;Mulheres;55 a 59;1925
+80054;Morumbi;2022;Mulheres;60 a 64;1730
+80054;Morumbi;2022;Mulheres;65 a 69;1473
+80054;Morumbi;2022;Mulheres;70 a 74;1205
+80054;Morumbi;2022;Mulheres;75 e + ;1836
+80055;Parelheiros;2022;Homens;00 a 04;6497
+80055;Parelheiros;2022;Homens;05 a 09;6490
+80055;Parelheiros;2022;Homens;10 a 14;5766
+80055;Parelheiros;2022;Homens;15 a 19;5894
+80055;Parelheiros;2022;Homens;20 a 24;7117
+80055;Parelheiros;2022;Homens;25 a 29;7076
+80055;Parelheiros;2022;Homens;30 a 34;6298
+80055;Parelheiros;2022;Homens;35 a 39;5813
+80055;Parelheiros;2022;Homens;40 a 44;5446
+80055;Parelheiros;2022;Homens;45 a 49;4980
+80055;Parelheiros;2022;Homens;50 a 54;4482
+80055;Parelheiros;2022;Homens;55 a 59;3665
+80055;Parelheiros;2022;Homens;60 a 64;2891
+80055;Parelheiros;2022;Homens;65 a 69;2122
+80055;Parelheiros;2022;Homens;70 a 74;1338
+80055;Parelheiros;2022;Homens;75 e + ;1132
+80055;Parelheiros;2022;Mulheres;00 a 04;6198
+80055;Parelheiros;2022;Mulheres;05 a 09;6200
+80055;Parelheiros;2022;Mulheres;10 a 14;5530
+80055;Parelheiros;2022;Mulheres;15 a 19;5781
+80055;Parelheiros;2022;Mulheres;20 a 24;7084
+80055;Parelheiros;2022;Mulheres;25 a 29;7192
+80055;Parelheiros;2022;Mulheres;30 a 34;6430
+80055;Parelheiros;2022;Mulheres;35 a 39;6153
+80055;Parelheiros;2022;Mulheres;40 a 44;5954
+80055;Parelheiros;2022;Mulheres;45 a 49;5555
+80055;Parelheiros;2022;Mulheres;50 a 54;5018
+80055;Parelheiros;2022;Mulheres;55 a 59;4160
+80055;Parelheiros;2022;Mulheres;60 a 64;3349
+80055;Parelheiros;2022;Mulheres;65 a 69;2435
+80055;Parelheiros;2022;Mulheres;70 a 74;1669
+80055;Parelheiros;2022;Mulheres;75 e + ;1642
+80056;Pari;2022;Homens;00 a 04;711
+80056;Pari;2022;Homens;05 a 09;773
+80056;Pari;2022;Homens;10 a 14;634
+80056;Pari;2022;Homens;15 a 19;558
+80056;Pari;2022;Homens;20 a 24;598
+80056;Pari;2022;Homens;25 a 29;656
+80056;Pari;2022;Homens;30 a 34;784
+80056;Pari;2022;Homens;35 a 39;833
+80056;Pari;2022;Homens;40 a 44;740
+80056;Pari;2022;Homens;45 a 49;607
+80056;Pari;2022;Homens;50 a 54;560
+80056;Pari;2022;Homens;55 a 59;488
+80056;Pari;2022;Homens;60 a 64;401
+80056;Pari;2022;Homens;65 a 69;304
+80056;Pari;2022;Homens;70 a 74;237
+80056;Pari;2022;Homens;75 e + ;330
+80056;Pari;2022;Mulheres;00 a 04;682
+80056;Pari;2022;Mulheres;05 a 09;743
+80056;Pari;2022;Mulheres;10 a 14;629
+80056;Pari;2022;Mulheres;15 a 19;572
+80056;Pari;2022;Mulheres;20 a 24;630
+80056;Pari;2022;Mulheres;25 a 29;650
+80056;Pari;2022;Mulheres;30 a 34;758
+80056;Pari;2022;Mulheres;35 a 39;838
+80056;Pari;2022;Mulheres;40 a 44;743
+80056;Pari;2022;Mulheres;45 a 49;684
+80056;Pari;2022;Mulheres;50 a 54;621
+80056;Pari;2022;Mulheres;55 a 59;575
+80056;Pari;2022;Mulheres;60 a 64;521
+80056;Pari;2022;Mulheres;65 a 69;414
+80056;Pari;2022;Mulheres;70 a 74;351
+80056;Pari;2022;Mulheres;75 e + ;699
+80057;Parque do Carmo;2022;Homens;00 a 04;2433
+80057;Parque do Carmo;2022;Homens;05 a 09;2555
+80057;Parque do Carmo;2022;Homens;10 a 14;2420
+80057;Parque do Carmo;2022;Homens;15 a 19;2506
+80057;Parque do Carmo;2022;Homens;20 a 24;2884
+80057;Parque do Carmo;2022;Homens;25 a 29;2922
+80057;Parque do Carmo;2022;Homens;30 a 34;2916
+80057;Parque do Carmo;2022;Homens;35 a 39;2997
+80057;Parque do Carmo;2022;Homens;40 a 44;2726
+80057;Parque do Carmo;2022;Homens;45 a 49;2460
+80057;Parque do Carmo;2022;Homens;50 a 54;2216
+80057;Parque do Carmo;2022;Homens;55 a 59;1783
+80057;Parque do Carmo;2022;Homens;60 a 64;1473
+80057;Parque do Carmo;2022;Homens;65 a 69;1192
+80057;Parque do Carmo;2022;Homens;70 a 74;868
+80057;Parque do Carmo;2022;Homens;75 e + ;818
+80057;Parque do Carmo;2022;Mulheres;00 a 04;2315
+80057;Parque do Carmo;2022;Mulheres;05 a 09;2432
+80057;Parque do Carmo;2022;Mulheres;10 a 14;2304
+80057;Parque do Carmo;2022;Mulheres;15 a 19;2385
+80057;Parque do Carmo;2022;Mulheres;20 a 24;2808
+80057;Parque do Carmo;2022;Mulheres;25 a 29;2875
+80057;Parque do Carmo;2022;Mulheres;30 a 34;2940
+80057;Parque do Carmo;2022;Mulheres;35 a 39;3086
+80057;Parque do Carmo;2022;Mulheres;40 a 44;3080
+80057;Parque do Carmo;2022;Mulheres;45 a 49;2723
+80057;Parque do Carmo;2022;Mulheres;50 a 54;2369
+80057;Parque do Carmo;2022;Mulheres;55 a 59;2104
+80057;Parque do Carmo;2022;Mulheres;60 a 64;1846
+80057;Parque do Carmo;2022;Mulheres;65 a 69;1487
+80057;Parque do Carmo;2022;Mulheres;70 a 74;1103
+80057;Parque do Carmo;2022;Mulheres;75 e + ;1307
+80058;Pedreira;2022;Homens;00 a 04;5560
+80058;Pedreira;2022;Homens;05 a 09;5624
+80058;Pedreira;2022;Homens;10 a 14;5492
+80058;Pedreira;2022;Homens;15 a 19;5723
+80058;Pedreira;2022;Homens;20 a 24;6900
+80058;Pedreira;2022;Homens;25 a 29;7161
+80058;Pedreira;2022;Homens;30 a 34;6941
+80058;Pedreira;2022;Homens;35 a 39;6666
+80058;Pedreira;2022;Homens;40 a 44;6144
+80058;Pedreira;2022;Homens;45 a 49;5487
+80058;Pedreira;2022;Homens;50 a 54;4881
+80058;Pedreira;2022;Homens;55 a 59;4047
+80058;Pedreira;2022;Homens;60 a 64;3254
+80058;Pedreira;2022;Homens;65 a 69;2426
+80058;Pedreira;2022;Homens;70 a 74;1633
+80058;Pedreira;2022;Homens;75 e + ;1444
+80058;Pedreira;2022;Mulheres;00 a 04;5306
+80058;Pedreira;2022;Mulheres;05 a 09;5370
+80058;Pedreira;2022;Mulheres;10 a 14;5297
+80058;Pedreira;2022;Mulheres;15 a 19;5612
+80058;Pedreira;2022;Mulheres;20 a 24;6666
+80058;Pedreira;2022;Mulheres;25 a 29;7122
+80058;Pedreira;2022;Mulheres;30 a 34;7134
+80058;Pedreira;2022;Mulheres;35 a 39;7123
+80058;Pedreira;2022;Mulheres;40 a 44;6876
+80058;Pedreira;2022;Mulheres;45 a 49;6182
+80058;Pedreira;2022;Mulheres;50 a 54;5526
+80058;Pedreira;2022;Mulheres;55 a 59;4701
+80058;Pedreira;2022;Mulheres;60 a 64;3954
+80058;Pedreira;2022;Mulheres;65 a 69;3082
+80058;Pedreira;2022;Mulheres;70 a 74;2146
+80058;Pedreira;2022;Mulheres;75 e + ;2438
+80059;Penha;2022;Homens;00 a 04;3526
+80059;Penha;2022;Homens;05 a 09;3788
+80059;Penha;2022;Homens;10 a 14;3483
+80059;Penha;2022;Homens;15 a 19;3450
+80059;Penha;2022;Homens;20 a 24;4036
+80059;Penha;2022;Homens;25 a 29;4396
+80059;Penha;2022;Homens;30 a 34;4803
+80059;Penha;2022;Homens;35 a 39;5198
+80059;Penha;2022;Homens;40 a 44;4883
+80059;Penha;2022;Homens;45 a 49;4323
+80059;Penha;2022;Homens;50 a 54;3988
+80059;Penha;2022;Homens;55 a 59;3758
+80059;Penha;2022;Homens;60 a 64;3357
+80059;Penha;2022;Homens;65 a 69;2682
+80059;Penha;2022;Homens;70 a 74;2005
+80059;Penha;2022;Homens;75 e + ;2586
+80059;Penha;2022;Mulheres;00 a 04;3375
+80059;Penha;2022;Mulheres;05 a 09;3629
+80059;Penha;2022;Mulheres;10 a 14;3401
+80059;Penha;2022;Mulheres;15 a 19;3370
+80059;Penha;2022;Mulheres;20 a 24;3960
+80059;Penha;2022;Mulheres;25 a 29;4403
+80059;Penha;2022;Mulheres;30 a 34;4978
+80059;Penha;2022;Mulheres;35 a 39;5449
+80059;Penha;2022;Mulheres;40 a 44;5340
+80059;Penha;2022;Mulheres;45 a 49;4885
+80059;Penha;2022;Mulheres;50 a 54;4676
+80059;Penha;2022;Mulheres;55 a 59;4673
+80059;Penha;2022;Mulheres;60 a 64;4430
+80059;Penha;2022;Mulheres;65 a 69;3831
+80059;Penha;2022;Mulheres;70 a 74;3110
+80059;Penha;2022;Mulheres;75 e + ;5255
+80060;Perdizes;2022;Homens;00 a 04;2370
+80060;Perdizes;2022;Homens;05 a 09;2672
+80060;Perdizes;2022;Homens;10 a 14;2591
+80060;Perdizes;2022;Homens;15 a 19;2521
+80060;Perdizes;2022;Homens;20 a 24;2645
+80060;Perdizes;2022;Homens;25 a 29;2899
+80060;Perdizes;2022;Homens;30 a 34;3772
+80060;Perdizes;2022;Homens;35 a 39;4756
+80060;Perdizes;2022;Homens;40 a 44;5080
+80060;Perdizes;2022;Homens;45 a 49;4341
+80060;Perdizes;2022;Homens;50 a 54;3698
+80060;Perdizes;2022;Homens;55 a 59;3481
+80060;Perdizes;2022;Homens;60 a 64;3390
+80060;Perdizes;2022;Homens;65 a 69;3048
+80060;Perdizes;2022;Homens;70 a 74;2404
+80060;Perdizes;2022;Homens;75 e + ;2997
+80060;Perdizes;2022;Mulheres;00 a 04;2266
+80060;Perdizes;2022;Mulheres;05 a 09;2555
+80060;Perdizes;2022;Mulheres;10 a 14;2479
+80060;Perdizes;2022;Mulheres;15 a 19;2417
+80060;Perdizes;2022;Mulheres;20 a 24;2507
+80060;Perdizes;2022;Mulheres;25 a 29;2827
+80060;Perdizes;2022;Mulheres;30 a 34;3945
+80060;Perdizes;2022;Mulheres;35 a 39;5464
+80060;Perdizes;2022;Mulheres;40 a 44;5850
+80060;Perdizes;2022;Mulheres;45 a 49;5019
+80060;Perdizes;2022;Mulheres;50 a 54;4294
+80060;Perdizes;2022;Mulheres;55 a 59;4298
+80060;Perdizes;2022;Mulheres;60 a 64;4453
+80060;Perdizes;2022;Mulheres;65 a 69;4201
+80060;Perdizes;2022;Mulheres;70 a 74;3600
+80060;Perdizes;2022;Mulheres;75 e + ;5870
+80061;Perus;2022;Homens;00 a 04;3596
+80061;Perus;2022;Homens;05 a 09;3655
+80061;Perus;2022;Homens;10 a 14;3197
+80061;Perus;2022;Homens;15 a 19;3186
+80061;Perus;2022;Homens;20 a 24;3859
+80061;Perus;2022;Homens;25 a 29;3957
+80061;Perus;2022;Homens;30 a 34;3784
+80061;Perus;2022;Homens;35 a 39;3420
+80061;Perus;2022;Homens;40 a 44;3137
+80061;Perus;2022;Homens;45 a 49;2998
+80061;Perus;2022;Homens;50 a 54;2767
+80061;Perus;2022;Homens;55 a 59;2272
+80061;Perus;2022;Homens;60 a 64;1740
+80061;Perus;2022;Homens;65 a 69;1265
+80061;Perus;2022;Homens;70 a 74;833
+80061;Perus;2022;Homens;75 e + ;769
+80061;Perus;2022;Mulheres;00 a 04;3415
+80061;Perus;2022;Mulheres;05 a 09;3470
+80061;Perus;2022;Mulheres;10 a 14;3093
+80061;Perus;2022;Mulheres;15 a 19;3113
+80061;Perus;2022;Mulheres;20 a 24;3833
+80061;Perus;2022;Mulheres;25 a 29;4007
+80061;Perus;2022;Mulheres;30 a 34;3847
+80061;Perus;2022;Mulheres;35 a 39;3691
+80061;Perus;2022;Mulheres;40 a 44;3532
+80061;Perus;2022;Mulheres;45 a 49;3257
+80061;Perus;2022;Mulheres;50 a 54;2951
+80061;Perus;2022;Mulheres;55 a 59;2501
+80061;Perus;2022;Mulheres;60 a 64;1997
+80061;Perus;2022;Mulheres;65 a 69;1500
+80061;Perus;2022;Mulheres;70 a 74;1079
+80061;Perus;2022;Mulheres;75 e + ;1193
+80062;Pinheiros;2022;Homens;00 a 04;1323
+80062;Pinheiros;2022;Homens;05 a 09;1565
+80062;Pinheiros;2022;Homens;10 a 14;1491
+80062;Pinheiros;2022;Homens;15 a 19;1330
+80062;Pinheiros;2022;Homens;20 a 24;1340
+80062;Pinheiros;2022;Homens;25 a 29;1433
+80062;Pinheiros;2022;Homens;30 a 34;1895
+80062;Pinheiros;2022;Homens;35 a 39;2749
+80062;Pinheiros;2022;Homens;40 a 44;3095
+80062;Pinheiros;2022;Homens;45 a 49;2617
+80062;Pinheiros;2022;Homens;50 a 54;2163
+80062;Pinheiros;2022;Homens;55 a 59;2022
+80062;Pinheiros;2022;Homens;60 a 64;1869
+80062;Pinheiros;2022;Homens;65 a 69;1639
+80062;Pinheiros;2022;Homens;70 a 74;1308
+80062;Pinheiros;2022;Homens;75 e + ;1892
+80062;Pinheiros;2022;Mulheres;00 a 04;1266
+80062;Pinheiros;2022;Mulheres;05 a 09;1497
+80062;Pinheiros;2022;Mulheres;10 a 14;1377
+80062;Pinheiros;2022;Mulheres;15 a 19;1253
+80062;Pinheiros;2022;Mulheres;20 a 24;1312
+80062;Pinheiros;2022;Mulheres;25 a 29;1458
+80062;Pinheiros;2022;Mulheres;30 a 34;1997
+80062;Pinheiros;2022;Mulheres;35 a 39;3034
+80062;Pinheiros;2022;Mulheres;40 a 44;3494
+80062;Pinheiros;2022;Mulheres;45 a 49;3007
+80062;Pinheiros;2022;Mulheres;50 a 54;2609
+80062;Pinheiros;2022;Mulheres;55 a 59;2579
+80062;Pinheiros;2022;Mulheres;60 a 64;2577
+80062;Pinheiros;2022;Mulheres;65 a 69;2437
+80062;Pinheiros;2022;Mulheres;70 a 74;2043
+80062;Pinheiros;2022;Mulheres;75 e + ;3972
+80063;Pirituba;2022;Homens;00 a 04;5146
+80063;Pirituba;2022;Homens;05 a 09;5498
+80063;Pirituba;2022;Homens;10 a 14;5192
+80063;Pirituba;2022;Homens;15 a 19;5139
+80063;Pirituba;2022;Homens;20 a 24;5949
+80063;Pirituba;2022;Homens;25 a 29;6245
+80063;Pirituba;2022;Homens;30 a 34;6508
+80063;Pirituba;2022;Homens;35 a 39;6910
+80063;Pirituba;2022;Homens;40 a 44;6624
+80063;Pirituba;2022;Homens;45 a 49;5726
+80063;Pirituba;2022;Homens;50 a 54;5236
+80063;Pirituba;2022;Homens;55 a 59;4869
+80063;Pirituba;2022;Homens;60 a 64;4259
+80063;Pirituba;2022;Homens;65 a 69;3360
+80063;Pirituba;2022;Homens;70 a 74;2338
+80063;Pirituba;2022;Homens;75 e + ;2623
+80063;Pirituba;2022;Mulheres;00 a 04;4915
+80063;Pirituba;2022;Mulheres;05 a 09;5257
+80063;Pirituba;2022;Mulheres;10 a 14;4898
+80063;Pirituba;2022;Mulheres;15 a 19;4836
+80063;Pirituba;2022;Mulheres;20 a 24;5689
+80063;Pirituba;2022;Mulheres;25 a 29;6196
+80063;Pirituba;2022;Mulheres;30 a 34;6681
+80063;Pirituba;2022;Mulheres;35 a 39;7303
+80063;Pirituba;2022;Mulheres;40 a 44;7227
+80063;Pirituba;2022;Mulheres;45 a 49;6596
+80063;Pirituba;2022;Mulheres;50 a 54;6081
+80063;Pirituba;2022;Mulheres;55 a 59;5847
+80063;Pirituba;2022;Mulheres;60 a 64;5461
+80063;Pirituba;2022;Mulheres;65 a 69;4555
+80063;Pirituba;2022;Mulheres;70 a 74;3452
+80063;Pirituba;2022;Mulheres;75 e + ;4854
+80064;Ponte Rasa;2022;Homens;00 a 04;2575
+80064;Ponte Rasa;2022;Homens;05 a 09;2714
+80064;Ponte Rasa;2022;Homens;10 a 14;2597
+80064;Ponte Rasa;2022;Homens;15 a 19;2651
+80064;Ponte Rasa;2022;Homens;20 a 24;3187
+80064;Ponte Rasa;2022;Homens;25 a 29;3355
+80064;Ponte Rasa;2022;Homens;30 a 34;3430
+80064;Ponte Rasa;2022;Homens;35 a 39;3617
+80064;Ponte Rasa;2022;Homens;40 a 44;3310
+80064;Ponte Rasa;2022;Homens;45 a 49;2843
+80064;Ponte Rasa;2022;Homens;50 a 54;2657
+80064;Ponte Rasa;2022;Homens;55 a 59;2469
+80064;Ponte Rasa;2022;Homens;60 a 64;2231
+80064;Ponte Rasa;2022;Homens;65 a 69;1799
+80064;Ponte Rasa;2022;Homens;70 a 74;1258
+80064;Ponte Rasa;2022;Homens;75 e + ;1465
+80064;Ponte Rasa;2022;Mulheres;00 a 04;2464
+80064;Ponte Rasa;2022;Mulheres;05 a 09;2601
+80064;Ponte Rasa;2022;Mulheres;10 a 14;2503
+80064;Ponte Rasa;2022;Mulheres;15 a 19;2565
+80064;Ponte Rasa;2022;Mulheres;20 a 24;3091
+80064;Ponte Rasa;2022;Mulheres;25 a 29;3297
+80064;Ponte Rasa;2022;Mulheres;30 a 34;3555
+80064;Ponte Rasa;2022;Mulheres;35 a 39;3837
+80064;Ponte Rasa;2022;Mulheres;40 a 44;3648
+80064;Ponte Rasa;2022;Mulheres;45 a 49;3280
+80064;Ponte Rasa;2022;Mulheres;50 a 54;3114
+80064;Ponte Rasa;2022;Mulheres;55 a 59;3093
+80064;Ponte Rasa;2022;Mulheres;60 a 64;2979
+80064;Ponte Rasa;2022;Mulheres;65 a 69;2490
+80064;Ponte Rasa;2022;Mulheres;70 a 74;1901
+80064;Ponte Rasa;2022;Mulheres;75 e + ;2796
+80065;Raposo Tavares;2022;Homens;00 a 04;3888
+80065;Raposo Tavares;2022;Homens;05 a 09;4122
+80065;Raposo Tavares;2022;Homens;10 a 14;3645
+80065;Raposo Tavares;2022;Homens;15 a 19;3599
+80065;Raposo Tavares;2022;Homens;20 a 24;4097
+80065;Raposo Tavares;2022;Homens;25 a 29;4157
+80065;Raposo Tavares;2022;Homens;30 a 34;4076
+80065;Raposo Tavares;2022;Homens;35 a 39;4249
+80065;Raposo Tavares;2022;Homens;40 a 44;4225
+80065;Raposo Tavares;2022;Homens;45 a 49;3721
+80065;Raposo Tavares;2022;Homens;50 a 54;3187
+80065;Raposo Tavares;2022;Homens;55 a 59;2578
+80065;Raposo Tavares;2022;Homens;60 a 64;2037
+80065;Raposo Tavares;2022;Homens;65 a 69;1632
+80065;Raposo Tavares;2022;Homens;70 a 74;1198
+80065;Raposo Tavares;2022;Homens;75 e + ;1188
+80065;Raposo Tavares;2022;Mulheres;00 a 04;3708
+80065;Raposo Tavares;2022;Mulheres;05 a 09;3931
+80065;Raposo Tavares;2022;Mulheres;10 a 14;3506
+80065;Raposo Tavares;2022;Mulheres;15 a 19;3521
+80065;Raposo Tavares;2022;Mulheres;20 a 24;4037
+80065;Raposo Tavares;2022;Mulheres;25 a 29;4126
+80065;Raposo Tavares;2022;Mulheres;30 a 34;4299
+80065;Raposo Tavares;2022;Mulheres;35 a 39;4744
+80065;Raposo Tavares;2022;Mulheres;40 a 44;4906
+80065;Raposo Tavares;2022;Mulheres;45 a 49;4381
+80065;Raposo Tavares;2022;Mulheres;50 a 54;3687
+80065;Raposo Tavares;2022;Mulheres;55 a 59;3148
+80065;Raposo Tavares;2022;Mulheres;60 a 64;2795
+80065;Raposo Tavares;2022;Mulheres;65 a 69;2349
+80065;Raposo Tavares;2022;Mulheres;70 a 74;1777
+80065;Raposo Tavares;2022;Mulheres;75 e + ;1995
+80066;República;2022;Homens;00 a 04;1579
+80066;República;2022;Homens;05 a 09;1842
+80066;República;2022;Homens;10 a 14;1458
+80066;República;2022;Homens;15 a 19;1205
+80066;República;2022;Homens;20 a 24;1263
+80066;República;2022;Homens;25 a 29;1493
+80066;República;2022;Homens;30 a 34;2465
+80066;República;2022;Homens;35 a 39;3591
+80066;República;2022;Homens;40 a 44;3550
+80066;República;2022;Homens;45 a 49;3046
+80066;República;2022;Homens;50 a 54;2609
+80066;República;2022;Homens;55 a 59;2144
+80066;República;2022;Homens;60 a 64;1714
+80066;República;2022;Homens;65 a 69;1285
+80066;República;2022;Homens;70 a 74;875
+80066;República;2022;Homens;75 e + ;977
+80066;República;2022;Mulheres;00 a 04;1510
+80066;República;2022;Mulheres;05 a 09;1767
+80066;República;2022;Mulheres;10 a 14;1495
+80066;República;2022;Mulheres;15 a 19;1196
+80066;República;2022;Mulheres;20 a 24;1255
+80066;República;2022;Mulheres;25 a 29;1537
+80066;República;2022;Mulheres;30 a 34;2337
+80066;República;2022;Mulheres;35 a 39;3207
+80066;República;2022;Mulheres;40 a 44;3090
+80066;República;2022;Mulheres;45 a 49;2519
+80066;República;2022;Mulheres;50 a 54;2133
+80066;República;2022;Mulheres;55 a 59;1964
+80066;República;2022;Mulheres;60 a 64;1860
+80066;República;2022;Mulheres;65 a 69;1660
+80066;República;2022;Mulheres;70 a 74;1367
+80066;República;2022;Mulheres;75 e + ;2087
+80067;Rio Pequeno;2022;Homens;00 a 04;4460
+80067;Rio Pequeno;2022;Homens;05 a 09;4880
+80067;Rio Pequeno;2022;Homens;10 a 14;3946
+80067;Rio Pequeno;2022;Homens;15 a 19;3643
+80067;Rio Pequeno;2022;Homens;20 a 24;4166
+80067;Rio Pequeno;2022;Homens;25 a 29;4300
+80067;Rio Pequeno;2022;Homens;30 a 34;4672
+80067;Rio Pequeno;2022;Homens;35 a 39;5124
+80067;Rio Pequeno;2022;Homens;40 a 44;4890
+80067;Rio Pequeno;2022;Homens;45 a 49;4237
+80067;Rio Pequeno;2022;Homens;50 a 54;3802
+80067;Rio Pequeno;2022;Homens;55 a 59;3375
+80067;Rio Pequeno;2022;Homens;60 a 64;2790
+80067;Rio Pequeno;2022;Homens;65 a 69;2155
+80067;Rio Pequeno;2022;Homens;70 a 74;1518
+80067;Rio Pequeno;2022;Homens;75 e + ;1714
+80067;Rio Pequeno;2022;Mulheres;00 a 04;4251
+80067;Rio Pequeno;2022;Mulheres;05 a 09;4651
+80067;Rio Pequeno;2022;Mulheres;10 a 14;3869
+80067;Rio Pequeno;2022;Mulheres;15 a 19;3506
+80067;Rio Pequeno;2022;Mulheres;20 a 24;4052
+80067;Rio Pequeno;2022;Mulheres;25 a 29;4273
+80067;Rio Pequeno;2022;Mulheres;30 a 34;4738
+80067;Rio Pequeno;2022;Mulheres;35 a 39;5418
+80067;Rio Pequeno;2022;Mulheres;40 a 44;5423
+80067;Rio Pequeno;2022;Mulheres;45 a 49;4789
+80067;Rio Pequeno;2022;Mulheres;50 a 54;4228
+80067;Rio Pequeno;2022;Mulheres;55 a 59;3902
+80067;Rio Pequeno;2022;Mulheres;60 a 64;3559
+80067;Rio Pequeno;2022;Mulheres;65 a 69;2873
+80067;Rio Pequeno;2022;Mulheres;70 a 74;2171
+80067;Rio Pequeno;2022;Mulheres;75 e + ;2978
+80068;Sacomã;2022;Homens;00 a 04;7823
+80068;Sacomã;2022;Homens;05 a 09;8238
+80068;Sacomã;2022;Homens;10 a 14;8070
+80068;Sacomã;2022;Homens;15 a 19;8188
+80068;Sacomã;2022;Homens;20 a 24;9325
+80068;Sacomã;2022;Homens;25 a 29;9891
+80068;Sacomã;2022;Homens;30 a 34;10463
+80068;Sacomã;2022;Homens;35 a 39;11220
+80068;Sacomã;2022;Homens;40 a 44;10761
+80068;Sacomã;2022;Homens;45 a 49;9332
+80068;Sacomã;2022;Homens;50 a 54;8256
+80068;Sacomã;2022;Homens;55 a 59;7264
+80068;Sacomã;2022;Homens;60 a 64;6193
+80068;Sacomã;2022;Homens;65 a 69;4808
+80068;Sacomã;2022;Homens;70 a 74;3259
+80068;Sacomã;2022;Homens;75 e + ;3686
+80068;Sacomã;2022;Mulheres;00 a 04;7476
+80068;Sacomã;2022;Mulheres;05 a 09;7876
+80068;Sacomã;2022;Mulheres;10 a 14;7615
+80068;Sacomã;2022;Mulheres;15 a 19;7870
+80068;Sacomã;2022;Mulheres;20 a 24;9210
+80068;Sacomã;2022;Mulheres;25 a 29;9885
+80068;Sacomã;2022;Mulheres;30 a 34;10643
+80068;Sacomã;2022;Mulheres;35 a 39;11813
+80068;Sacomã;2022;Mulheres;40 a 44;11735
+80068;Sacomã;2022;Mulheres;45 a 49;10541
+80068;Sacomã;2022;Mulheres;50 a 54;9357
+80068;Sacomã;2022;Mulheres;55 a 59;8765
+80068;Sacomã;2022;Mulheres;60 a 64;7869
+80068;Sacomã;2022;Mulheres;65 a 69;6436
+80068;Sacomã;2022;Mulheres;70 a 74;4852
+80068;Sacomã;2022;Mulheres;75 e + ;7030
+80069;Santa Cecília;2022;Homens;00 a 04;2210
+80069;Santa Cecília;2022;Homens;05 a 09;2508
+80069;Santa Cecília;2022;Homens;10 a 14;2150
+80069;Santa Cecília;2022;Homens;15 a 19;1876
+80069;Santa Cecília;2022;Homens;20 a 24;2039
+80069;Santa Cecília;2022;Homens;25 a 29;2337
+80069;Santa Cecília;2022;Homens;30 a 34;3151
+80069;Santa Cecília;2022;Homens;35 a 39;4142
+80069;Santa Cecília;2022;Homens;40 a 44;4098
+80069;Santa Cecília;2022;Homens;45 a 49;3557
+80069;Santa Cecília;2022;Homens;50 a 54;3109
+80069;Santa Cecília;2022;Homens;55 a 59;2769
+80069;Santa Cecília;2022;Homens;60 a 64;2366
+80069;Santa Cecília;2022;Homens;65 a 69;1922
+80069;Santa Cecília;2022;Homens;70 a 74;1439
+80069;Santa Cecília;2022;Homens;75 e + ;1841
+80069;Santa Cecília;2022;Mulheres;00 a 04;2111
+80069;Santa Cecília;2022;Mulheres;05 a 09;2398
+80069;Santa Cecília;2022;Mulheres;10 a 14;2037
+80069;Santa Cecília;2022;Mulheres;15 a 19;1772
+80069;Santa Cecília;2022;Mulheres;20 a 24;1959
+80069;Santa Cecília;2022;Mulheres;25 a 29;2364
+80069;Santa Cecília;2022;Mulheres;30 a 34;3389
+80069;Santa Cecília;2022;Mulheres;35 a 39;4529
+80069;Santa Cecília;2022;Mulheres;40 a 44;4555
+80069;Santa Cecília;2022;Mulheres;45 a 49;3756
+80069;Santa Cecília;2022;Mulheres;50 a 54;3300
+80069;Santa Cecília;2022;Mulheres;55 a 59;3131
+80069;Santa Cecília;2022;Mulheres;60 a 64;3041
+80069;Santa Cecília;2022;Mulheres;65 a 69;2757
+80069;Santa Cecília;2022;Mulheres;70 a 74;2248
+80069;Santa Cecília;2022;Mulheres;75 e + ;3843
+80070;Santana;2022;Homens;00 a 04;2721
+80070;Santana;2022;Homens;05 a 09;3022
+80070;Santana;2022;Homens;10 a 14;2614
+80070;Santana;2022;Homens;15 a 19;2426
+80070;Santana;2022;Homens;20 a 24;2873
+80070;Santana;2022;Homens;25 a 29;3316
+80070;Santana;2022;Homens;30 a 34;3780
+80070;Santana;2022;Homens;35 a 39;4231
+80070;Santana;2022;Homens;40 a 44;4072
+80070;Santana;2022;Homens;45 a 49;3590
+80070;Santana;2022;Homens;50 a 54;3348
+80070;Santana;2022;Homens;55 a 59;3374
+80070;Santana;2022;Homens;60 a 64;3257
+80070;Santana;2022;Homens;65 a 69;2799
+80070;Santana;2022;Homens;70 a 74;2100
+80070;Santana;2022;Homens;75 e + ;2679
+80070;Santana;2022;Mulheres;00 a 04;2610
+80070;Santana;2022;Mulheres;05 a 09;2901
+80070;Santana;2022;Mulheres;10 a 14;2540
+80070;Santana;2022;Mulheres;15 a 19;2361
+80070;Santana;2022;Mulheres;20 a 24;2824
+80070;Santana;2022;Mulheres;25 a 29;3298
+80070;Santana;2022;Mulheres;30 a 34;4257
+80070;Santana;2022;Mulheres;35 a 39;5272
+80070;Santana;2022;Mulheres;40 a 44;5186
+80070;Santana;2022;Mulheres;45 a 49;4536
+80070;Santana;2022;Mulheres;50 a 54;4227
+80070;Santana;2022;Mulheres;55 a 59;4389
+80070;Santana;2022;Mulheres;60 a 64;4488
+80070;Santana;2022;Mulheres;65 a 69;4090
+80070;Santana;2022;Mulheres;70 a 74;3262
+80070;Santana;2022;Mulheres;75 e + ;5635
+80071;Santo Amaro;2022;Homens;00 a 04;1644
+80071;Santo Amaro;2022;Homens;05 a 09;1859
+80071;Santo Amaro;2022;Homens;10 a 14;1798
+80071;Santo Amaro;2022;Homens;15 a 19;1791
+80071;Santo Amaro;2022;Homens;20 a 24;2061
+80071;Santo Amaro;2022;Homens;25 a 29;2202
+80071;Santo Amaro;2022;Homens;30 a 34;2367
+80071;Santo Amaro;2022;Homens;35 a 39;2737
+80071;Santo Amaro;2022;Homens;40 a 44;2875
+80071;Santo Amaro;2022;Homens;45 a 49;2739
+80071;Santo Amaro;2022;Homens;50 a 54;2517
+80071;Santo Amaro;2022;Homens;55 a 59;2447
+80071;Santo Amaro;2022;Homens;60 a 64;2241
+80071;Santo Amaro;2022;Homens;65 a 69;1878
+80071;Santo Amaro;2022;Homens;70 a 74;1471
+80071;Santo Amaro;2022;Homens;75 e + ;2121
+80071;Santo Amaro;2022;Mulheres;00 a 04;1570
+80071;Santo Amaro;2022;Mulheres;05 a 09;1776
+80071;Santo Amaro;2022;Mulheres;10 a 14;1781
+80071;Santo Amaro;2022;Mulheres;15 a 19;1788
+80071;Santo Amaro;2022;Mulheres;20 a 24;1926
+80071;Santo Amaro;2022;Mulheres;25 a 29;2067
+80071;Santo Amaro;2022;Mulheres;30 a 34;2378
+80071;Santo Amaro;2022;Mulheres;35 a 39;2826
+80071;Santo Amaro;2022;Mulheres;40 a 44;3203
+80071;Santo Amaro;2022;Mulheres;45 a 49;3217
+80071;Santo Amaro;2022;Mulheres;50 a 54;2979
+80071;Santo Amaro;2022;Mulheres;55 a 59;2854
+80071;Santo Amaro;2022;Mulheres;60 a 64;2747
+80071;Santo Amaro;2022;Mulheres;65 a 69;2501
+80071;Santo Amaro;2022;Mulheres;70 a 74;2170
+80071;Santo Amaro;2022;Mulheres;75 e + ;3829
+80072;São Lucas;2022;Homens;00 a 04;3793
+80072;São Lucas;2022;Homens;05 a 09;3979
+80072;São Lucas;2022;Homens;10 a 14;3960
+80072;São Lucas;2022;Homens;15 a 19;4091
+80072;São Lucas;2022;Homens;20 a 24;4651
+80072;São Lucas;2022;Homens;25 a 29;4990
+80072;São Lucas;2022;Homens;30 a 34;5468
+80072;São Lucas;2022;Homens;35 a 39;5911
+80072;São Lucas;2022;Homens;40 a 44;5522
+80072;São Lucas;2022;Homens;45 a 49;4844
+80072;São Lucas;2022;Homens;50 a 54;4401
+80072;São Lucas;2022;Homens;55 a 59;4299
+80072;São Lucas;2022;Homens;60 a 64;3823
+80072;São Lucas;2022;Homens;65 a 69;2977
+80072;São Lucas;2022;Homens;70 a 74;2132
+80072;São Lucas;2022;Homens;75 e + ;2801
+80072;São Lucas;2022;Mulheres;00 a 04;3629
+80072;São Lucas;2022;Mulheres;05 a 09;3810
+80072;São Lucas;2022;Mulheres;10 a 14;3841
+80072;São Lucas;2022;Mulheres;15 a 19;3966
+80072;São Lucas;2022;Mulheres;20 a 24;4514
+80072;São Lucas;2022;Mulheres;25 a 29;4951
+80072;São Lucas;2022;Mulheres;30 a 34;5503
+80072;São Lucas;2022;Mulheres;35 a 39;6036
+80072;São Lucas;2022;Mulheres;40 a 44;5965
+80072;São Lucas;2022;Mulheres;45 a 49;5433
+80072;São Lucas;2022;Mulheres;50 a 54;5101
+80072;São Lucas;2022;Mulheres;55 a 59;5159
+80072;São Lucas;2022;Mulheres;60 a 64;4774
+80072;São Lucas;2022;Mulheres;65 a 69;4040
+80072;São Lucas;2022;Mulheres;70 a 74;3261
+80072;São Lucas;2022;Mulheres;75 e + ;5189
+80073;São Mateus;2022;Homens;00 a 04;5147
+80073;São Mateus;2022;Homens;05 a 09;5412
+80073;São Mateus;2022;Homens;10 a 14;4968
+80073;São Mateus;2022;Homens;15 a 19;5010
+80073;São Mateus;2022;Homens;20 a 24;6003
+80073;São Mateus;2022;Homens;25 a 29;6235
+80073;São Mateus;2022;Homens;30 a 34;6244
+80073;São Mateus;2022;Homens;35 a 39;6317
+80073;São Mateus;2022;Homens;40 a 44;5805
+80073;São Mateus;2022;Homens;45 a 49;5165
+80073;São Mateus;2022;Homens;50 a 54;4668
+80073;São Mateus;2022;Homens;55 a 59;4135
+80073;São Mateus;2022;Homens;60 a 64;3526
+80073;São Mateus;2022;Homens;65 a 69;2765
+80073;São Mateus;2022;Homens;70 a 74;1934
+80073;São Mateus;2022;Homens;75 e + ;2094
+80073;São Mateus;2022;Mulheres;00 a 04;4911
+80073;São Mateus;2022;Mulheres;05 a 09;5169
+80073;São Mateus;2022;Mulheres;10 a 14;4716
+80073;São Mateus;2022;Mulheres;15 a 19;4750
+80073;São Mateus;2022;Mulheres;20 a 24;5843
+80073;São Mateus;2022;Mulheres;25 a 29;6128
+80073;São Mateus;2022;Mulheres;30 a 34;6271
+80073;São Mateus;2022;Mulheres;35 a 39;6655
+80073;São Mateus;2022;Mulheres;40 a 44;6288
+80073;São Mateus;2022;Mulheres;45 a 49;5696
+80073;São Mateus;2022;Mulheres;50 a 54;5297
+80073;São Mateus;2022;Mulheres;55 a 59;4934
+80073;São Mateus;2022;Mulheres;60 a 64;4396
+80073;São Mateus;2022;Mulheres;65 a 69;3494
+80073;São Mateus;2022;Mulheres;70 a 74;2629
+80073;São Mateus;2022;Mulheres;75 e + ;3459
+80074;São Miguel;2022;Homens;00 a 04;3345
+80074;São Miguel;2022;Homens;05 a 09;3542
+80074;São Miguel;2022;Homens;10 a 14;2913
+80074;São Miguel;2022;Homens;15 a 19;2722
+80074;São Miguel;2022;Homens;20 a 24;3295
+80074;São Miguel;2022;Homens;25 a 29;3484
+80074;São Miguel;2022;Homens;30 a 34;3495
+80074;São Miguel;2022;Homens;35 a 39;3434
+80074;São Miguel;2022;Homens;40 a 44;3011
+80074;São Miguel;2022;Homens;45 a 49;2726
+80074;São Miguel;2022;Homens;50 a 54;2585
+80074;São Miguel;2022;Homens;55 a 59;2322
+80074;São Miguel;2022;Homens;60 a 64;1955
+80074;São Miguel;2022;Homens;65 a 69;1466
+80074;São Miguel;2022;Homens;70 a 74;1012
+80074;São Miguel;2022;Homens;75 e + ;1215
+80074;São Miguel;2022;Mulheres;00 a 04;3198
+80074;São Miguel;2022;Mulheres;05 a 09;3388
+80074;São Miguel;2022;Mulheres;10 a 14;2798
+80074;São Miguel;2022;Mulheres;15 a 19;2609
+80074;São Miguel;2022;Mulheres;20 a 24;3272
+80074;São Miguel;2022;Mulheres;25 a 29;3501
+80074;São Miguel;2022;Mulheres;30 a 34;3645
+80074;São Miguel;2022;Mulheres;35 a 39;3638
+80074;São Miguel;2022;Mulheres;40 a 44;3351
+80074;São Miguel;2022;Mulheres;45 a 49;3055
+80074;São Miguel;2022;Mulheres;50 a 54;2954
+80074;São Miguel;2022;Mulheres;55 a 59;2827
+80074;São Miguel;2022;Mulheres;60 a 64;2495
+80074;São Miguel;2022;Mulheres;65 a 69;1959
+80074;São Miguel;2022;Mulheres;70 a 74;1450
+80074;São Miguel;2022;Mulheres;75 e + ;2209
+80075;São Rafael;2022;Homens;00 a 04;5583
+80075;São Rafael;2022;Homens;05 a 09;5652
+80075;São Rafael;2022;Homens;10 a 14;5633
+80075;São Rafael;2022;Homens;15 a 19;6235
+80075;São Rafael;2022;Homens;20 a 24;7228
+80075;São Rafael;2022;Homens;25 a 29;7082
+80075;São Rafael;2022;Homens;30 a 34;6514
+80075;São Rafael;2022;Homens;35 a 39;6156
+80075;São Rafael;2022;Homens;40 a 44;5896
+80075;São Rafael;2022;Homens;45 a 49;5606
+80075;São Rafael;2022;Homens;50 a 54;5108
+80075;São Rafael;2022;Homens;55 a 59;4216
+80075;São Rafael;2022;Homens;60 a 64;3209
+80075;São Rafael;2022;Homens;65 a 69;2330
+80075;São Rafael;2022;Homens;70 a 74;1564
+80075;São Rafael;2022;Homens;75 e + ;1575
+80075;São Rafael;2022;Mulheres;00 a 04;5319
+80075;São Rafael;2022;Mulheres;05 a 09;5385
+80075;São Rafael;2022;Mulheres;10 a 14;5437
+80075;São Rafael;2022;Mulheres;15 a 19;6005
+80075;São Rafael;2022;Mulheres;20 a 24;7036
+80075;São Rafael;2022;Mulheres;25 a 29;6895
+80075;São Rafael;2022;Mulheres;30 a 34;6493
+80075;São Rafael;2022;Mulheres;35 a 39;6617
+80075;São Rafael;2022;Mulheres;40 a 44;6501
+80075;São Rafael;2022;Mulheres;45 a 49;6030
+80075;São Rafael;2022;Mulheres;50 a 54;5445
+80075;São Rafael;2022;Mulheres;55 a 59;4657
+80075;São Rafael;2022;Mulheres;60 a 64;3685
+80075;São Rafael;2022;Mulheres;65 a 69;2809
+80075;São Rafael;2022;Mulheres;70 a 74;2110
+80075;São Rafael;2022;Mulheres;75 e + ;2383
+80076;Sapopemba;2022;Homens;00 a 04;9645
+80076;Sapopemba;2022;Homens;05 a 09;10028
+80076;Sapopemba;2022;Homens;10 a 14;9353
+80076;Sapopemba;2022;Homens;15 a 19;9576
+80076;Sapopemba;2022;Homens;20 a 24;11285
+80076;Sapopemba;2022;Homens;25 a 29;11689
+80076;Sapopemba;2022;Homens;30 a 34;11959
+80076;Sapopemba;2022;Homens;35 a 39;11871
+80076;Sapopemba;2022;Homens;40 a 44;10813
+80076;Sapopemba;2022;Homens;45 a 49;9533
+80076;Sapopemba;2022;Homens;50 a 54;8429
+80076;Sapopemba;2022;Homens;55 a 59;7465
+80076;Sapopemba;2022;Homens;60 a 64;6409
+80076;Sapopemba;2022;Homens;65 a 69;5031
+80076;Sapopemba;2022;Homens;70 a 74;3454
+80076;Sapopemba;2022;Homens;75 e + ;3474
+80076;Sapopemba;2022;Mulheres;00 a 04;9213
+80076;Sapopemba;2022;Mulheres;05 a 09;9587
+80076;Sapopemba;2022;Mulheres;10 a 14;8985
+80076;Sapopemba;2022;Mulheres;15 a 19;9187
+80076;Sapopemba;2022;Mulheres;20 a 24;10999
+80076;Sapopemba;2022;Mulheres;25 a 29;11761
+80076;Sapopemba;2022;Mulheres;30 a 34;12062
+80076;Sapopemba;2022;Mulheres;35 a 39;12477
+80076;Sapopemba;2022;Mulheres;40 a 44;11633
+80076;Sapopemba;2022;Mulheres;45 a 49;10408
+80076;Sapopemba;2022;Mulheres;50 a 54;9719
+80076;Sapopemba;2022;Mulheres;55 a 59;9162
+80076;Sapopemba;2022;Mulheres;60 a 64;8150
+80076;Sapopemba;2022;Mulheres;65 a 69;6547
+80076;Sapopemba;2022;Mulheres;70 a 74;4955
+80076;Sapopemba;2022;Mulheres;75 e + ;6187
+80077;Saúde;2022;Homens;00 a 04;2871
+80077;Saúde;2022;Homens;05 a 09;3351
+80077;Saúde;2022;Homens;10 a 14;3125
+80077;Saúde;2022;Homens;15 a 19;2835
+80077;Saúde;2022;Homens;20 a 24;3013
+80077;Saúde;2022;Homens;25 a 29;3311
+80077;Saúde;2022;Homens;30 a 34;4191
+80077;Saúde;2022;Homens;35 a 39;5486
+80077;Saúde;2022;Homens;40 a 44;5918
+80077;Saúde;2022;Homens;45 a 49;5105
+80077;Saúde;2022;Homens;50 a 54;4463
+80077;Saúde;2022;Homens;55 a 59;4186
+80077;Saúde;2022;Homens;60 a 64;3973
+80077;Saúde;2022;Homens;65 a 69;3436
+80077;Saúde;2022;Homens;70 a 74;2554
+80077;Saúde;2022;Homens;75 e + ;3488
+80077;Saúde;2022;Mulheres;00 a 04;2746
+80077;Saúde;2022;Mulheres;05 a 09;3206
+80077;Saúde;2022;Mulheres;10 a 14;3047
+80077;Saúde;2022;Mulheres;15 a 19;2849
+80077;Saúde;2022;Mulheres;20 a 24;3012
+80077;Saúde;2022;Mulheres;25 a 29;3320
+80077;Saúde;2022;Mulheres;30 a 34;4273
+80077;Saúde;2022;Mulheres;35 a 39;5918
+80077;Saúde;2022;Mulheres;40 a 44;6652
+80077;Saúde;2022;Mulheres;45 a 49;5903
+80077;Saúde;2022;Mulheres;50 a 54;5238
+80077;Saúde;2022;Mulheres;55 a 59;5192
+80077;Saúde;2022;Mulheres;60 a 64;5292
+80077;Saúde;2022;Mulheres;65 a 69;4872
+80077;Saúde;2022;Mulheres;70 a 74;4004
+80077;Saúde;2022;Mulheres;75 e + ;7085
+80078;Sé;2022;Homens;00 a 04;1007
+80078;Sé;2022;Homens;05 a 09;1154
+80078;Sé;2022;Homens;10 a 14;783
+80078;Sé;2022;Homens;15 a 19;672
+80078;Sé;2022;Homens;20 a 24;820
+80078;Sé;2022;Homens;25 a 29;885
+80078;Sé;2022;Homens;30 a 34;1109
+80078;Sé;2022;Homens;35 a 39;1319
+80078;Sé;2022;Homens;40 a 44;1229
+80078;Sé;2022;Homens;45 a 49;1166
+80078;Sé;2022;Homens;50 a 54;1009
+80078;Sé;2022;Homens;55 a 59;758
+80078;Sé;2022;Homens;60 a 64;554
+80078;Sé;2022;Homens;65 a 69;377
+80078;Sé;2022;Homens;70 a 74;229
+80078;Sé;2022;Homens;75 e + ;245
+80078;Sé;2022;Mulheres;00 a 04;958
+80078;Sé;2022;Mulheres;05 a 09;1100
+80078;Sé;2022;Mulheres;10 a 14;762
+80078;Sé;2022;Mulheres;15 a 19;666
+80078;Sé;2022;Mulheres;20 a 24;807
+80078;Sé;2022;Mulheres;25 a 29;921
+80078;Sé;2022;Mulheres;30 a 34;1182
+80078;Sé;2022;Mulheres;35 a 39;1338
+80078;Sé;2022;Mulheres;40 a 44;1298
+80078;Sé;2022;Mulheres;45 a 49;1195
+80078;Sé;2022;Mulheres;50 a 54;956
+80078;Sé;2022;Mulheres;55 a 59;699
+80078;Sé;2022;Mulheres;60 a 64;581
+80078;Sé;2022;Mulheres;65 a 69;452
+80078;Sé;2022;Mulheres;70 a 74;344
+80078;Sé;2022;Mulheres;75 e + ;483
+80079;Socorro;2022;Homens;00 a 04;915
+80079;Socorro;2022;Homens;05 a 09;1009
+80079;Socorro;2022;Homens;10 a 14;908
+80079;Socorro;2022;Homens;15 a 19;921
+80079;Socorro;2022;Homens;20 a 24;1060
+80079;Socorro;2022;Homens;25 a 29;1128
+80079;Socorro;2022;Homens;30 a 34;1262
+80079;Socorro;2022;Homens;35 a 39;1381
+80079;Socorro;2022;Homens;40 a 44;1327
+80079;Socorro;2022;Homens;45 a 49;1233
+80079;Socorro;2022;Homens;50 a 54;1117
+80079;Socorro;2022;Homens;55 a 59;1072
+80079;Socorro;2022;Homens;60 a 64;993
+80079;Socorro;2022;Homens;65 a 69;817
+80079;Socorro;2022;Homens;70 a 74;627
+80079;Socorro;2022;Homens;75 e + ;872
+80079;Socorro;2022;Mulheres;00 a 04;877
+80079;Socorro;2022;Mulheres;05 a 09;970
+80079;Socorro;2022;Mulheres;10 a 14;848
+80079;Socorro;2022;Mulheres;15 a 19;844
+80079;Socorro;2022;Mulheres;20 a 24;1014
+80079;Socorro;2022;Mulheres;25 a 29;1119
+80079;Socorro;2022;Mulheres;30 a 34;1248
+80079;Socorro;2022;Mulheres;35 a 39;1505
+80079;Socorro;2022;Mulheres;40 a 44;1565
+80079;Socorro;2022;Mulheres;45 a 49;1431
+80079;Socorro;2022;Mulheres;50 a 54;1321
+80079;Socorro;2022;Mulheres;55 a 59;1314
+80079;Socorro;2022;Mulheres;60 a 64;1265
+80079;Socorro;2022;Mulheres;65 a 69;1145
+80079;Socorro;2022;Mulheres;70 a 74;969
+80079;Socorro;2022;Mulheres;75 e + ;1632
+80080;Tatuapé;2022;Homens;00 a 04;2208
+80080;Tatuapé;2022;Homens;05 a 09;2429
+80080;Tatuapé;2022;Homens;10 a 14;2230
+80080;Tatuapé;2022;Homens;15 a 19;2314
+80080;Tatuapé;2022;Homens;20 a 24;2771
+80080;Tatuapé;2022;Homens;25 a 29;3032
+80080;Tatuapé;2022;Homens;30 a 34;3312
+80080;Tatuapé;2022;Homens;35 a 39;3619
+80080;Tatuapé;2022;Homens;40 a 44;3603
+80080;Tatuapé;2022;Homens;45 a 49;3370
+80080;Tatuapé;2022;Homens;50 a 54;3235
+80080;Tatuapé;2022;Homens;55 a 59;3248
+80080;Tatuapé;2022;Homens;60 a 64;2920
+80080;Tatuapé;2022;Homens;65 a 69;2324
+80080;Tatuapé;2022;Homens;70 a 74;1659
+80080;Tatuapé;2022;Homens;75 e + ;2186
+80080;Tatuapé;2022;Mulheres;00 a 04;2113
+80080;Tatuapé;2022;Mulheres;05 a 09;2330
+80080;Tatuapé;2022;Mulheres;10 a 14;2204
+80080;Tatuapé;2022;Mulheres;15 a 19;2216
+80080;Tatuapé;2022;Mulheres;20 a 24;2617
+80080;Tatuapé;2022;Mulheres;25 a 29;3006
+80080;Tatuapé;2022;Mulheres;30 a 34;3504
+80080;Tatuapé;2022;Mulheres;35 a 39;4013
+80080;Tatuapé;2022;Mulheres;40 a 44;4160
+80080;Tatuapé;2022;Mulheres;45 a 49;3992
+80080;Tatuapé;2022;Mulheres;50 a 54;3794
+80080;Tatuapé;2022;Mulheres;55 a 59;3869
+80080;Tatuapé;2022;Mulheres;60 a 64;3730
+80080;Tatuapé;2022;Mulheres;65 a 69;3199
+80080;Tatuapé;2022;Mulheres;70 a 74;2479
+80080;Tatuapé;2022;Mulheres;75 e + ;4561
+80081;Tremembé;2022;Homens;00 a 04;8063
+80081;Tremembé;2022;Homens;05 a 09;8308
+80081;Tremembé;2022;Homens;10 a 14;7436
+80081;Tremembé;2022;Homens;15 a 19;7499
+80081;Tremembé;2022;Homens;20 a 24;8939
+80081;Tremembé;2022;Homens;25 a 29;9286
+80081;Tremembé;2022;Homens;30 a 34;9041
+80081;Tremembé;2022;Homens;35 a 39;8855
+80081;Tremembé;2022;Homens;40 a 44;8294
+80081;Tremembé;2022;Homens;45 a 49;7547
+80081;Tremembé;2022;Homens;50 a 54;6819
+80081;Tremembé;2022;Homens;55 a 59;5905
+80081;Tremembé;2022;Homens;60 a 64;4859
+80081;Tremembé;2022;Homens;65 a 69;3703
+80081;Tremembé;2022;Homens;70 a 74;2513
+80081;Tremembé;2022;Homens;75 e + ;2634
+80081;Tremembé;2022;Mulheres;00 a 04;7693
+80081;Tremembé;2022;Mulheres;05 a 09;7934
+80081;Tremembé;2022;Mulheres;10 a 14;7171
+80081;Tremembé;2022;Mulheres;15 a 19;7238
+80081;Tremembé;2022;Mulheres;20 a 24;8804
+80081;Tremembé;2022;Mulheres;25 a 29;9365
+80081;Tremembé;2022;Mulheres;30 a 34;9286
+80081;Tremembé;2022;Mulheres;35 a 39;9375
+80081;Tremembé;2022;Mulheres;40 a 44;9022
+80081;Tremembé;2022;Mulheres;45 a 49;8481
+80081;Tremembé;2022;Mulheres;50 a 54;7756
+80081;Tremembé;2022;Mulheres;55 a 59;6822
+80081;Tremembé;2022;Mulheres;60 a 64;5877
+80081;Tremembé;2022;Mulheres;65 a 69;4786
+80081;Tremembé;2022;Mulheres;70 a 74;3552
+80081;Tremembé;2022;Mulheres;75 e + ;4620
+80082;Tucuruvi;2022;Homens;00 a 04;2316
+80082;Tucuruvi;2022;Homens;05 a 09;2496
+80082;Tucuruvi;2022;Homens;10 a 14;2362
+80082;Tucuruvi;2022;Homens;15 a 19;2328
+80082;Tucuruvi;2022;Homens;20 a 24;2702
+80082;Tucuruvi;2022;Homens;25 a 29;3034
+80082;Tucuruvi;2022;Homens;30 a 34;3547
+80082;Tucuruvi;2022;Homens;35 a 39;3931
+80082;Tucuruvi;2022;Homens;40 a 44;3746
+80082;Tucuruvi;2022;Homens;45 a 49;3276
+80082;Tucuruvi;2022;Homens;50 a 54;2935
+80082;Tucuruvi;2022;Homens;55 a 59;2795
+80082;Tucuruvi;2022;Homens;60 a 64;2653
+80082;Tucuruvi;2022;Homens;65 a 69;2282
+80082;Tucuruvi;2022;Homens;70 a 74;1656
+80082;Tucuruvi;2022;Homens;75 e + ;2217
+80082;Tucuruvi;2022;Mulheres;00 a 04;2217
+80082;Tucuruvi;2022;Mulheres;05 a 09;2390
+80082;Tucuruvi;2022;Mulheres;10 a 14;2221
+80082;Tucuruvi;2022;Mulheres;15 a 19;2230
+80082;Tucuruvi;2022;Mulheres;20 a 24;2625
+80082;Tucuruvi;2022;Mulheres;25 a 29;3013
+80082;Tucuruvi;2022;Mulheres;30 a 34;3624
+80082;Tucuruvi;2022;Mulheres;35 a 39;4209
+80082;Tucuruvi;2022;Mulheres;40 a 44;4156
+80082;Tucuruvi;2022;Mulheres;45 a 49;3629
+80082;Tucuruvi;2022;Mulheres;50 a 54;3378
+80082;Tucuruvi;2022;Mulheres;55 a 59;3499
+80082;Tucuruvi;2022;Mulheres;60 a 64;3643
+80082;Tucuruvi;2022;Mulheres;65 a 69;3362
+80082;Tucuruvi;2022;Mulheres;70 a 74;2691
+80082;Tucuruvi;2022;Mulheres;75 e + ;4607
+80083;Vila Andrade;2022;Homens;00 a 04;5445
+80083;Vila Andrade;2022;Homens;05 a 09;5475
+80083;Vila Andrade;2022;Homens;10 a 14;5596
+80083;Vila Andrade;2022;Homens;15 a 19;6108
+80083;Vila Andrade;2022;Homens;20 a 24;6941
+80083;Vila Andrade;2022;Homens;25 a 29;6890
+80083;Vila Andrade;2022;Homens;30 a 34;7183
+80083;Vila Andrade;2022;Homens;35 a 39;7346
+80083;Vila Andrade;2022;Homens;40 a 44;6858
+80083;Vila Andrade;2022;Homens;45 a 49;6302
+80083;Vila Andrade;2022;Homens;50 a 54;5325
+80083;Vila Andrade;2022;Homens;55 a 59;4298
+80083;Vila Andrade;2022;Homens;60 a 64;3367
+80083;Vila Andrade;2022;Homens;65 a 69;2315
+80083;Vila Andrade;2022;Homens;70 a 74;1485
+80083;Vila Andrade;2022;Homens;75 e + ;1475
+80083;Vila Andrade;2022;Mulheres;00 a 04;5184
+80083;Vila Andrade;2022;Mulheres;05 a 09;5223
+80083;Vila Andrade;2022;Mulheres;10 a 14;5442
+80083;Vila Andrade;2022;Mulheres;15 a 19;5993
+80083;Vila Andrade;2022;Mulheres;20 a 24;6951
+80083;Vila Andrade;2022;Mulheres;25 a 29;7151
+80083;Vila Andrade;2022;Mulheres;30 a 34;7247
+80083;Vila Andrade;2022;Mulheres;35 a 39;7436
+80083;Vila Andrade;2022;Mulheres;40 a 44;7534
+80083;Vila Andrade;2022;Mulheres;45 a 49;6887
+80083;Vila Andrade;2022;Mulheres;50 a 54;5859
+80083;Vila Andrade;2022;Mulheres;55 a 59;4818
+80083;Vila Andrade;2022;Mulheres;60 a 64;3630
+80083;Vila Andrade;2022;Mulheres;65 a 69;2654
+80083;Vila Andrade;2022;Mulheres;70 a 74;1903
+80083;Vila Andrade;2022;Mulheres;75 e + ;2212
+80084;Vila Curuçá;2022;Homens;00 a 04;5335
+80084;Vila Curuçá;2022;Homens;05 a 09;5390
+80084;Vila Curuçá;2022;Homens;10 a 14;5105
+80084;Vila Curuçá;2022;Homens;15 a 19;5416
+80084;Vila Curuçá;2022;Homens;20 a 24;6635
+80084;Vila Curuçá;2022;Homens;25 a 29;6875
+80084;Vila Curuçá;2022;Homens;30 a 34;6365
+80084;Vila Curuçá;2022;Homens;35 a 39;6161
+80084;Vila Curuçá;2022;Homens;40 a 44;5503
+80084;Vila Curuçá;2022;Homens;45 a 49;4993
+80084;Vila Curuçá;2022;Homens;50 a 54;4565
+80084;Vila Curuçá;2022;Homens;55 a 59;3854
+80084;Vila Curuçá;2022;Homens;60 a 64;3083
+80084;Vila Curuçá;2022;Homens;65 a 69;2297
+80084;Vila Curuçá;2022;Homens;70 a 74;1576
+80084;Vila Curuçá;2022;Homens;75 e + ;1674
+80084;Vila Curuçá;2022;Mulheres;00 a 04;5086
+80084;Vila Curuçá;2022;Mulheres;05 a 09;5142
+80084;Vila Curuçá;2022;Mulheres;10 a 14;4866
+80084;Vila Curuçá;2022;Mulheres;15 a 19;5216
+80084;Vila Curuçá;2022;Mulheres;20 a 24;6452
+80084;Vila Curuçá;2022;Mulheres;25 a 29;6819
+80084;Vila Curuçá;2022;Mulheres;30 a 34;6570
+80084;Vila Curuçá;2022;Mulheres;35 a 39;6402
+80084;Vila Curuçá;2022;Mulheres;40 a 44;6072
+80084;Vila Curuçá;2022;Mulheres;45 a 49;5708
+80084;Vila Curuçá;2022;Mulheres;50 a 54;5257
+80084;Vila Curuçá;2022;Mulheres;55 a 59;4570
+80084;Vila Curuçá;2022;Mulheres;60 a 64;3769
+80084;Vila Curuçá;2022;Mulheres;65 a 69;2988
+80084;Vila Curuçá;2022;Mulheres;70 a 74;2276
+80084;Vila Curuçá;2022;Mulheres;75 e + ;2789
+80085;Vila Formosa;2022;Homens;00 a 04;2423
+80085;Vila Formosa;2022;Homens;05 a 09;2543
+80085;Vila Formosa;2022;Homens;10 a 14;2474
+80085;Vila Formosa;2022;Homens;15 a 19;2516
+80085;Vila Formosa;2022;Homens;20 a 24;3028
+80085;Vila Formosa;2022;Homens;25 a 29;3336
+80085;Vila Formosa;2022;Homens;30 a 34;3575
+80085;Vila Formosa;2022;Homens;35 a 39;3720
+80085;Vila Formosa;2022;Homens;40 a 44;3411
+80085;Vila Formosa;2022;Homens;45 a 49;3027
+80085;Vila Formosa;2022;Homens;50 a 54;2844
+80085;Vila Formosa;2022;Homens;55 a 59;2852
+80085;Vila Formosa;2022;Homens;60 a 64;2697
+80085;Vila Formosa;2022;Homens;65 a 69;2183
+80085;Vila Formosa;2022;Homens;70 a 74;1539
+80085;Vila Formosa;2022;Homens;75 e + ;1989
+80085;Vila Formosa;2022;Mulheres;00 a 04;2321
+80085;Vila Formosa;2022;Mulheres;05 a 09;2439
+80085;Vila Formosa;2022;Mulheres;10 a 14;2290
+80085;Vila Formosa;2022;Mulheres;15 a 19;2393
+80085;Vila Formosa;2022;Mulheres;20 a 24;2934
+80085;Vila Formosa;2022;Mulheres;25 a 29;3242
+80085;Vila Formosa;2022;Mulheres;30 a 34;3577
+80085;Vila Formosa;2022;Mulheres;35 a 39;3878
+80085;Vila Formosa;2022;Mulheres;40 a 44;3770
+80085;Vila Formosa;2022;Mulheres;45 a 49;3432
+80085;Vila Formosa;2022;Mulheres;50 a 54;3317
+80085;Vila Formosa;2022;Mulheres;55 a 59;3462
+80085;Vila Formosa;2022;Mulheres;60 a 64;3388
+80085;Vila Formosa;2022;Mulheres;65 a 69;2952
+80085;Vila Formosa;2022;Mulheres;70 a 74;2371
+80085;Vila Formosa;2022;Mulheres;75 e + ;3881
+80086;Vila Guilherme;2022;Homens;00 a 04;1735
+80086;Vila Guilherme;2022;Homens;05 a 09;1950
+80086;Vila Guilherme;2022;Homens;10 a 14;1681
+80086;Vila Guilherme;2022;Homens;15 a 19;1601
+80086;Vila Guilherme;2022;Homens;20 a 24;1763
+80086;Vila Guilherme;2022;Homens;25 a 29;1753
+80086;Vila Guilherme;2022;Homens;30 a 34;1952
+80086;Vila Guilherme;2022;Homens;35 a 39;2280
+80086;Vila Guilherme;2022;Homens;40 a 44;2262
+80086;Vila Guilherme;2022;Homens;45 a 49;2041
+80086;Vila Guilherme;2022;Homens;50 a 54;1784
+80086;Vila Guilherme;2022;Homens;55 a 59;1574
+80086;Vila Guilherme;2022;Homens;60 a 64;1438
+80086;Vila Guilherme;2022;Homens;65 a 69;1190
+80086;Vila Guilherme;2022;Homens;70 a 74;839
+80086;Vila Guilherme;2022;Homens;75 e + ;1098
+80086;Vila Guilherme;2022;Mulheres;00 a 04;1659
+80086;Vila Guilherme;2022;Mulheres;05 a 09;1866
+80086;Vila Guilherme;2022;Mulheres;10 a 14;1618
+80086;Vila Guilherme;2022;Mulheres;15 a 19;1455
+80086;Vila Guilherme;2022;Mulheres;20 a 24;1662
+80086;Vila Guilherme;2022;Mulheres;25 a 29;1771
+80086;Vila Guilherme;2022;Mulheres;30 a 34;2013
+80086;Vila Guilherme;2022;Mulheres;35 a 39;2390
+80086;Vila Guilherme;2022;Mulheres;40 a 44;2557
+80086;Vila Guilherme;2022;Mulheres;45 a 49;2298
+80086;Vila Guilherme;2022;Mulheres;50 a 54;1984
+80086;Vila Guilherme;2022;Mulheres;55 a 59;1919
+80086;Vila Guilherme;2022;Mulheres;60 a 64;1884
+80086;Vila Guilherme;2022;Mulheres;65 a 69;1670
+80086;Vila Guilherme;2022;Mulheres;70 a 74;1354
+80086;Vila Guilherme;2022;Mulheres;75 e + ;2306
+80087;Vila Jacuí;2022;Homens;00 a 04;4577
+80087;Vila Jacuí;2022;Homens;05 a 09;4603
+80087;Vila Jacuí;2022;Homens;10 a 14;4741
+80087;Vila Jacuí;2022;Homens;15 a 19;5144
+80087;Vila Jacuí;2022;Homens;20 a 24;6092
+80087;Vila Jacuí;2022;Homens;25 a 29;6288
+80087;Vila Jacuí;2022;Homens;30 a 34;6235
+80087;Vila Jacuí;2022;Homens;35 a 39;6095
+80087;Vila Jacuí;2022;Homens;40 a 44;5498
+80087;Vila Jacuí;2022;Homens;45 a 49;4841
+80087;Vila Jacuí;2022;Homens;50 a 54;4355
+80087;Vila Jacuí;2022;Homens;55 a 59;3849
+80087;Vila Jacuí;2022;Homens;60 a 64;3179
+80087;Vila Jacuí;2022;Homens;65 a 69;2377
+80087;Vila Jacuí;2022;Homens;70 a 74;1525
+80087;Vila Jacuí;2022;Homens;75 e + ;1452
+80087;Vila Jacuí;2022;Mulheres;00 a 04;4356
+80087;Vila Jacuí;2022;Mulheres;05 a 09;4380
+80087;Vila Jacuí;2022;Mulheres;10 a 14;4551
+80087;Vila Jacuí;2022;Mulheres;15 a 19;5004
+80087;Vila Jacuí;2022;Mulheres;20 a 24;5986
+80087;Vila Jacuí;2022;Mulheres;25 a 29;6390
+80087;Vila Jacuí;2022;Mulheres;30 a 34;6436
+80087;Vila Jacuí;2022;Mulheres;35 a 39;6474
+80087;Vila Jacuí;2022;Mulheres;40 a 44;6029
+80087;Vila Jacuí;2022;Mulheres;45 a 49;5359
+80087;Vila Jacuí;2022;Mulheres;50 a 54;4888
+80087;Vila Jacuí;2022;Mulheres;55 a 59;4453
+80087;Vila Jacuí;2022;Mulheres;60 a 64;3945
+80087;Vila Jacuí;2022;Mulheres;65 a 69;3080
+80087;Vila Jacuí;2022;Mulheres;70 a 74;2139
+80087;Vila Jacuí;2022;Mulheres;75 e + ;2404
+80088;Vila Leopoldina;2022;Homens;00 a 04;1110
+80088;Vila Leopoldina;2022;Homens;05 a 09;1237
+80088;Vila Leopoldina;2022;Homens;10 a 14;1287
+80088;Vila Leopoldina;2022;Homens;15 a 19;1242
+80088;Vila Leopoldina;2022;Homens;20 a 24;1342
+80088;Vila Leopoldina;2022;Homens;25 a 29;1439
+80088;Vila Leopoldina;2022;Homens;30 a 34;1713
+80088;Vila Leopoldina;2022;Homens;35 a 39;2049
+80088;Vila Leopoldina;2022;Homens;40 a 44;2223
+80088;Vila Leopoldina;2022;Homens;45 a 49;2174
+80088;Vila Leopoldina;2022;Homens;50 a 54;1805
+80088;Vila Leopoldina;2022;Homens;55 a 59;1518
+80088;Vila Leopoldina;2022;Homens;60 a 64;1233
+80088;Vila Leopoldina;2022;Homens;65 a 69;916
+80088;Vila Leopoldina;2022;Homens;70 a 74;629
+80088;Vila Leopoldina;2022;Homens;75 e + ;772
+80088;Vila Leopoldina;2022;Mulheres;00 a 04;1058
+80088;Vila Leopoldina;2022;Mulheres;05 a 09;1181
+80088;Vila Leopoldina;2022;Mulheres;10 a 14;1226
+80088;Vila Leopoldina;2022;Mulheres;15 a 19;1218
+80088;Vila Leopoldina;2022;Mulheres;20 a 24;1307
+80088;Vila Leopoldina;2022;Mulheres;25 a 29;1378
+80088;Vila Leopoldina;2022;Mulheres;30 a 34;1456
+80088;Vila Leopoldina;2022;Mulheres;35 a 39;1743
+80088;Vila Leopoldina;2022;Mulheres;40 a 44;2142
+80088;Vila Leopoldina;2022;Mulheres;45 a 49;2160
+80088;Vila Leopoldina;2022;Mulheres;50 a 54;1792
+80088;Vila Leopoldina;2022;Mulheres;55 a 59;1611
+80088;Vila Leopoldina;2022;Mulheres;60 a 64;1387
+80088;Vila Leopoldina;2022;Mulheres;65 a 69;1091
+80088;Vila Leopoldina;2022;Mulheres;70 a 74;827
+80088;Vila Leopoldina;2022;Mulheres;75 e + ;1398
+80089;Vila Maria;2022;Homens;00 a 04;3904
+80089;Vila Maria;2022;Homens;05 a 09;4150
+80089;Vila Maria;2022;Homens;10 a 14;3636
+80089;Vila Maria;2022;Homens;15 a 19;3556
+80089;Vila Maria;2022;Homens;20 a 24;4042
+80089;Vila Maria;2022;Homens;25 a 29;4240
+80089;Vila Maria;2022;Homens;30 a 34;4592
+80089;Vila Maria;2022;Homens;35 a 39;4891
+80089;Vila Maria;2022;Homens;40 a 44;4444
+80089;Vila Maria;2022;Homens;45 a 49;3811
+80089;Vila Maria;2022;Homens;50 a 54;3309
+80089;Vila Maria;2022;Homens;55 a 59;2859
+80089;Vila Maria;2022;Homens;60 a 64;2447
+80089;Vila Maria;2022;Homens;65 a 69;1916
+80089;Vila Maria;2022;Homens;70 a 74;1288
+80089;Vila Maria;2022;Homens;75 e + ;1592
+80089;Vila Maria;2022;Mulheres;00 a 04;3735
+80089;Vila Maria;2022;Mulheres;05 a 09;3975
+80089;Vila Maria;2022;Mulheres;10 a 14;3555
+80089;Vila Maria;2022;Mulheres;15 a 19;3395
+80089;Vila Maria;2022;Mulheres;20 a 24;3960
+80089;Vila Maria;2022;Mulheres;25 a 29;4220
+80089;Vila Maria;2022;Mulheres;30 a 34;4602
+80089;Vila Maria;2022;Mulheres;35 a 39;5044
+80089;Vila Maria;2022;Mulheres;40 a 44;4767
+80089;Vila Maria;2022;Mulheres;45 a 49;4074
+80089;Vila Maria;2022;Mulheres;50 a 54;3647
+80089;Vila Maria;2022;Mulheres;55 a 59;3448
+80089;Vila Maria;2022;Mulheres;60 a 64;3144
+80089;Vila Maria;2022;Mulheres;65 a 69;2603
+80089;Vila Maria;2022;Mulheres;70 a 74;2056
+80089;Vila Maria;2022;Mulheres;75 e + ;3232
+80090;Vila Mariana;2022;Homens;00 a 04;2784
+80090;Vila Mariana;2022;Homens;05 a 09;3172
+80090;Vila Mariana;2022;Homens;10 a 14;2803
+80090;Vila Mariana;2022;Homens;15 a 19;2580
+80090;Vila Mariana;2022;Homens;20 a 24;2754
+80090;Vila Mariana;2022;Homens;25 a 29;3129
+80090;Vila Mariana;2022;Homens;30 a 34;4331
+80090;Vila Mariana;2022;Homens;35 a 39;5913
+80090;Vila Mariana;2022;Homens;40 a 44;6050
+80090;Vila Mariana;2022;Homens;45 a 49;4910
+80090;Vila Mariana;2022;Homens;50 a 54;4106
+80090;Vila Mariana;2022;Homens;55 a 59;3964
+80090;Vila Mariana;2022;Homens;60 a 64;3855
+80090;Vila Mariana;2022;Homens;65 a 69;3455
+80090;Vila Mariana;2022;Homens;70 a 74;2795
+80090;Vila Mariana;2022;Homens;75 e + ;3631
+80090;Vila Mariana;2022;Mulheres;00 a 04;2658
+80090;Vila Mariana;2022;Mulheres;05 a 09;3026
+80090;Vila Mariana;2022;Mulheres;10 a 14;2728
+80090;Vila Mariana;2022;Mulheres;15 a 19;2402
+80090;Vila Mariana;2022;Mulheres;20 a 24;2526
+80090;Vila Mariana;2022;Mulheres;25 a 29;3112
+80090;Vila Mariana;2022;Mulheres;30 a 34;4587
+80090;Vila Mariana;2022;Mulheres;35 a 39;6573
+80090;Vila Mariana;2022;Mulheres;40 a 44;6921
+80090;Vila Mariana;2022;Mulheres;45 a 49;5686
+80090;Vila Mariana;2022;Mulheres;50 a 54;4862
+80090;Vila Mariana;2022;Mulheres;55 a 59;4957
+80090;Vila Mariana;2022;Mulheres;60 a 64;5222
+80090;Vila Mariana;2022;Mulheres;65 a 69;5059
+80090;Vila Mariana;2022;Mulheres;70 a 74;4208
+80090;Vila Mariana;2022;Mulheres;75 e + ;7068
+80091;Vila Matilde;2022;Homens;00 a 04;2848
+80091;Vila Matilde;2022;Homens;05 a 09;3029
+80091;Vila Matilde;2022;Homens;10 a 14;2918
+80091;Vila Matilde;2022;Homens;15 a 19;2954
+80091;Vila Matilde;2022;Homens;20 a 24;3510
+80091;Vila Matilde;2022;Homens;25 a 29;3867
+80091;Vila Matilde;2022;Homens;30 a 34;4087
+80091;Vila Matilde;2022;Homens;35 a 39;4253
+80091;Vila Matilde;2022;Homens;40 a 44;4001
+80091;Vila Matilde;2022;Homens;45 a 49;3510
+80091;Vila Matilde;2022;Homens;50 a 54;3222
+80091;Vila Matilde;2022;Homens;55 a 59;3071
+80091;Vila Matilde;2022;Homens;60 a 64;2726
+80091;Vila Matilde;2022;Homens;65 a 69;2188
+80091;Vila Matilde;2022;Homens;70 a 74;1554
+80091;Vila Matilde;2022;Homens;75 e + ;1974
+80091;Vila Matilde;2022;Mulheres;00 a 04;2724
+80091;Vila Matilde;2022;Mulheres;05 a 09;2901
+80091;Vila Matilde;2022;Mulheres;10 a 14;2826
+80091;Vila Matilde;2022;Mulheres;15 a 19;2902
+80091;Vila Matilde;2022;Mulheres;20 a 24;3402
+80091;Vila Matilde;2022;Mulheres;25 a 29;3692
+80091;Vila Matilde;2022;Mulheres;30 a 34;4049
+80091;Vila Matilde;2022;Mulheres;35 a 39;4397
+80091;Vila Matilde;2022;Mulheres;40 a 44;4381
+80091;Vila Matilde;2022;Mulheres;45 a 49;4095
+80091;Vila Matilde;2022;Mulheres;50 a 54;3836
+80091;Vila Matilde;2022;Mulheres;55 a 59;3694
+80091;Vila Matilde;2022;Mulheres;60 a 64;3506
+80091;Vila Matilde;2022;Mulheres;65 a 69;3094
+80091;Vila Matilde;2022;Mulheres;70 a 74;2438
+80091;Vila Matilde;2022;Mulheres;75 e + ;3805
+80092;Vila Medeiros;2022;Homens;00 a 04;3835
+80092;Vila Medeiros;2022;Homens;05 a 09;4102
+80092;Vila Medeiros;2022;Homens;10 a 14;3734
+80092;Vila Medeiros;2022;Homens;15 a 19;3601
+80092;Vila Medeiros;2022;Homens;20 a 24;4147
+80092;Vila Medeiros;2022;Homens;25 a 29;4388
+80092;Vila Medeiros;2022;Homens;30 a 34;4741
+80092;Vila Medeiros;2022;Homens;35 a 39;5061
+80092;Vila Medeiros;2022;Homens;40 a 44;4573
+80092;Vila Medeiros;2022;Homens;45 a 49;3883
+80092;Vila Medeiros;2022;Homens;50 a 54;3426
+80092;Vila Medeiros;2022;Homens;55 a 59;3210
+80092;Vila Medeiros;2022;Homens;60 a 64;2902
+80092;Vila Medeiros;2022;Homens;65 a 69;2350
+80092;Vila Medeiros;2022;Homens;70 a 74;1674
+80092;Vila Medeiros;2022;Homens;75 e + ;2137
+80092;Vila Medeiros;2022;Mulheres;00 a 04;3672
+80092;Vila Medeiros;2022;Mulheres;05 a 09;3932
+80092;Vila Medeiros;2022;Mulheres;10 a 14;3565
+80092;Vila Medeiros;2022;Mulheres;15 a 19;3435
+80092;Vila Medeiros;2022;Mulheres;20 a 24;4063
+80092;Vila Medeiros;2022;Mulheres;25 a 29;4465
+80092;Vila Medeiros;2022;Mulheres;30 a 34;4990
+80092;Vila Medeiros;2022;Mulheres;35 a 39;5354
+80092;Vila Medeiros;2022;Mulheres;40 a 44;4983
+80092;Vila Medeiros;2022;Mulheres;45 a 49;4360
+80092;Vila Medeiros;2022;Mulheres;50 a 54;4077
+80092;Vila Medeiros;2022;Mulheres;55 a 59;3965
+80092;Vila Medeiros;2022;Mulheres;60 a 64;3945
+80092;Vila Medeiros;2022;Mulheres;65 a 69;3385
+80092;Vila Medeiros;2022;Mulheres;70 a 74;2665
+80092;Vila Medeiros;2022;Mulheres;75 e + ;4189
+80093;Vila Prudente;2022;Homens;00 a 04;2711
+80093;Vila Prudente;2022;Homens;05 a 09;2901
+80093;Vila Prudente;2022;Homens;10 a 14;2756
+80093;Vila Prudente;2022;Homens;15 a 19;2689
+80093;Vila Prudente;2022;Homens;20 a 24;3113
+80093;Vila Prudente;2022;Homens;25 a 29;3446
+80093;Vila Prudente;2022;Homens;30 a 34;4008
+80093;Vila Prudente;2022;Homens;35 a 39;4460
+80093;Vila Prudente;2022;Homens;40 a 44;4240
+80093;Vila Prudente;2022;Homens;45 a 49;3588
+80093;Vila Prudente;2022;Homens;50 a 54;3203
+80093;Vila Prudente;2022;Homens;55 a 59;3141
+80093;Vila Prudente;2022;Homens;60 a 64;2863
+80093;Vila Prudente;2022;Homens;65 a 69;2311
+80093;Vila Prudente;2022;Homens;70 a 74;1694
+80093;Vila Prudente;2022;Homens;75 e + ;2134
+80093;Vila Prudente;2022;Mulheres;00 a 04;2593
+80093;Vila Prudente;2022;Mulheres;05 a 09;2780
+80093;Vila Prudente;2022;Mulheres;10 a 14;2703
+80093;Vila Prudente;2022;Mulheres;15 a 19;2671
+80093;Vila Prudente;2022;Mulheres;20 a 24;3085
+80093;Vila Prudente;2022;Mulheres;25 a 29;3456
+80093;Vila Prudente;2022;Mulheres;30 a 34;3946
+80093;Vila Prudente;2022;Mulheres;35 a 39;4472
+80093;Vila Prudente;2022;Mulheres;40 a 44;4462
+80093;Vila Prudente;2022;Mulheres;45 a 49;4037
+80093;Vila Prudente;2022;Mulheres;50 a 54;3725
+80093;Vila Prudente;2022;Mulheres;55 a 59;3722
+80093;Vila Prudente;2022;Mulheres;60 a 64;3639
+80093;Vila Prudente;2022;Mulheres;65 a 69;3172
+80093;Vila Prudente;2022;Mulheres;70 a 74;2526
+80093;Vila Prudente;2022;Mulheres;75 e + ;4295
+80094;Vila Sônia;2022;Homens;00 a 04;3819
+80094;Vila Sônia;2022;Homens;05 a 09;4157
+80094;Vila Sônia;2022;Homens;10 a 14;3772
+80094;Vila Sônia;2022;Homens;15 a 19;3604
+80094;Vila Sônia;2022;Homens;20 a 24;4066
+80094;Vila Sônia;2022;Homens;25 a 29;4271
+80094;Vila Sônia;2022;Homens;30 a 34;4605
+80094;Vila Sônia;2022;Homens;35 a 39;5030
+80094;Vila Sônia;2022;Homens;40 a 44;4942
+80094;Vila Sônia;2022;Homens;45 a 49;4348
+80094;Vila Sônia;2022;Homens;50 a 54;3798
+80094;Vila Sônia;2022;Homens;55 a 59;3323
+80094;Vila Sônia;2022;Homens;60 a 64;2868
+80094;Vila Sônia;2022;Homens;65 a 69;2302
+80094;Vila Sônia;2022;Homens;70 a 74;1685
+80094;Vila Sônia;2022;Homens;75 e + ;2090
+80094;Vila Sônia;2022;Mulheres;00 a 04;3644
+80094;Vila Sônia;2022;Mulheres;05 a 09;3966
+80094;Vila Sônia;2022;Mulheres;10 a 14;3585
+80094;Vila Sônia;2022;Mulheres;15 a 19;3491
+80094;Vila Sônia;2022;Mulheres;20 a 24;3908
+80094;Vila Sônia;2022;Mulheres;25 a 29;4275
+80094;Vila Sônia;2022;Mulheres;30 a 34;4857
+80094;Vila Sônia;2022;Mulheres;35 a 39;5474
+80094;Vila Sônia;2022;Mulheres;40 a 44;5573
+80094;Vila Sônia;2022;Mulheres;45 a 49;5007
+80094;Vila Sônia;2022;Mulheres;50 a 54;4361
+80094;Vila Sônia;2022;Mulheres;55 a 59;3877
+80094;Vila Sônia;2022;Mulheres;60 a 64;3508
+80094;Vila Sônia;2022;Mulheres;65 a 69;3068
+80094;Vila Sônia;2022;Mulheres;70 a 74;2480
+80094;Vila Sônia;2022;Mulheres;75 e + ;3513
+80095;São Domingos;2022;Homens;00 a 04;2496
+80095;São Domingos;2022;Homens;05 a 09;2640
+80095;São Domingos;2022;Homens;10 a 14;2589
+80095;São Domingos;2022;Homens;15 a 19;2606
+80095;São Domingos;2022;Homens;20 a 24;2987
+80095;São Domingos;2022;Homens;25 a 29;3172
+80095;São Domingos;2022;Homens;30 a 34;3331
+80095;São Domingos;2022;Homens;35 a 39;3511
+80095;São Domingos;2022;Homens;40 a 44;3312
+80095;São Domingos;2022;Homens;45 a 49;2937
+80095;São Domingos;2022;Homens;50 a 54;2747
+80095;São Domingos;2022;Homens;55 a 59;2531
+80095;São Domingos;2022;Homens;60 a 64;2151
+80095;São Domingos;2022;Homens;65 a 69;1642
+80095;São Domingos;2022;Homens;70 a 74;1198
+80095;São Domingos;2022;Homens;75 e + ;1403
+80095;São Domingos;2022;Mulheres;00 a 04;2384
+80095;São Domingos;2022;Mulheres;05 a 09;2524
+80095;São Domingos;2022;Mulheres;10 a 14;2476
+80095;São Domingos;2022;Mulheres;15 a 19;2587
+80095;São Domingos;2022;Mulheres;20 a 24;3009
+80095;São Domingos;2022;Mulheres;25 a 29;3173
+80095;São Domingos;2022;Mulheres;30 a 34;3359
+80095;São Domingos;2022;Mulheres;35 a 39;3673
+80095;São Domingos;2022;Mulheres;40 a 44;3664
+80095;São Domingos;2022;Mulheres;45 a 49;3356
+80095;São Domingos;2022;Mulheres;50 a 54;3119
+80095;São Domingos;2022;Mulheres;55 a 59;2927
+80095;São Domingos;2022;Mulheres;60 a 64;2648
+80095;São Domingos;2022;Mulheres;65 a 69;2205
+80095;São Domingos;2022;Mulheres;70 a 74;1734
+80095;São Domingos;2022;Mulheres;75 e + ;2514
+80096;Lajeado;2022;Homens;00 a 04;6879
+80096;Lajeado;2022;Homens;05 a 09;6938
+80096;Lajeado;2022;Homens;10 a 14;6384
+80096;Lajeado;2022;Homens;15 a 19;6381
+80096;Lajeado;2022;Homens;20 a 24;7646
+80096;Lajeado;2022;Homens;25 a 29;7951
+80096;Lajeado;2022;Homens;30 a 34;7509
+80096;Lajeado;2022;Homens;35 a 39;6944
+80096;Lajeado;2022;Homens;40 a 44;6107
+80096;Lajeado;2022;Homens;45 a 49;5570
+80096;Lajeado;2022;Homens;50 a 54;4973
+80096;Lajeado;2022;Homens;55 a 59;4045
+80096;Lajeado;2022;Homens;60 a 64;3255
+80096;Lajeado;2022;Homens;65 a 69;2425
+80096;Lajeado;2022;Homens;70 a 74;1580
+80096;Lajeado;2022;Homens;75 e + ;1415
+80096;Lajeado;2022;Mulheres;00 a 04;6549
+80096;Lajeado;2022;Mulheres;05 a 09;6608
+80096;Lajeado;2022;Mulheres;10 a 14;6063
+80096;Lajeado;2022;Mulheres;15 a 19;6175
+80096;Lajeado;2022;Mulheres;20 a 24;7656
+80096;Lajeado;2022;Mulheres;25 a 29;8124
+80096;Lajeado;2022;Mulheres;30 a 34;7730
+80096;Lajeado;2022;Mulheres;35 a 39;7276
+80096;Lajeado;2022;Mulheres;40 a 44;6704
+80096;Lajeado;2022;Mulheres;45 a 49;6183
+80096;Lajeado;2022;Mulheres;50 a 54;5608
+80096;Lajeado;2022;Mulheres;55 a 59;4758
+80096;Lajeado;2022;Mulheres;60 a 64;3948
+80096;Lajeado;2022;Mulheres;65 a 69;3020
+80096;Lajeado;2022;Mulheres;70 a 74;2079
+80096;Lajeado;2022;Mulheres;75 e + ;2246
