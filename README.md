@@ -50,7 +50,7 @@ uma sugestão de ordem didática para os notebooks.
 ## Requisitos
 
 🐍 Assumimos que você já saiba o básico de Python. Caso não saiba, veja nosso 
-[notebook de Python básico](80_material-complementar/00_tutorial-python.ipynb) 
+[notebook de Python básico](03_introducao-basica/10_introducao-ao-python.ipynb) 
 ou faça o curso do [Núcleo de Tecnologia](http://nucleodetecnologia.com.br)! 🚩
 
 💻 Você tem 3 opções para abrir e executar os notebooks: localmente, no

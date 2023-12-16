@@ -16,4 +16,4 @@ venv.bak/
 # Dados
 06_expectativa-de-vida/dados/limpos/obitos-resid_por_idade_distrito-resid_2010-2019_limpo.csv
 90_dados/SIRGAS_SHP_distrito
-.01_financiamento-eleitoral/dados/brutos
+.05_financiamento-eleitoral/dados/brutos
