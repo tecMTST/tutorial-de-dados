@@ -56,7 +56,8 @@ class VotacaoSecaoDownloader(DataDownloader):
         for ano in tqdm(anos, desc="Descompactando zipfile"):
             zip_file_path = os.path.join(self.votacao_secao_dir, f'resultado_{ano}_{uf}.zip')
             csv_file_path = os.path.join(self.base_dir, uf, str(ano))
-            self.unzip_file(zip_file_path, csv_file_path)
+            file_name = f'votacao_secao_{ano}_{uf}.csv'
+            self.unzip_file(zip_file_path, file_name, csv_file_path)
 
 class PrestacaoContasDownloader(DataDownloader):
     def download(self, anos):
@@ -115,6 +116,40 @@ class CandidatoDownloader(DataDownloader):
             zip_file_path = os.path.join(coligacao_dir, f'candidato_{ano}.zip')
             csv_file_path = os.path.join(self.base_dir, uf, str(ano))
             file_name = f'consulta_cand_{ano}_{uf}.csv'
+            self.unzip_file(zip_file_path, file_name, csv_file_path)
+
+class PrestacaoDeContasDownloader(DataDownloader):
+    def __init__(self, base_dir='dados/brutos'):
+        super().__init__(base_dir)
+        self.coligacao_dir = os.path.join(base_dir, 'prestacao_de_contas_eleitorais_candidatos')
+        self._create_directories()
+
+    def _create_directories(self):
+        super()._create_global_directories()
+        # Cria o diretório específico para coligacao
+        if not os.path.exists(self.coligacao_dir):
+            os.makedirs(self.coligacao_dir)
+
+    def download(self, anos):
+        for ano in tqdm(anos, desc="Downloading Coligação Secao"):
+            url = f'{self.base_url}prestacao_contas/prestacao_de_contas_eleitorais_candidatos_{ano}.zip'
+            file_destination = os.path.join(self.coligacao_dir, f'prestacao_de_contas_eleitorais_candidatos_{ano}.zip')
+            self.download_file(url, file_destination)
+
+    def unzip_receitas_candidatos_doador_originario(self, anos, uf):
+        coligacao_dir = os.path.join(self.base_dir, 'prestacao_de_contas_eleitorais_candidatos')
+        for ano in tqdm(anos, desc="Descompactando zipfile"):
+            zip_file_path = os.path.join(coligacao_dir, f'prestacao_de_contas_eleitorais_candidatos_{ano}.zip')
+            csv_file_path = os.path.join(self.base_dir, uf, str(ano))
+            file_name = f'receitas_candidatos_doador_originario_{ano}_{uf}.csv'
+            self.unzip_file(zip_file_path, file_name, csv_file_path)
+    
+    def unzip_receita_candidatos(self, anos, uf):
+        coligacao_dir = os.path.join(self.base_dir, 'prestacao_de_contas_eleitorais_candidatos')
+        for ano in tqdm(anos, desc="Descompactando zipfile"):
+            zip_file_path = os.path.join(coligacao_dir, f'prestacao_de_contas_eleitorais_candidatos_{ano}.zip')
+            csv_file_path = os.path.join(self.base_dir, uf, str(ano))
+            file_name = f'receitas_candidatos_{ano}_{uf}.csv'
             self.unzip_file(zip_file_path, file_name, csv_file_path)
 
 if __name__ == "__main__":
