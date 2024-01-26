@@ -20,3 +20,6 @@ venv.bak/
 
 # Internos
 docs/
+
+# Gráficos gerados pelos notebooks
+10_desigualdade_2017-2022/graficos/*.png
