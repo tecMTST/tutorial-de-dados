@@ -119,3 +119,22 @@ def multiple_bars_plot(df, colors=None, alpha=None, err=None, width=0.8, rotatio
     else:
         ax.set_xticks(ind)
         ax.set_xticklabels(rows, rotation=rotation)
+
+def graf_barra_2(df, xmin=-1, xmax=90, cmap='tab10', alpha=0.5, ylabel=None, ylim=None, grid_axis=None):
+    """
+    Cria dois gráficos de barras, um com a primeira coluna de 
+    `df` (DataFrame) e outro com a segunda. O índice de `df`
+    serve de eixo x. Assumimos que só existem duas colunas em 
+    `df`.
+    """
+    cmap = pl.get_cmap(cmap)
+    for i, c in enumerate(df.columns):
+        pl.subplot(2, 1, i + 1)
+        pl.bar(df.index, df.iloc[:, i], color=cmap(i), alpha=alpha, label=c)
+        pl.xlim([xmin, xmax])
+        pl.ylim(ylim)
+        pl.ylabel(ylabel)
+        pl.legend()
+        if grid_axis != None:
+            pl.grid(axis=grid_axis)
+    pl.subplots_adjust(hspace=0)
